@@ -1,0 +1,14 @@
+{
+    "urls": [
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=AIIMS",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=Engineering",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=SRM",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=Manipal",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=NIT",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=BITS",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=Technological",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=IIT",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=IIIT",
+        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=VIT"
+    ]
+}
