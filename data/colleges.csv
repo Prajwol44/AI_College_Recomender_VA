@@ -1,8 +1,49 @@
-College Name,Stream,Location,Exams Accepted,Rank,Fees
-IIT Bombay,Engineering,Mumbai,JEE Advanced,3,220000
-AIIMS Delhi,Medical,Delhi,NEET,1,10000
-SRCC,Commerce,Delhi,CUET,2,15000
-VIT Vellore,Engineering,Vellore,VITEEE,17,190000
-BITS Pilani,Engineering,Pilani,BITSAT,4,250000
-CMC Vellore,Medical,Vellore,NEET,3,5000
-NLSIU Bangalore,Law,Bangalore,CLAT,1,270000
+College Name,Stream,Location,Exams Accepted,Rank,Fees,Website,Placement_Avg,Placement_Top,Hostel_Fees,Student_Sentiment
+IIT Bombay,Engineering,Mumbai,"JEE Advanced, MHT-CET",1,220000,https://www.iitb.ac.in/,2100000,4500000,70000,0.92
+AIIMS Delhi,Medical,Delhi,NEET,1,10000,https://www.aiims.edu/,NA,NA,40000,0.95
+SRCC,Commerce,Delhi,CUET,1,15000,https://www.srcc.edu/,1800000,3500000,65000,0.89
+VIT Vellore,Engineering,Vellore,"VITEEE, JEE Main",17,190000,https://vit.ac.in/,900000,1800000,75000,0.78
+BITS Pilani,Engineering,Pilani,BITSAT,4,250000,https://www.bits-pilani.ac.in/,1500000,3000000,80000,0.85
+CMC Vellore,Medical,Vellore,NEET,3,5000,https://www.cmch-vellore.edu/,NA,NA,35000,0.91
+NLSIU Bangalore,Law,Bangalore,CLAT,1,270000,https://www.nls.ac.in/,1600000,3500000,90000,0.88
+St. Stephen's College,Arts,Delhi,CUET,2,12000,https://www.ststephens.edu/,800000,2000000,60000,0.93
+IIM Ahmedabad,Management,Ahmedabad,CAT,1,230000,https://www.iima.ac.in/,2500000,5800000,120000,0.94
+NID Ahmedabad,Design,Ahmedabad,NID DAT,1,350000,https://www.nid.edu/,1200000,2800000,110000,0.87
+PES University,Engineering,Bangalore,"KCET, COMEDK",25,210000,https://pes.edu/,1100000,2200000,85000,0.81
+Christ University,Management,Bangalore,Christ Entrance,8,180000,https://christuniversity.in/,1400000,2600000,70000,0.83
+Jadavpur University,Engineering,Kolkata,"WBJEE, JEE Main",10,80000,https://www.jaduniv.edu.in/,1000000,1900000,30000,0.84
+AFMC Pune,Medical,Pune,NEET,5,15000,https://www.afmc.nic.in/,NA,NA,45000,0.90
+Symbiosis Law School,Law,Pune,SLAT,7,320000,https://www.symlaw.edu.in/,1400000,3000000,95000,0.82
+Loyola College,Commerce,Chennai,"CUCET, State Board",6,35000,https://www.loyolacollege.edu/,1000000,1800000,40000,0.88
+Delhi Technological University,Engineering,Delhi,"JEE Main, IPU CET",24,150000,https://dtu.ac.in/,900000,1600000,60000,0.79
+JIPMER Puducherry,Medical,Puducherry,NEET,4,12000,https://jipmer.edu.in/,NA,NA,30000,0.91
+Xavier's College,Mumbai,Arts,"HSC, CUET",9,45000,https://xaviers.edu/,750000,1500000,50000,0.85
+IIFT Delhi,Management,Delhi,IIFT,12,380000,https://iift.edu/,1800000,4000000,110000,0.86
+NIFT Delhi,Design,Delhi,NIFT,3,280000,https://www.nift.ac.in/,1000000,2200000,90000,0.83
+Manipal Institute of Technology,Engineering,Manipal,"MET, JEE Main",20,380000,https://manipal.edu/,1200000,2500000,100000,0.80
+KIIT Bhubaneswar,Engineering,Bhubaneswar,"KIITEE, JEE Main",32,240000,https://kiit.ac.in/,800000,1500000,75000,0.77
+Amity University,Management,Noida,Amity JEE,35,300000,https://www.amity.edu/,900000,2000000,85000,0.75
+TISS Mumbai,Social Work,Mumbai,TISS NET,5,80000,https://www.tiss.edu/,1000000,1800000,45000,0.88
+NIT Trichy,Engineering,Trichy,"JEE Main, TNEA",7,150000,https://www.nitt.edu/,1300000,2500000,55000,0.86
+AIIMS Jodhpur,Medical,Jodhpur,NEET,15,15000,https://www.aiimsjodhpur.edu.in/,NA,NA,35000,0.84
+NMIMS Mumbai,Management,Mumbai,NMAT,18,400000,https://nmims.edu/,1500000,3200000,120000,0.82
+SRM Institute of Science and Technology,Engineering,Chennai,"SRMJEE, JEE Main",28,280000,https://www.srmist.edu.in/,900000,1700000,80000,0.78
+IIIT Hyderabad,Engineering,Hyderabad,"JEE Main, State CET",11,240000,https://www.iiit.ac.in/,1800000,3500000,85000,0.89
+DAV College,Commerce,Chandigarh,"PU CET, CUET",40,25000,https://davchd.ac.in/,600000,1200000,30000,0.80
+Government Law College,Law,Mumbai,"MH CET Law, CLAT",14,50000,https://glcmumbai.com/,900000,1600000,40000,0.83
+MS Ramaiah Medical College,Medical,Bangalore,NEET,22,200000,https://www.msrmc.ac.in/,NA,NA,60000,0.81
+Pearl Academy,Design,Jaipur,Pearl Academy Entrance,8,350000,https://www.pearlacademy.com/,850000,1800000,90000,0.79
+Ashoka University,Arts,Sonepat,"SAT, Ashoka Aptitude",16,800000,https://www.ashoka.edu.in/,950000,2000000,110000,0.87
+VJTI Mumbai,Engineering,Mumbai,MHT-CET,19,120000,https://vjti.ac.in/,1100000,2200000,50000,0.84
+Jamia Hamdard,Pharmacy,New Delhi,"NEET, Jamia Entrance",27,180000,https://jamiahamdard.edu/,700000,1500000,45000,0.80
+Gujarat National Law University,Law,Gandhinagar,CLAT,6,210000,https://www.gnlu.ac.in/,1200000,2500000,70000,0.85
+SVKM's NMIMS,Pharmacy,Mumbai,"NIPER JEE, State CET",33,160000,https://pharmacy.nmims.edu/,650000,1300000,55000,0.78
+IIM Bangalore,Management,Bangalore,CAT,2,240000,https://www.iimb.ac.in/,2300000,5000000,110000,0.93
+Banasthali Vidyapith,Arts,Banasthali,"Banasthali Entrance, CBSE",29,90000,https://www.banasthali.org/,650000,1200000,35000,0.82
+Thapar Institute of Engineering,Engineering,Patiala,"JEE Main, State CET",26,310000,https://thapar.edu/,1100000,2200000,80000,0.81
+University of Hyderabad,Science,Hyderabad,"CUET, State CET",13,50000,https://uohyd.ac.in/,950000,1800000,40000,0.86
+Amrita Vishwa Vidyapeetham,Engineering,Coimbatore,"Amrita Entrance, JEE Main",30,270000,https://www.amrita.edu/,1000000,1900000,75000,0.83
+Tata Institute of Social Sciences,Humanities,Mumbai,TISS NET,9,70000,https://www.tiss.edu/,900000,1700000,40000,0.87
+Srishti Institute of Art,Design,Bangalore,Srishti Entrance,12,320000,https://srishti.ac.in/,850000,1700000,85000,0.84
+Lovely Professional University,Management,Phagwara,LPUNEST,45,160000,https://www.lpu.in/,700000,1500000,60000,0.76
+Chandigarh University,Engineering,Mohali,"CUCET, JEE Main",38,180000,https://www.cuchd.in/,800000,1600000,65000,0.79

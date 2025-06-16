@@ -1,0 +1,5 @@
+{
+  "exclude": ["**/__pycache__", "**/.git", "**/.env"],
+  "extraPaths": ["./venv/lib/python3.11/site-packages"],
+  "typeCheckingMode": "off"
+}
