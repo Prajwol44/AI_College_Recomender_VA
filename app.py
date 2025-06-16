@@ -1,15 +1,15 @@
-import streamlit as st # type: ignore
-import pandas as pd # type: ignore
+import streamlit as st 
+import pandas as pd 
 import numpy as np
 import re
-from textblob import TextBlob # type: ignore
-import matplotlib.pyplot as plt # type: ignore
-from wordcloud import WordCloud # type: ignore
+from textblob import TextBlob 
+import matplotlib.pyplot as plt 
+from wordcloud import WordCloud 
 import time
-import plotly.express as px # type: ignore
-import plotly.graph_objects as go # type: ignore
+import plotly.express as px 
+import plotly.graph_objects as go
 
-# ✅ MUST be the first Streamlit command
+#  MUST be the first Streamlit command
 st.set_page_config(
     page_title="AI College Assistant",
     page_icon="🎓",
@@ -155,7 +155,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# 🔄 Load college data with caching
+# Load college data with caching
 @st.cache_data
 def load_data():
     """Load college data from CSV file"""
@@ -180,7 +180,7 @@ def load_data():
         return df
         
     except FileNotFoundError:
-        st.error("❌ Could not find 'data/colleges.csv'. Please ensure the file exists.")
+        st.error(" Could not find 'data/colleges.csv'. Please ensure the file exists.")
         st.info("Expected CSV structure:")
         st.code("""
 College Name,Stream,Location,Rank,Fees,Exams Accepted,Website
@@ -192,7 +192,7 @@ AIIMS Delhi,Medical,Delhi,1,100000,NEET,https://www.aiims.edu/
         return pd.DataFrame()
         
     except Exception as e:
-        st.error(f"❌ Error loading CSV file: {str(e)}")
+        st.error(f" Error loading CSV file: {str(e)}")
         return pd.DataFrame()
 
 # Load the data
@@ -202,7 +202,7 @@ college_df = load_data()
 if college_df.empty:
     st.stop()  # Stop execution if no data is available
 
-# 🧠 NLP Functions
+#  NLP Functions
 def analyze_sentiment(query):
     """Analyze sentiment of user query"""
     try:
@@ -309,9 +309,9 @@ def generate_response(user_input):
     response = ""
     
     if sentiment > 0.3:
-        greeting = "🌟 Great to hear your enthusiasm! "
+        greeting = " Great to hear your enthusiasm! "
     elif sentiment < -0.3:
-        greeting = "💙 I understand this can be stressful. "
+        greeting = " I understand this can be stressful. "
     else:
         greeting = "✨ "
     
@@ -333,40 +333,40 @@ def generate_response(user_input):
     
     # Add college recommendations
     if not results.empty:
-        response += "\n\n🏫 **Top Recommendations:**"
+        response += "\n\n **Top Recommendations:**"
         for i, row in results.iterrows():
             response += f"""
             
 <div class="college-card">
 <h3>🎓 {row['College Name']}</h3>
-<p><strong>📍 Location:</strong> {row['Location']}</p>
-<p><strong>🧪 Stream:</strong> {row['Stream']}</p>
-<p><strong>📝 Exams:</strong> {row['Exams Accepted']}</p>
-<p><strong>🏆 Rank:</strong> #{row['Rank']}</p>
-<p><strong>💰 Fees:</strong> ₹{int(row['Fees']):,}/year</p>
-<p><strong>🔗 Website:</strong> <a href="{row['Website']}" target="_blank" style="color: white;">Visit Website</a></p>
+<p><strong> Location:</strong> {row['Location']}</p>
+<p><strong> Stream:</strong> {row['Stream']}</p>
+<p><strong> Exams:</strong> {row['Exams Accepted']}</p>
+<p><strong> Rank:</strong> #{row['Rank']}</p>
+<p><strong> Fees:</strong> ₹{int(row['Fees']):,}/year</p>
+<p><strong> Website:</strong> <a href="{row['Website']}" target="_blank" style="color: white;">Visit Website</a></p>
 </div>
             """
     else:
-        response += "\n\n😞 I couldn't find colleges matching all your criteria. Try broadening your search or ask me about specific streams!"
+        response += "\n\n I couldn't find colleges matching all your criteria. Try broadening your search or ask me about specific streams!"
     
-    response += "\n\n💬 **How else can I assist with your college search?**"
+    response += "\n\n **How else can I assist with your college search?**"
     
     return response
 
-# 🧠 Initialize session state
+#  Initialize session state
 if "conversation" not in st.session_state:
     st.session_state.conversation = [
         {"role": "assistant", "content": "Hi there! 👋 I'm your AI College Assistant. I can help you find the perfect college in India after 12th grade. Tell me about your preferences - what stream are you interested in? (Engineering, Medical, Commerce, etc.)"}
     ]
 
-# 📊 Sidebar for additional features
+#  Sidebar for additional features
 with st.sidebar:
-    st.markdown('<div class="sidebar-header">📊 College Insights</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sidebar-header"> College Insights</div>', unsafe_allow_html=True)
     
     if not college_df.empty:
         # Stream distribution with Plotly
-        st.subheader("🎯 Popular Streams")
+        st.subheader(" Popular Streams")
         stream_counts = college_df['Stream'].value_counts()
         
         fig_pie = px.pie(
@@ -383,7 +383,7 @@ with st.sidebar:
         st.plotly_chart(fig_pie, use_container_width=True)
         
         # Location distribution
-        st.subheader("📍 Top Locations")
+        st.subheader(" Top Locations")
         location_counts = college_df['Location'].value_counts().head(5)
         
         fig_bar = px.bar(
@@ -403,7 +403,7 @@ with st.sidebar:
         st.plotly_chart(fig_bar, use_container_width=True)
         
         # Fees distribution
-        st.subheader("💰 Fee Range Analysis")
+        st.subheader(" Fee Range Analysis")
         fig_hist = px.histogram(
             college_df,
             x='Fees',
@@ -420,7 +420,7 @@ with st.sidebar:
         
         # Sentiment distribution
         if 'Sentiment Score' in college_df.columns:
-            st.subheader("😊 Student Satisfaction")
+            st.subheader(" Student Satisfaction")
             avg_sentiment = college_df['Sentiment Score'].mean()
             
             # Create a gauge chart
@@ -455,14 +455,14 @@ with st.sidebar:
             st.markdown('<div class="metric-card">', unsafe_allow_html=True)
             col1, col2 = st.columns(2)
             with col1:
-                st.metric("📊 Total Colleges", len(college_df))
+                st.metric(" Total Colleges", len(college_df))
             with col2:
-                st.metric("🎯 Avg Rank", f"{college_df['Rank'].mean():.1f}")
+                st.metric(" Avg Rank", f"{college_df['Rank'].mean():.1f}")
             st.markdown('</div>', unsafe_allow_html=True)
     else:
         st.error("No data available. Please check your CSV file.")
 
-# 🧠 Main Chat Interface
+#  Main Chat Interface
 st.markdown('<h1 class="main-title">🎓 AI College Assistant</h1>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">Your personalized guide to finding the perfect college in India</p>', unsafe_allow_html=True)
 
@@ -476,14 +476,14 @@ for message in st.session_state.conversation:
 st.markdown('</div>', unsafe_allow_html=True)
 
 # User input
-user_input = st.chat_input("🗨️ Ask about colleges...")
+user_input = st.chat_input(" Ask about colleges...")
 
 if user_input:
     # Add user message to conversation
     st.session_state.conversation.append({"role": "user", "content": user_input})
     
     # Generate and display AI response
-    with st.spinner("🤔 Analyzing your preferences..."):
+    with st.spinner(" Analyzing your preferences..."):
         ai_response = generate_response(user_input)
         st.session_state.conversation.append({"role": "assistant", "content": ai_response})
     
@@ -493,7 +493,7 @@ if user_input:
 # Reset button
 col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
-    if st.button("🔄 Start New Conversation", use_container_width=True):
+    if st.button(" Start New Conversation", use_container_width=True):
         st.session_state.conversation = [
             {"role": "assistant", "content": "Hi there! 👋 I'm your AI College Assistant. Where shall we start today?"}
         ]
