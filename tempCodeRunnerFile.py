@@ -1,1 +1,1 @@
-college_dataset.json
+"score": college.get("reviewsData")['avg_total'],

@@ -1,793 +1,102 @@
 {
+    "25446": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/149154157555.jpg",
+        "url": "university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi",
+        "approvals": "MCI, UGC"
+    },
     "25703": {
-        "name": "IIT Bombay - Indian Institute of Technology - [IITB], Mumbai, India",
-        "rating": 10,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25703-iit-bombay-indian-institute-of-technology-iitb-mumbai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1431953162ccgsygdygw.jpg"
+        "name": "IIT Bombay - Indian Institute of Technology - [IITB]",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1431953162ccgsygdygw.jpg",
+        "url": "university/25703-iit-bombay-indian-institute-of-technology-iitb-mumbai",
+        "approvals": "AICTE, UGC"
     },
     "25455": {
-        "name": "IIT Delhi - Indian Institute of Technology [IITD], New Delhi, India",
-        "rating": 9.9976,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25455-iit-delhi-indian-institute-of-technology-iitd-new-delhi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/col27802.gif"
+        "name": "IIT Delhi - Indian Institute of Technology [IITD]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/col27802.gif",
+        "url": "university/25455-iit-delhi-indian-institute-of-technology-iitd-new-delhi",
+        "approvals": []
+    },
+    "7798": {
+        "name": "Vardhman Mahavir Medical College - [VMMC]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1416308036vmmc-logo1.jpg",
+        "url": "college/7798-vardhman-mahavir-medical-college-vmmc-new-delhi",
+        "approvals": "MCI"
+    },
+    "10842": {
+        "name": "Post Graduate Institute of Medical Education & Research - [PGIMER]",
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "rating": "10.0",
+        "score": 3.9,
+        "logo": "public/college_data/images/logos/1715079781Screenshotfrom20240507163242.png",
+        "url": "university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh",
+        "approvals": "INC, MCI, UGC"
     },
     "25881": {
-        "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai, India",
-        "rating": 9.9952,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1434977143jpjpjpjpj.jpg"
+        "name": "IIT Madras - Indian Institute of Technology - [IITM]",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1434977143jpjpjpjpj.jpg",
+        "url": "university/25881-iit-madras-indian-institute-of-technology-iitm-chennai",
+        "approvals": "AICTE"
+    },
+    "25494": {
+        "name": "IIMA - Indian Institute of Management",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "rating": "10.0",
+        "score": 4.5,
+        "logo": "public/college_data/images/logos/1701684988Screenshot20231204at3.46.10PM.png",
+        "url": "university/25494-iima-indian-institute-of-management-ahmedabad",
+        "approvals": "UGC"
+    },
+    "10343": {
+        "name": "Christian Medical College - [CMC]",
+        "city": "Vellore",
+        "state": "Tamil Nadu",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1458024878logo.jpg",
+        "url": "college/10343-christian-medical-college-cmc-vellore",
+        "approvals": "INC, MCI"
     },
     "25948": {
-        "name": "IIT Kanpur - Indian Institute of Technology - [IITK], Kanpur, India",
-        "rating": 9.9928,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25948-iit-kanpur-indian-institute-of-technology-iitk-kanpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1408554560logo.png"
+        "name": "IIT Kanpur - Indian Institute of Technology - [IITK]",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1408554560logo.png",
+        "url": "university/25948-iit-kanpur-indian-institute-of-technology-iitk-kanpur",
+        "approvals": "UGC"
     },
     "26007": {
-        "name": "IIT Kharagpur - Indian Institute of Technology - [IITKGP], Kharagpur, India",
-        "rating": 9.9904,
-        "score": 953,
-        "url": "https://collegedunia.com/university/26007-iit-kharagpur-indian-institute-of-technology-iitkgp-kharagpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1489041138e2.jpg"
-    },
-    "25992": {
-        "name": "IIT Roorkee - Indian Institute of Technology - [IITR], Roorkee, India",
-        "rating": 9.988,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25992-iit-roorkee-indian-institute-of-technology-iitr-roorkee",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1431775682rajiv.jpg"
-    },
-    "25396": {
-        "name": "IIT Guwahati - Indian Institute of Technology - [IITG], Guwahati, India",
-        "rating": 9.9856,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1394864902Indian Institute of Technology - IIT Guwahati.png"
-    },
-    "25356": {
-        "name": "IIT Hyderabad - Indian Institute of Technology - [IITH], Hyderabad, India",
-        "rating": 9.9808,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png"
-    },
-    "25947": {
-        "name": "IIT BHU - Indian Institute of Technology, Varanasi, India",
-        "rating": 9.9784,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25947-iit-bhu-indian-institute-of-technology-varanasi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1409982980bhu logo.jpg"
-    },
-    "25559": {
-        "name": "IIT Mandi- Indian Institute of Technology - [IITM], Mandi, India",
-        "rating": 9.9616,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25559-iit-mandi-indian-institute-of-technology-iitm-mandi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1509514767Logo.jpg"
-    },
-    "25495": {
-        "name": "IIT Gandhinagar - Indian Institute of Technology - [IITG], Gandhinagar, India",
-        "rating": 9.9568,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25495-iit-gandhinagar-indian-institute-of-technology-iitg-gandhinagar",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/col27839.png"
-    },
-    "28194": {
-        "name": "IIT Jodhpur - Indian Institute of Technology - [IITJ], Jodhpur, India",
-        "rating": 9.9544,
-        "score": 953,
-        "url": "https://collegedunia.com/university/28194-iit-jodhpur-indian-institute-of-technology-iitj-jodhpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1735023717Screenshot24122024123132iitj.ac.in.jpeg"
-    },
-    "25759": {
-        "name": "IIT Bhubaneswar - Indian Institute of Technology - [IITBBS], Bhubaneswar, India",
-        "rating": 9.9328,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25759-iit-bhubaneswar-indian-institute-of-technology-iitbbs-bhubaneswar",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/148491861525759p.png"
-    },
-    "25666": {
-        "name": "IIT Indore - Indian Institute of Technology - [IITI], Indore, India",
-        "rating": 9.9208,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25666-iit-indore-indian-institute-of-technology-iiti-indore",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1489660034c.jpg"
-    },
-    "25786": {
-        "name": "IIT Ropar - Indian Institute of Technology - [IITR], Ropar, India",
-        "rating": 9.9184,
-        "score": 953,
-        "url": "https://collegedunia.com/university/25786-iit-ropar-indian-institute-of-technology-iitr-ropar",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1432040984jp.jpg"
-    },
-    "25367": {
-        "name": "NIT Warangal, Warangal, India",
-        "rating": 9.9688,
-        "score": 955,
-        "url": "https://collegedunia.com/university/25367-nit-warangal-warangal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1681130593Screenshot20230410180621.jpg"
-    },
-    "25399": {
-        "name": "NIT Silchar, Silchar, India",
-        "rating": 9.8392,
-        "score": 955,
-        "url": "https://collegedunia.com/university/25399-nit-silchar-silchar",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1394865664National Institute of Technology - NIT Silchar.png"
-    },
-    "25889": {
-        "name": "NIT Trichy, Tiruchirappalli, India",
-        "rating": 3.9568,
-        "score": 951,
-        "url": "https://collegedunia.com/university/25889-nit-trichy-tiruchirappalli",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1593757072download.png"
-    },
-    "25620": {
-        "name": "National Institute of Technology - [NITK], Surathkal, India",
-        "rating": 9.9736,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25620-national-institute-of-technology-nitk-surathkal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1503895670col27813.jpg"
-    },
-    "25961": {
-        "name": "MNNIT Allahabad - Motilal Nehru National Institute of Technology - [MNNIT], Allahabad, India",
-        "rating": 9.9544,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25961-mnnit-allahabad-motilal-nehru-national-institute-of-technology-mnnit-allahabad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1503636333logoMNNIT.jpg"
-    },
-    "25733": {
-        "name": "Visvesvaraya National Institute of Technology - [VNIT], Nagpur, India",
-        "rating": 9.9256,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25733-visvesvaraya-national-institute-of-technology-vnit-nagpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1692850103VNITlogo.jpeg"
-    },
-    "25464": {
-        "name": "National Institute of Technology - [NIT], New Delhi, India",
-        "rating": 9.9088,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25464-national-institute-of-technology-nit-new-delhi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1509002389logo.png"
-    },
-    "25828": {
-        "name": "Malaviya National Institute of Technology - [MNIT], Jaipur, India",
-        "rating": 9.9064,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25828-malaviya-national-institute-of-technology-mnit-jaipur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1505911297logo.jpg"
-    },
-    "25509": {
-        "name": "Sardar Vallabhbhai National Institute of Technology - [SVNIT], Surat, India",
-        "rating": 9.8968,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25509-sardar-vallabhbhai-national-institute-of-technology-svnit-surat",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1409389403surat logo.jpg"
-    },
-    "25584": {
-        "name": "National Institute of Technology - [NIT], Jamshedpur, India",
-        "rating": 9.892,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25584-national-institute-of-technology-nit-jamshedpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/col27881.jpg"
-    },
-    "26009": {
-        "name": "National Institute of Technology - [NIT], Durgapur, India",
-        "rating": 9.8896,
-        "score": 679,
-        "url": "https://collegedunia.com/university/26009-national-institute-of-technology-nit-durgapur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1405687850download.jpg"
-    },
-    "25781": {
-        "name": "Dr BR Ambedkar National Institute of Technology - [NIT], Jalandhar, India",
-        "rating": 9.8728,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25781-dr-br-ambedkar-national-institute-of-technology-nit-jalandhar",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1432035302jp.jpg"
-    },
-    "25679": {
-        "name": "Maulana Azad National Institute of Technology  - [MANIT], Bhopal, India",
-        "rating": 9.868,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25679-maulana-azad-national-institute-of-technology-manit-bhopal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1489573329vmnerksld.jpg"
-    },
-    "25540": {
-        "name": "National Institute of Technology - [NIT], Kurukshetra, India",
-        "rating": 9.8656,
-        "score": 679,
-        "url": "https://collegedunia.com/university/25540-national-institute-of-technology-nit-kurukshetra",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/col27821.png"
-    },
-    "28197": {
-        "name": "National Institute of Technology - [NIT] Uttarakhand, Srinagar Garhwal, India",
-        "rating": 9.8608,
-        "score": 679,
-        "url": "https://collegedunia.com/university/28197-national-institute-of-technology-nit-uttarakhand-srinagar-garhwal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1746079782uttr.png"
-    },
-    "25800": {
-        "name": "BITS Pilani (Pilani Campus), Pilani, India",
-        "rating": 9.9832,
-        "score": 367,
-        "url": "https://collegedunia.com/university/25800-bits-pilani-pilani-campus-pilani",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1589790676112018648848892482726766654702028085722509n.jpg"
-    },
-    "12936": {
-        "name": "BITS Engineering College - [BITSEC], Bhiwani, India",
-        "rating": 4.6936,
-        "score": 363,
-        "url": "https://collegedunia.com/college/12936-bits-engineering-college-bitsec-bhiwani",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/col12936.jpg"
-    },
-    "64066": {
-        "name": "BITS Pilani - WILP, Pilani, India",
-        "rating": 0.9777,
-        "score": 360,
-        "url": "https://collegedunia.com/college/64066-bits-pilani-wilp-pilani",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1680585086download7.png"
-    },
-    "64015": {
-        "name": "BITS Law School, Mumbai, India",
-        "rating": 0,
-        "score": 356,
-        "url": "https://collegedunia.com/college/64015-bits-law-school-mumbai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1678685836BitsomlogoSCV1.jpg"
-    },
-    "62248": {
-        "name": "BITS School of Management - [BITSoM], Mumbai, India",
-        "rating": 0,
-        "score": 356,
-        "url": "https://collegedunia.com/college/62248-bits-school-of-management-bitsom-mumbai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1611922351bitsomlogo.png"
-    },
-    "64158": {
-        "name": "BITS Institute Of Physiotherapy - [BITS], Vadodara, India",
-        "rating": 0,
-        "score": 356,
-        "url": "https://collegedunia.com/college/64158-bits-institute-of-physiotherapy-bits-vadodara",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1683789348Bitslogo.jpg"
-    },
-    "64751": {
-        "name": "Bits Design School, Mumbai, India",
-        "rating": 0,
-        "score": 356,
-        "url": "https://collegedunia.com/college/64751-bits-design-school-mumbai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1734415272BITSDESLogoPNG.png"
-    },
-    "17288": {
-        "name": "BITS Management College, Bhiwani, India",
-        "rating": 0,
-        "score": 356,
-        "url": "https://collegedunia.com/college/17288-bits-management-college-bhiwani",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1500974269szd.jpg"
-    },
-    "13090": {
-        "name": "Birla Institute of Technology and Science - [BITS], South Goa, India",
-        "rating": 9.94,
-        "score": 66,
-        "url": "https://collegedunia.com/university/13090-birla-institute-of-technology-and-science-bits-south-goa",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1715589056Screenshotfrom20240513140042.png"
-    },
-    "28467": {
-        "name": "Birla Institute of Technology and Science - [BITS], Hyderabad, India",
-        "rating": 9.9376,
-        "score": 66,
-        "url": "https://collegedunia.com/university/28467-birla-institute-of-technology-and-science-bits-hyderabad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/168560856630863881645664714649262553826169448374835n.jpeg"
-    },
-    "12960": {
-        "name": "BABA Institute of Technology and Sciences - [BITS-VIZAG], Visakhapatnam, India",
-        "rating": 7.3936,
-        "score": 65,
-        "url": "https://collegedunia.com/college/12960-baba-institute-of-technology-and-sciences-bitsvizag-visakhapatnam",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1512552765BITSLogo.png"
-    },
-    "56468": {
-        "name": "Bhopal Institute of Technology & Science - [BITS], Bhopal, India",
-        "rating": 6.7864,
-        "score": 64,
-        "url": "https://collegedunia.com/college/56468-bhopal-institute-of-technology-and-science-bits-bhopal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1469431044Untitled.png.png"
-    },
-    "13100": {
-        "name": "Bomma Institute of Technology & Science - [BITS], Khammam, India",
-        "rating": 6.2512,
-        "score": 64,
-        "url": "https://collegedunia.com/college/13100-bomma-institute-of-technology-and-science-bits-khammam",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/148162543777.jpg"
-    },
-    "3590": {
-        "name": "BITS Pilani - [BITS Dubai], Dubai, United Arab Emirates",
-        "rating": 0,
-        "score": 351,
-        "url": "https://collegedunia.com/uae/university/3590-bits-pilani-dubai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/studyabroad/logos/college_3590_24-17:47_bits.jpeg"
-    },
-    "25357": {
-        "name": "International Institute of Information Technology - [IIIT], Hyderabad, India",
-        "rating": 9.9664,
-        "score": 687,
-        "url": "https://collegedunia.com/university/25357-international-institute-of-information-technology-iiit-hyderabad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/14806773660.jpg"
-    },
-    "25945": {
-        "name": "Indian Institute of Information Technology - [IIIT], Allahabad, India",
-        "rating": 9.9568,
-        "score": 687,
-        "url": "https://collegedunia.com/university/25945-indian-institute-of-information-technology-iiit-allahabad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1507698808col27834.jpg"
-    },
-    "25604": {
-        "name": "International Institute of Information Technology - [IIIT-B], Bangalore, India",
-        "rating": 9.9328,
-        "score": 687,
-        "url": "https://collegedunia.com/university/25604-international-institute-of-information-technology-iiitb-bangalore",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1600753615iiitblogo100x95.png"
-    },
-    "55792": {
-        "name": "Indian Institute of Information Technology - [IIITL], Lucknow, India",
-        "rating": 9.9256,
-        "score": 687,
-        "url": "https://collegedunia.com/university/55792-indian-institute-of-information-technology-iiitl-lucknow",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1676537753FinalLogoIIITL.png"
-    },
-    "57979": {
-        "name": "Indian Institute of Information Technology - [IIIT], Pune, India",
-        "rating": 9.844,
-        "score": 687,
-        "url": "https://collegedunia.com/university/57979-indian-institute-of-information-technology-iiit-pune",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/148497797557979l.jpg"
-    },
-    "5843": {
-        "name": "Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Jabalpur, India",
-        "rating": 9.8368,
-        "score": 687,
-        "url": "https://collegedunia.com/university/5843-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-jabalpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1489583668logoedt.png"
-    },
-    "59204": {
-        "name": "Indian Institute of Information Technology -[IIIT], Bhopal, India",
-        "rating": 9.8272,
-        "score": 687,
-        "url": "https://collegedunia.com/university/59204-indian-institute-of-information-technology-iiit-bhopal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1621335842IIITBhopal.png"
-    },
-    "55789": {
-        "name": "Indian Institute of Information Technology Sri City - [IIIT], Sri City, India",
-        "rating": 9.8224,
-        "score": 687,
-        "url": "https://collegedunia.com/university/55789-indian-institute-of-information-technology-sri-city-iiit-sri-city",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1459771542main-thumb-t-1484467-200-bgnieqifngewehwewnvpntxcvavqvtgi.jpeg"
-    },
-    "57975": {
-        "name": "Indian Institute of Information Technology [IIIT], Kottayam, India",
-        "rating": 9.8176,
-        "score": 687,
-        "url": "https://collegedunia.com/university/57975-indian-institute-of-information-technology-iiit-kottayam",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/148420304266.jpg"
-    },
-    "59202": {
-        "name": "Indian Institute of Information Technology - [IIIT], Bhagalpur, India",
-        "rating": 9.8128,
-        "score": 687,
-        "url": "https://collegedunia.com/university/59202-indian-institute-of-information-technology-iiit-bhagalpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1504357254150dpi.png"
-    },
-    "59205": {
-        "name": "Indian Institute of Information Technology - [IIIT], Tiruchirappalli, India",
-        "rating": 9.808,
-        "score": 687,
-        "url": "https://collegedunia.com/university/59205-indian-institute-of-information-technology-iiit-tiruchirappalli",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1504517105iiittlogo.png"
-    },
-    "57972": {
-        "name": "Indian Institute of Information Technology - [IIIT], Ranchi, India",
-        "rating": 9.7792,
-        "score": 687,
-        "url": "https://collegedunia.com/university/57972-indian-institute-of-information-technology-iiit-ranchi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1556700911logo.png"
-    },
-    "28199": {
-        "name": "Indian Institute of Information Technology Design & Manufacturing - [IIITDM], Chennai, India",
-        "rating": 9.7744,
-        "score": 687,
-        "url": "https://collegedunia.com/college/28199-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1413015788download (1).jpg"
-    },
-    "55781": {
-        "name": "Indian Institute of Information Technology - [IIITD], Dharwad, India",
-        "rating": 9.7696,
-        "score": 687,
-        "url": "https://collegedunia.com/college/55781-indian-institute-of-information-technology-iiitd-dharwad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1569406626iiITDharwadLogo500.png"
-    },
-    "55782": {
-        "name": "Indian Institute of Information Technology - [IIITK], Kalyani, India",
-        "rating": 9.7672,
-        "score": 687,
-        "url": "https://collegedunia.com/university/55782-indian-institute-of-information-technology-iiitk-kalyani",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/14857579137.jpg"
-    },
-    "25446": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], New Delhi, India",
-        "rating": 10,
-        "score": 780,
-        "url": "https://collegedunia.com/university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/149154157555.jpg"
-    },
-    "25796": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Jodhpur, India",
-        "rating": 9.9808,
-        "score": 780,
-        "url": "https://collegedunia.com/university/25796-all-india-institute-of-medical-sciences-aiims-jodhpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/uv25796.jpg"
-    },
-    "25657": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Bhopal, India",
-        "rating": 9.976,
-        "score": 780,
-        "url": "https://collegedunia.com/university/25657-all-india-institute-of-medical-sciences-aiims-bhopal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1395485884All India Institute of Medical Sciences (AIIMS)B.png"
-    },
-    "25753": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Bhubaneswar, India",
-        "rating": 9.9712,
-        "score": 780,
-        "url": "https://collegedunia.com/university/25753-all-india-institute-of-medical-sciences-aiims-bhubaneswar",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1419874083images.jpg"
-    },
-    "25980": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Rishikesh, India",
-        "rating": 9.9664,
-        "score": 780,
-        "url": "https://collegedunia.com/university/25980-all-india-institute-of-medical-sciences-aiims-rishikesh",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/17477298941664107530php58WJto.jpeg"
-    },
-    "59702": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Nagpur, India",
-        "rating": 9.952,
-        "score": 780,
-        "url": "https://collegedunia.com/university/59702-all-india-institute-of-medical-sciences-aiims-nagpur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1547797227logo12.png"
-    },
-    "7538": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Raipur, India",
-        "rating": 9.9232,
-        "score": 780,
-        "url": "https://collegedunia.com/university/7538-all-india-institute-of-medical-sciences-aiims-raipur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1495713011AIIMSRaipurRecruitment2016forResearchScientistCommunityHealth1.jpg"
-    },
-    "25410": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Patna, India",
-        "rating": 9.916,
-        "score": 780,
-        "url": "https://collegedunia.com/university/25410-all-india-institute-of-medical-sciences-aiims-patna",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1508134538uv25410.jpg"
-    },
-    "60543": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Bathinda, India",
-        "rating": 9.9016,
-        "score": 780,
-        "url": "https://collegedunia.com/university/60543-all-india-institute-of-medical-sciences-aiims-bathinda",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1586161926images1.jpg"
-    },
-    "59704": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Mangalagiri, India",
-        "rating": 9.8968,
-        "score": 780,
-        "url": "https://collegedunia.com/university/59704-all-india-institute-of-medical-sciences-aiims-mangalagiri",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1714822698Screenshotfrom20240504170801.png"
-    },
-    "60634": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Rae Bareli, India",
-        "rating": 9.88,
-        "score": 780,
-        "url": "https://collegedunia.com/university/60634-all-india-institute-of-medical-sciences-aiims-rae-bareli",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1588164737aiimsrbllogo.png"
-    },
-    "61391": {
-        "name": "All India Institute of Medical Sciences - [AIIMS], Deoghar, India",
-        "rating": 9.8104,
-        "score": 780,
-        "url": "https://collegedunia.com/university/61391-all-india-institute-of-medical-sciences-aiims-deoghar",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1600340998AllIndiaInstituteofMedicalSciencesDeogharLogo.png"
-    },
-    "59253": {
-        "name": "VIT Bhopal University, Bhopal, India",
-        "rating": 8.9224,
-        "score": 352,
-        "url": "https://collegedunia.com/university/59253-vit-bhopal-university-bhopal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1619152120Untitled.png"
-    },
-    "56289": {
-        "name": "VIT Business School - [VITBS], Chennai, India",
-        "rating": 8.86114,
-        "score": 352,
-        "url": "https://collegedunia.com/college/56289-vit-business-school-vitbs-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/15072842481490340656Logo.jpg"
-    },
-    "59270": {
-        "name": "VIT University - [VIT- AP], Guntur, India",
-        "rating": 7.2496,
-        "score": 351,
-        "url": "https://collegedunia.com/university/59270-vit-university-vit-ap-guntur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1615969516Screenshot20210317134244.png"
-    },
-    "62231": {
-        "name": "VIT-AP School of Law - [VSL], Guntur, India",
-        "rating": 0,
-        "score": 342,
-        "url": "https://collegedunia.com/college/62231-vitap-school-of-law-vsl-guntur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1610949484Screenshot20210118110830.png"
-    },
-    "59371": {
-        "name": "VIT-AP School of Business - [VSB], Guntur, India",
-        "rating": 0,
-        "score": 342,
-        "url": "https://collegedunia.com/college/59371-vitap-school-of-business-vsb-guntur",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1526558086Untitled.png"
-    },
-    "55917": {
-        "name": "VIT Business School - [VITBS], Vellore, India",
-        "rating": 0,
-        "score": 342,
-        "url": "https://collegedunia.com/college/55917-vit-business-school-vitbs-vellore",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/159775539949755996101568568649397877221633486954692608n.png"
-    },
-    "56295": {
-        "name": "VIT Law School - [VITLS], Chennai, India",
-        "rating": 0,
-        "score": 342,
-        "url": "https://collegedunia.com/college/56295-vit-law-school-vitls-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1490342133Logo.jpg"
-    },
-    "63323": {
-        "name": "VIT's Padmabhushan Dr. Vasantdada Patil College of Architecture - [PVPCOA], Pune, India",
-        "rating": 0,
-        "score": 293,
-        "url": "https://collegedunia.com/college/63323-vits-padmabhushan-dr-vasantdada-patil-college-of-architecture-pvpcoa-pune",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1648808490pvpcoa150173.png"
-    },
-    "28917": {
-        "name": "VITS Engineering College - [VEC], Khorda, India",
-        "rating": 1.6744,
-        "score": 274,
-        "url": "https://collegedunia.com/college/28917-vits-engineering-college-vec-khorda",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1414659380LOGOVITS123.jpg"
-    },
-    "64859": {
-        "name": "VITS College of Pharmacy, Satna, India",
-        "rating": 0,
-        "score": 269,
-        "url": "https://collegedunia.com/college/64859-vits-college-of-pharmacy-satna",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1715062284logo.png"
-    },
-    "25914": {
-        "name": "Vellore Institute of Technology - [VIT University], Vellore, India",
-        "rating": 9.8824,
-        "score": 65,
-        "url": "https://collegedunia.com/university/25914-vellore-institute-of-technology-vit-university-vellore",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1604923303Logo.jpg"
-    },
-    "57215": {
-        "name": "SRM, Institute of Technology, Lucknow, India",
-        "rating": 7.1704,
-        "score": 1182,
-        "url": "https://collegedunia.com/college/57215-srm-institute-of-technology-lucknow",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/147531989112.jpg"
-    },
-    "57225": {
-        "name": "SRM, Institute of Legal Studies, Lucknow, India",
-        "rating": 0,
-        "score": 1172,
-        "url": "https://collegedunia.com/college/57225-srm-institute-of-legal-studies-lucknow",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/147548551812.jpg"
-    },
-    "57228": {
-        "name": "SRM, Institute of Management, Commerce & Economics, Lucknow, India",
-        "rating": 0,
-        "score": 1172,
-        "url": "https://collegedunia.com/college/57228-srm-institute-of-management-commerce-and-economics-lucknow",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/147549020712.jpg"
-    },
-    "25896": {
-        "name": "SRM Institute of Science and Technology - [SRMIST], Chennai, India",
-        "rating": 9.9328,
-        "score": 310,
-        "url": "https://collegedunia.com/university/25896-srm-institute-of-science-and-technology-srmist-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/15807262501569304335phpHattQO.png"
-    },
-    "58597": {
-        "name": "SRM University, Amaravathi, India",
-        "rating": 9.7312,
-        "score": 309,
-        "url": "https://collegedunia.com/university/58597-srm-university-amaravathi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1521699437lgoedt.png"
-    },
-    "19131": {
-        "name": "SRM Valliammai Engineering college -[VEC], Kanchipuram, India",
-        "rating": 8.7976,
-        "score": 309,
-        "url": "https://collegedunia.com/college/19131-srm-valliammai-engineering-college-vec-kanchipuram",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1516271651105logo.jpg"
-    },
-    "56189": {
-        "name": "SRM Institute of Science and Technology Ramapuram Campus, Chennai, India",
-        "rating": 7.9528,
-        "score": 308,
-        "url": "https://collegedunia.com/university/56189-srm-institute-of-science-and-technology-ramapuram-campus-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1492067452Logo.jpg"
-    },
-    "56177": {
-        "name": "SRM University Vadapalani Campus, Chennai, India",
-        "rating": 7.7752,
-        "score": 308,
-        "url": "https://collegedunia.com/university/56177-srm-university-vadapalani-campus-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1492062973Logo.jpg"
-    },
-    "8098": {
-        "name": "SRM Institute of Hotel Management, Chennai, India",
-        "rating": 7.47,
-        "score": 308,
-        "url": "https://collegedunia.com/college/8098-srm-institute-of-hotel-management-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1706595556Screenshot20240130114315.png"
-    },
-    "54959": {
-        "name": "SRM College of Pharmacy, Kanchipuram, India",
-        "rating": 7.46,
-        "score": 308,
-        "url": "https://collegedunia.com/college/54959-srm-college-of-pharmacy-kanchipuram",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/15807276211569304335phpHattQO.png"
-    },
-    "54838": {
-        "name": "SRM University Delhi NCR, Sonepat, India",
-        "rating": 4.91429,
-        "score": 306,
-        "url": "https://collegedunia.com/university/54838-srm-university-delhi-ncr-sonepat",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1694843724logo.jpg"
-    },
-    "55045": {
-        "name": "SRM University Sikkim, Gangtok, India",
-        "rating": 4.91429,
-        "score": 306,
-        "url": "https://collegedunia.com/university/55045-srm-university-sikkim-gangtok",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1732273631Screenshot20241122162253.jpg"
-    },
-    "28254": {
-        "name": "SRM Engineering College, Kanchipuram, India",
-        "rating": 2.5432,
-        "score": 304,
-        "url": "https://collegedunia.com/college/28254-srm-engineering-college-kanchipuram",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/15807276491569304335phpHattQO.png"
-    },
-    "15424": {
-        "name": "SRM TRP Engineering College, Tiruchirappalli, India",
-        "rating": 2.5408,
-        "score": 304,
-        "url": "https://collegedunia.com/college/15424-srm-trp-engineering-college-tiruchirappalli",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1601801525Logo.jpg"
-    },
-    "62444": {
-        "name": "SRM Trichy Arts and Science College, Tiruchirappalli, India",
-        "rating": 0,
-        "score": 299,
-        "url": "https://collegedunia.com/college/62444-srm-trichy-arts-and-science-college-tiruchirappalli",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/162433701013.CollegeLogo.png"
-    },
-    "25617": {
-        "name": "Manipal Academy of Higher Education - [MAHE], Manipal, India",
-        "rating": 9.1048,
-        "score": 1828,
-        "url": "https://collegedunia.com/university/25617-manipal-academy-of-higher-education-mahe-manipal",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1617277594image2.png"
-    },
-    "25449": {
-        "name": "Delhi Technological University - [DTU], New Delhi, India",
-        "rating": 9.9352,
-        "score": 104,
-        "url": "https://collegedunia.com/university/25449-delhi-technological-university-dtu-new-delhi",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1437567677logo.jpg"
-    },
-    "25633": {
-        "name": "Visvesvaraya Technological University - [VTU], Belgaum, India",
-        "rating": 8.99881,
-        "score": 104,
-        "url": "https://collegedunia.com/university/25633-visvesvaraya-technological-university-vtu-belgaum",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1503981917vturesultsfacebook.jpg"
-    },
-    "12953": {
-        "name": "KLE Technological University, Hubli, India",
-        "rating": 8.0944,
-        "score": 103,
-        "url": "https://collegedunia.com/university/12953-kle-technological-university-hubli",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1624608986logo15.png"
-    },
-    "28434": {
-        "name": "Bangalore Technological Institute - [BTI], Bangalore, India",
-        "rating": 6.4552,
-        "score": 102,
-        "url": "https://collegedunia.com/college/28434-bangalore-technological-institute-bti-bangalore",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1424351405bti-logo1.jpg"
-    },
-    "25490": {
-        "name": "Gujarat Technological University - [GTU], Ahmedabad, India",
-        "rating": 5.109,
-        "score": 101,
-        "url": "https://collegedunia.com/university/25490-gujarat-technological-university-gtu-ahmedabad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1481526262a.jpg"
-    },
-    "55114": {
-        "name": "Puducherry Technological University, Pondicherry, India",
-        "rating": 3.9928,
-        "score": 100,
-        "url": "https://collegedunia.com/college/55114-puducherry-technological-university-pondicherry",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1718350703EmblemofPuducherryTechnologicalUniversity.png"
-    },
-    "12913": {
-        "name": "Aurora's Technological and Research Institute - [ATRI], Hyderabad, India",
-        "rating": 1,
-        "score": 97,
-        "url": "https://collegedunia.com/college/12913-auroras-technological-and-research-institute-atri-hyderabad",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1481534766AA3.jpg"
-    },
-    "15470": {
-        "name": "The Technological Institute of Textile and Sciences - [TITS], Bhiwani, India",
-        "rating": 0,
-        "score": 93,
-        "url": "https://collegedunia.com/college/15470-the-technological-institute-of-textile-and-sciences-tits-bhiwani",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1629271032logo.png"
-    },
-    "60896": {
-        "name": "AMK Technological Polytechnic College, Chennai, India",
-        "rating": 0,
-        "score": 93,
-        "url": "https://collegedunia.com/college/60896-amk-technological-polytechnic-college-chennai",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/logos/1597431761logo.png"
-    },
-    "2779": {
-        "name": "Technological University Dublin - [TUDublin], Dublin, Ireland",
-        "rating": 0,
-        "score": 448,
-        "url": "https://collegedunia.com/ireland/university/2779-technological-university-dublin-dublin",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/studyabroad/logos/college_2779_16-18:38_tu.png"
-    },
-    "766": {
-        "name": "Nanyang Technological University - [NTU], Singapore, Singapore",
-        "rating": 70.36,
-        "score": 98,
-        "url": "https://collegedunia.com/singapore/university/766-nanyang-technological-university-singapore",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/studyabroad/logos/college_766_29-12:00_ntu.jpeg"
-    },
-    "1425": {
-        "name": "Michigan Technological University - [Michigan Tech], Houghton, USA",
-        "rating": 41.35,
-        "score": 95,
-        "url": "https://collegedunia.com/usa/university/1425-michigan-technological-university-houghton",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/studyabroad/logos/72061 logo.jpg"
-    },
-    "1199": {
-        "name": "Tennessee Technological University - [TNTech], Cookeville, USA",
-        "rating": 40.42,
-        "score": 95,
-        "url": "https://collegedunia.com/usa/university/1199-tennessee-technological-university-cookeville",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/studyabroad/logos/college_1199_25-12:17_download.png"
-    },
-    "1998": {
-        "name": "International Technological University - [ITU], San Jose, USA",
-        "rating": 0,
-        "score": 88,
-        "url": "https://collegedunia.com/usa/university/1998-international-technological-university-san-jose",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/studyabroad/logos/117828 logo.png"
-    },
-    "2049": {
-        "name": "Lawrence Technological University - [Lawrence Tech], Southfield, USA",
-        "rating": 0,
-        "score": 88,
-        "url": "https://collegedunia.com/usa/university/2049-lawrence-technological-university-southfield",
-        "logo": "https://assets.collegedunia.com/public/college_data/images/studyabroad/logos/college_2049_28-12:20_download-(7).png"
+        "name": "IIT Kharagpur - Indian Institute of Technology - [IITKGP]",
+        "city": "Kharagpur",
+        "state": "West Bengal",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1489041138e2.jpg",
+        "url": "university/26007-iit-kharagpur-indian-institute-of-technology-iitkgp-kharagpur",
+        "approvals": "AICTE, UGC, NBA"
     }
 }

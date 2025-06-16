@@ -1,14 +1,7 @@
 {
     "urls": [
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=AIIMS",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=Engineering",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=SRM",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=Manipal",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=NIT",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=BITS",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=Technological",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=IIT",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=IIIT",
-        "https://collegedunia.com/web-api/nc/global-search?page_type=in&countryId=2&item_type=college&term=VIT"
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=0",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=5",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=10"
     ]
 }
