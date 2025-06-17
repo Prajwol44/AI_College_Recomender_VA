@@ -20,8 +20,8 @@ DATASET = {}
 DATASET_URLS = []
 
 def get_all_colleges():
-    start = 0
-    end = 110
+    start = 4005
+    end = 7000
     while start<=end:
         response = requests.get(BASE_URL+str(start), headers=HEADERS)
         url = response.url
@@ -43,10 +43,16 @@ def get_all_colleges():
                     
                     if college_id not in DATASET:
                         avg_total = 0.0
-                        reviewData = college.get("reviewsData").get("userReviewsData")
-                        print(reviewData.keys())
-                        if "avg_total" in list(reviewData.keys()):
-                            avg_total = reviewData.get("avg_total",0.0)
+                        
+                        reviewData = college.get("reviewsData")
+                        if isinstance(reviewData,list):
+                            print("Reviews Data not available")
+                            avg_total = 0.0
+                        if isinstance(reviewData,dict): 
+                            reviewData = college.get("reviewsData").get("userReviewsData")
+                            print(reviewData.keys())
+                            if "avg_total" in list(reviewData.keys()):
+                                avg_total = reviewData.get("avg_total",0.0)
                             
                         approvals = college.get("approvals")
                         if len(approvals):
