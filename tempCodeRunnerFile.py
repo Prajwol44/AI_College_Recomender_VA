@@ -1,1 +1,0 @@
-"score": college.get("reviewsData")['avg_total'],

@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd 
 import numpy as np
 import re
+import json
 from textblob import TextBlob 
 import matplotlib.pyplot as plt 
 from wordcloud import WordCloud 
@@ -9,7 +10,7 @@ import time
 import plotly.express as px 
 import plotly.graph_objects as go
 
-#  MUST be the first Streamlit command
+# MUST be the first Streamlit command
 st.set_page_config(
     page_title="AI College Assistant",
     page_icon="🎓",
@@ -17,7 +18,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for better styling
 st.markdown("""
 <style>
     /* Main background */
@@ -155,44 +155,55 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Load college data with caching
+# Load college data from JSON with caching
 @st.cache_data
 def load_data():
-    """Load college data from CSV file"""
+    """Load college data from JSON file"""
     try:
-        # Try to load the CSV file
-        df = pd.read_csv('data/colleges.csv')
+        # Load JSON data
+        with open('college_dataset.json') as f:
+            data = json.load(f)
         
-        # Clean column names (remove whitespace)
-        df.columns = df.columns.str.strip()
+        # Convert to DataFrame
+        colleges = []
+        for college_id, details in data.items():
+            colleges.append({
+                "College Name": details["name"],
+                "Location": f"{details['city']}, {details['state']}",
+                "Rating": details["rating"],
+                "Score": details["score"],
+                "Website": f"https://collegedunia.com/{details['url']}",
+                "Approvals": ", ".join(details["approvals"]) if isinstance(details["approvals"], list) else details["approvals"]
+            })
         
-        # Ensure required columns exist, if not create default values
-        required_columns = ['College Name', 'Stream', 'Location', 'Rank', 'Fees', 'Exams Accepted', 'Website']
+        df = pd.DataFrame(colleges)
         
-        for col in required_columns:
-            if col not in df.columns:
-                st.warning(f"Column '{col}' not found in CSV. Please check your data structure.")
+        # Add additional columns needed by the app
+        df["Stream"] = df["College Name"].apply(
+            lambda x: "Engineering" if "technology" in x.lower() or "iit" in x.lower() 
+            else "Medical" if "medical" in x.lower() or "aiims" in x.lower() 
+            else "Management" if "management" in x.lower() 
+            else "General"
+        )
         
-        # Add sentiment score if not present
-        if 'Sentiment Score' not in df.columns:
-            df['Sentiment Score'] = np.random.uniform(0.7, 0.95, len(df))
+        # Generate mock data for missing fields
+        df["Rank"] = np.random.randint(1, 100, len(df))
+        df["Fees"] = np.random.randint(50000, 500000, len(df))
+        df["Exams Accepted"] = df["Stream"].apply(
+            lambda x: "JEE Advanced" if x == "Engineering" 
+            else "NEET" if x == "Medical" 
+            else "CUET"
+        )
+        df["Sentiment Score"] = np.random.uniform(0.7, 0.95, len(df))
         
         return df
         
     except FileNotFoundError:
-        st.error(" Could not find 'data/colleges.csv'. Please ensure the file exists.")
-        st.info("Expected CSV structure:")
-        st.code("""
-College Name,Stream,Location,Rank,Fees,Exams Accepted,Website
-IIT Bombay,Engineering,Mumbai,1,200000,JEE Advanced,https://www.iitb.ac.in/
-AIIMS Delhi,Medical,Delhi,1,100000,NEET,https://www.aiims.edu/
-        """)
-        
-        # Return empty dataframe to prevent crashes
+        st.error(" Could not find 'college_dataset.json'. Please ensure the file exists.")
         return pd.DataFrame()
         
     except Exception as e:
-        st.error(f" Error loading CSV file: {str(e)}")
+        st.error(f" Error loading JSON file: {str(e)}")
         return pd.DataFrame()
 
 # Load the data
@@ -200,9 +211,9 @@ college_df = load_data()
 
 # Check if data was loaded successfully
 if college_df.empty:
-    st.stop()  # Stop execution if no data is available
+    st.stop()
 
-#  NLP Functions
+# NLP Functions (modified to work with new data structure)
 def analyze_sentiment(query):
     """Analyze sentiment of user query"""
     try:
@@ -336,15 +347,16 @@ def generate_response(user_input):
         response += "\n\n **Top Recommendations:**"
         for i, row in results.iterrows():
             response += f"""
-            
 <div class="college-card">
 <h3>🎓 {row['College Name']}</h3>
-<p><strong> Location:</strong> {row['Location']}</p>
-<p><strong> Stream:</strong> {row['Stream']}</p>
-<p><strong> Exams:</strong> {row['Exams Accepted']}</p>
-<p><strong> Rank:</strong> #{row['Rank']}</p>
-<p><strong> Fees:</strong> ₹{int(row['Fees']):,}/year</p>
-<p><strong> Website:</strong> <a href="{row['Website']}" target="_blank" style="color: white;">Visit Website</a></p>
+<p><strong>Location:</strong> {row['Location']}</p>
+<p><strong>Stream:</strong> {row['Stream']}</p>
+<p><strong>Rating:</strong> {row['Rating']}/10 | <strong>Score:</strong> {row['Score']}</p>
+<p><strong>Rank:</strong> #{row['Rank']}</p>
+<p><strong>Fees:</strong> ₹{int(row['Fees']):,}/year</p>
+<p><strong>Exams:</strong> {row['Exams Accepted']}</p>
+<p><strong>Approvals:</strong> {row['Approvals']}</p>
+<p><strong>Website:</strong> <a href="{row['Website']}" target="_blank" style="color: white;">Visit College</a></p>
 </div>
             """
     else:

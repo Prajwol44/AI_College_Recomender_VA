@@ -3,8 +3,7 @@ import json
 import time
 
 # Base endpoint
-BASE_URL = "https://collegedunia.com/web-api/nc/global-search"
-BASE_URL_II = "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start="
+BASE_URL = "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start="
 
 # Headers to mimic a real browser
 HEADERS = {
@@ -15,7 +14,6 @@ HEADERS = {
 }
 
 # Search terms
-SEARCH_TERMS = ["IIT", "NIT", "BITS", "IIIT", "AIIMS", "VIT", "SRM", "Manipal", "Technological", "Engineering"]
 
 # Store data
 DATASET = {}
@@ -23,9 +21,9 @@ DATASET_URLS = []
 
 def get_all_colleges():
     start = 0
-    end = 10
+    end = 110
     while start<=end:
-        response = requests.get(BASE_URL_II+str(start), headers=HEADERS)
+        response = requests.get(BASE_URL+str(start), headers=HEADERS)
         url = response.url
         DATASET_URLS.append(url)
         print(f" Fetching data from: {url}")
@@ -70,19 +68,6 @@ def get_all_colleges():
             break
     
 
-def fetch_college_data(term):
-    params = {
-        "page_type": "in",
-        "countryId": 2,
-        "item_type": "college",
-        "term": term
-    }
-
-    response = requests.get(BASE_URL, headers=HEADERS, params=params)
-    url = response.url
-    DATASET_URLS.append(url)
-    print(f" Fetching data from: {url}")
-    return response
 
 def get_response(response):
     if response.status_code == 200:
@@ -105,12 +90,6 @@ def main():
     print("Starting college data collection...\n")
 
     get_all_colleges()
-    
-    # for term in SEARCH_TERMS:
-    #     fetch_college_data(term)
-    #     time.sleep(2)
-
-    # print(f"\n Total colleges fetched: {len(DATASET)}")
 
     with open("college_dataset.json", "w") as f:
         json.dump(DATASET, f, indent=4)

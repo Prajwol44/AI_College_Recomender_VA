@@ -98,5 +98,1005 @@
         "logo": "public/college_data/images/logos/1489041138e2.jpg",
         "url": "university/26007-iit-kharagpur-indian-institute-of-technology-iitkgp-kharagpur",
         "approvals": "AICTE, UGC, NBA"
+    },
+    "10720": {
+        "name": "Maulana Azad Medical College - [MAMC]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1492247799logo..png",
+        "url": "college/10720-maulana-azad-medical-college-mamc-new-delhi",
+        "approvals": "MCI"
+    },
+    "25946": {
+        "name": "IIML - Indian Institute of Management",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1408968357iiml.jpg",
+        "url": "university/25946-iiml-indian-institute-of-management-lucknow",
+        "approvals": "UGC, AACSB, AMBA"
+    },
+    "25992": {
+        "name": "IIT Roorkee - Indian Institute of Technology - [IITR]",
+        "city": "Roorkee",
+        "state": "Uttarakhand",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1431775682rajiv.jpg",
+        "url": "university/25992-iit-roorkee-indian-institute-of-technology-iitr-roorkee",
+        "approvals": "AICTE, UGC"
+    },
+    "25602": {
+        "name": "IIM Bangalore - Indian Institute of Management",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "rating": "10.0",
+        "score": 4.6,
+        "logo": "public/college_data/images/logos/col30730.png",
+        "url": "university/25602-iim-bangalore-indian-institute-of-management-bangalore",
+        "approvals": "AICTE, UGC"
+    },
+    "25396": {
+        "name": "IIT Guwahati - Indian Institute of Technology - [IITG]",
+        "city": "Guwahati",
+        "state": "Assam",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1394864902Indian Institute of Technology - IIT Guwahati.png",
+        "url": "university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati",
+        "approvals": "AICTE, UGC"
+    },
+    "25800": {
+        "name": "BITS Pilani (Pilani Campus)",
+        "city": "Pilani",
+        "state": "Rajasthan",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1589790676112018648848892482726766654702028085722509n.jpg",
+        "url": "university/25800-bits-pilani-pilani-campus-pilani",
+        "approvals": "UGC"
+    },
+    "10587": {
+        "name": "Jawaharlal Institute of Post Graduate Medical Education and Research - [JIPMER]",
+        "city": "Pondicherry",
+        "state": "Puducherry",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1568873405jipmerlogo.png",
+        "url": "university/10587-jawaharlal-institute-of-post-graduate-medical-education-and-research-jipmer-pondicherry",
+        "approvals": "DCI, MCI, UGC"
+    },
+    "26006": {
+        "name": "IIMC - Indian Institute of Management",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1488950580d2.png",
+        "url": "university/26006-iimc-indian-institute-of-management-kolkata",
+        "approvals": "UGC"
+    },
+    "25796": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/uv25796.jpg",
+        "url": "university/25796-all-india-institute-of-medical-sciences-aiims-jodhpur",
+        "approvals": "MCI"
+    },
+    "25356": {
+        "name": "IIT Hyderabad - Indian Institute of Technology - [IITH]",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png",
+        "url": "university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad",
+        "approvals": "UGC"
+    },
+    "25947": {
+        "name": "IIT BHU - Indian Institute of Technology",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1409982980bhu logo.jpg",
+        "url": "university/25947-iit-bhu-indian-institute-of-technology-varanasi",
+        "approvals": "UGC"
+    },
+    "25657": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1395485884All India Institute of Medical Sciences (AIIMS)B.png",
+        "url": "university/25657-all-india-institute-of-medical-sciences-aiims-bhopal",
+        "approvals": "MCI"
+    },
+    "19268": {
+        "name": "XLRI",
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/14812651193.jpg",
+        "url": "college/19268-xlri-jamshedpur",
+        "approvals": "AICTE, NBA, AACSB, AMBA"
+    },
+    "25620": {
+        "name": "National Institute of Technology - [NITK]",
+        "city": "Surathkal",
+        "state": "Karnataka",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1503895670col27813.jpg",
+        "url": "university/25620-national-institute-of-technology-nitk-surathkal",
+        "approvals": "AICTE"
+    },
+    "25581": {
+        "name": "ISM Dhanbad - Indian Institute of Technology - [IITISM]",
+        "city": "Dhanbad",
+        "state": "Jharkhand",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1494230146Logo.jpg",
+        "url": "university/25581-ism-dhanbad-indian-institute-of-technology-iitism-dhanbad",
+        "approvals": "AICTE, UGC"
+    },
+    "25753": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1419874083images.jpg",
+        "url": "university/25753-all-india-institute-of-medical-sciences-aiims-bhubaneswar",
+        "approvals": "MCI"
+    },
+    "25367": {
+        "name": "NIT Warangal",
+        "city": "Warangal",
+        "state": "Telangana",
+        "rating": "10.0",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1681130593Screenshot20230410180621.jpg",
+        "url": "university/25367-nit-warangal-warangal",
+        "approvals": "AICTE, NBA, MHRD"
+    },
+    "17600": {
+        "name": "FMS Delhi Faculty of Management Studies",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 3.9,
+        "logo": "public/college_data/images/logos/1389689790logo.gif",
+        "url": "college/17600-fms-delhi-faculty-of-management-studies-new-delhi",
+        "approvals": "AICTE"
+    },
+    "25357": {
+        "name": "International Institute of Information Technology - [IIIT]",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "10.0",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/14806773660.jpg",
+        "url": "university/25357-international-institute-of-information-technology-iiit-hyderabad",
+        "approvals": "AICTE, BCI, UGC"
+    },
+    "25980": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Rishikesh",
+        "state": "Uttarakhand",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/17477298941664107530php58WJto.jpeg",
+        "url": "university/25980-all-india-institute-of-medical-sciences-aiims-rishikesh",
+        "approvals": "MCI"
+    },
+    "18617": {
+        "name": "SP Jain [SPJIMR]",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1727164925Untitled.png",
+        "url": "college/18617-sp-jain-spjimr-mumbai",
+        "approvals": "AICTE, NBA, AACSB, AMBA"
+    },
+    "10471": {
+        "name": "Government Medical College and Hospital - [GMCH]",
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "rating": "10.0",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1395298222Government Medical College and Hospital (GMCH).png",
+        "url": "college/10471-government-medical-college-and-hospital-gmch-chandigarh",
+        "approvals": "MCI"
+    },
+    "25559": {
+        "name": "IIT Mandi- Indian Institute of Technology - [IITM]",
+        "city": "Mandi",
+        "state": "Himachal Pradesh",
+        "rating": "10.0",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1509514767Logo.jpg",
+        "url": "university/25559-iit-mandi-indian-institute-of-technology-iitm-mandi",
+        "approvals": "AICTE"
+    },
+    "18735": {
+        "name": "Shailesh J. Mehta School of Management, IIT Bombay - [SJMSOM]",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1438144832jojojoj.jpg",
+        "url": "college/18735-shailesh-j-mehta-school-of-management-iit-bombay-sjmsom-mumbai",
+        "approvals": "AICTE"
+    },
+    "25945": {
+        "name": "Indian Institute of Information Technology - [IIIT]",
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1507698808col27834.jpg",
+        "url": "university/25945-indian-institute-of-information-technology-iiit-allahabad",
+        "approvals": "AICTE, UGC"
+    },
+    "25898": {
+        "name": "Saveetha Institute of Medical And Technical Sciences - [SIMATS]",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1550657767logo.jpg",
+        "url": "college/25898-saveetha-institute-of-medical-and-technical-sciences-simats-chennai",
+        "approvals": "UGC"
+    },
+    "25495": {
+        "name": "IIT Gandhinagar - Indian Institute of Technology - [IITG]",
+        "city": "Gandhinagar",
+        "state": "Gujarat",
+        "rating": "10.0",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/col27839.png",
+        "url": "university/25495-iit-gandhinagar-indian-institute-of-technology-iitg-gandhinagar",
+        "approvals": "AICTE, UGC"
+    },
+    "28194": {
+        "name": "IIT Jodhpur - Indian Institute of Technology - [IITJ]",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "rating": "10.0",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1735023717Screenshot24122024123132iitj.ac.in.jpeg",
+        "url": "university/28194-iit-jodhpur-indian-institute-of-technology-iitj-jodhpur",
+        "approvals": "AICTE"
+    },
+    "25961": {
+        "name": "MNNIT Allahabad - Motilal Nehru National Institute of Technology - [MNNIT]",
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "rating": "10.0",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1503636333logoMNNIT.jpg",
+        "url": "university/25961-mnnit-allahabad-motilal-nehru-national-institute-of-technology-mnnit-allahabad",
+        "approvals": "AICTE"
+    },
+    "10660": {
+        "name": "Lady Hardinge Medical College - [LHMC]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1492592918logo.jpg",
+        "url": "college/10660-lady-hardinge-medical-college-lhmc-new-delhi",
+        "approvals": "MCI"
+    },
+    "14479": {
+        "name": "Netaji Subhas University of Technology - [NSUT]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 3.7,
+        "logo": "public/college_data/images/logos/1492498457nsitlogo2.png",
+        "url": "university/14479-netaji-subhas-university-of-technology-nsut-new-delhi",
+        "approvals": "AICTE, UGC, NBA"
+    },
+    "59702": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.5,
+        "logo": "public/college_data/images/logos/1547797227logo12.png",
+        "url": "university/59702-all-india-institute-of-medical-sciences-aiims-nagpur",
+        "approvals": "MCI"
+    },
+    "25665": {
+        "name": "IIMI - Indian Institute of Management",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/15040011233170612211130512732232635840n.jpg",
+        "url": "university/25665-iimi-indian-institute-of-management-indore",
+        "approvals": "AACSB, AMBA"
+    },
+    "11168": {
+        "name": "VGSOM - Vinod Gupta School of Management IIT",
+        "city": "Kharagpur",
+        "state": "West Bengal",
+        "rating": "9.9",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1672130342download.jpeg",
+        "url": "college/11168-vgsom-vinod-gupta-school-of-management-iit-kharagpur",
+        "approvals": "AICTE"
+    },
+    "9652": {
+        "name": "Madras Medical College - [MMC]",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "9.9",
+        "score": 3.7,
+        "logo": "public/college_data/images/logos/1454744339emblem_0.png",
+        "url": "college/9652-madras-medical-college-mmc-chennai",
+        "approvals": "MCI"
+    },
+    "25641": {
+        "name": "IIMK - Indian Institute of Management",
+        "city": "Kozhikode",
+        "state": "Kerala",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1408967753iim.jpg",
+        "url": "university/25641-iimk-indian-institute-of-management-kozhikode",
+        "approvals": "AACSB, AMBA"
+    },
+    "13090": {
+        "name": "Birla Institute of Technology and Science - [BITS]",
+        "city": "South Goa",
+        "state": "Goa",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1715589056Screenshotfrom20240513140042.png",
+        "url": "university/13090-birla-institute-of-technology-and-science-bits-south-goa",
+        "approvals": "UGC"
+    },
+    "28467": {
+        "name": "Birla Institute of Technology and Science - [BITS]",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "9.9",
+        "score": 4.5,
+        "logo": "public/college_data/images/logos/168560856630863881645664714649262553826169448374835n.jpeg",
+        "url": "university/28467-birla-institute-of-technology-and-science-bits-hyderabad",
+        "approvals": "AICTE, UGC"
+    },
+    "18186": {
+        "name": "JBIMS Mumbai",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1593019342Logo.png",
+        "url": "college/18186-jbims-mumbai-mumbai",
+        "approvals": "AICTE"
+    },
+    "10559": {
+        "name": "Institute of Medical Sciences - [IMS BHU]",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/col31660.jpg",
+        "url": "college/10559-institute-of-medical-sciences-ims-bhu-varanasi",
+        "approvals": "MCI"
+    },
+    "25449": {
+        "name": "Delhi Technological University - [DTU]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1437567677logo.jpg",
+        "url": "university/25449-delhi-technological-university-dtu-new-delhi",
+        "approvals": "UGC, NBA"
+    },
+    "25604": {
+        "name": "International Institute of Information Technology - [IIIT-B]",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1600753615iiitblogo100x95.png",
+        "url": "university/25604-international-institute-of-information-technology-iiitb-bangalore",
+        "approvals": "AICTE, UGC"
+    },
+    "25896": {
+        "name": "SRM Institute of Science and Technology - [SRMIST]",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/15807262501569304335phpHattQO.png",
+        "url": "university/25896-srm-institute-of-science-and-technology-srmist-chennai",
+        "approvals": "UGC"
+    },
+    "25759": {
+        "name": "IIT Bhubaneswar - Indian Institute of Technology - [IITBBS]",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/148491861525759p.png",
+        "url": "university/25759-iit-bhubaneswar-indian-institute-of-technology-iitbbs-bhubaneswar",
+        "approvals": "AICTE"
+    },
+    "25453": {
+        "name": "IIFT Delhi Indian Institute of Foreign Trade",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/17320930411.jpg",
+        "url": "university/25453-iift-delhi-indian-institute-of-foreign-trade-new-delhi",
+        "approvals": "AACSB"
+    },
+    "25457": {
+        "name": "Indraprastha Institute of Information Technology - [IIITD]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1435740580jpjpjpjp.jpg",
+        "url": "university/25457-indraprastha-institute-of-information-technology-iiitd-new-delhi",
+        "approvals": "AICTE, NBA"
+    },
+    "27861": {
+        "name": "Department of Management Studies, IIT Madras - [DoMS IIT Madras]",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1501055941iitmadraslogo.png",
+        "url": "college/27861-department-of-management-studies-iit-madras-doms-iit-madras-chennai",
+        "approvals": "AICTE"
+    },
+    "55792": {
+        "name": "Indian Institute of Information Technology - [IIITL]",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1676537753FinalLogoIIITL.png",
+        "url": "university/55792-indian-institute-of-information-technology-iiitl-lucknow",
+        "approvals": "MHRD"
+    },
+    "25733": {
+        "name": "Visvesvaraya National Institute of Technology - [VNIT]",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1692850103VNITlogo.jpeg",
+        "url": "university/25733-visvesvaraya-national-institute-of-technology-vnit-nagpur",
+        "approvals": "UGC"
+    },
+    "10499": {
+        "name": "Grant Medical College and Sir J. J. Group of Hospitals",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/col10499.jpg",
+        "url": "college/10499-grant-medical-college-and-sir-j-j-group-of-hospitals-mumbai",
+        "approvals": "MCI"
+    },
+    "27696": {
+        "name": "MDI Gurgaon",
+        "city": "Gurgaon",
+        "state": "Haryana",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1389950262MDI_new_logo.jpg",
+        "url": "college/27696-mdi-gurgaon-gurgaon",
+        "approvals": "AICTE, NBA, AACSB, AMBA"
+    },
+    "13801": {
+        "name": "Indira Gandhi Delhi Technical University For Women -[IGDTUW]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1491645668logoedt.png",
+        "url": "university/13801-indira-gandhi-delhi-technical-university-for-women-igdtuw-new-delhi",
+        "approvals": "AICTE, UGC"
+    },
+    "7538": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1495713011AIIMSRaipurRecruitment2016forResearchScientistCommunityHealth1.jpg",
+        "url": "university/7538-all-india-institute-of-medical-sciences-aiims-raipur",
+        "approvals": "MCI, MHRD"
+    },
+    "25666": {
+        "name": "IIT Indore - Indian Institute of Technology - [IITI]",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1489660034c.jpg",
+        "url": "university/25666-iit-indore-indian-institute-of-technology-iiti-indore",
+        "approvals": "AICTE"
+    },
+    "25740": {
+        "name": "IIM Shillong Indian Institute of Management",
+        "city": "Shillong",
+        "state": "Meghalaya",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1504004914logo.jpg",
+        "url": "university/25740-iim-shillong-indian-institute-of-management-shillong",
+        "approvals": "UGC"
+    },
+    "54827": {
+        "name": "Siksha 'O' Anusandhan University - [SOA]",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1619098174SOAPNG.png",
+        "url": "university/54827-siksha-o-anusandhan-university-soa-bhubaneswar",
+        "approvals": "AICTE, MCI, ICAR, UGC, NBA"
+    },
+    "25786": {
+        "name": "IIT Ropar - Indian Institute of Technology - [IITR]",
+        "city": "Ropar",
+        "state": "Punjab",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1432040984jp.jpg",
+        "url": "university/25786-iit-ropar-indian-institute-of-technology-iitr-ropar",
+        "approvals": "MHRD"
+    },
+    "25410": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Patna",
+        "state": "Bihar",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1508134538uv25410.jpg",
+        "url": "university/25410-all-india-institute-of-medical-sciences-aiims-patna",
+        "approvals": "INC, MCI"
+    },
+    "60655": {
+        "name": "Masters' Union",
+        "city": "Gurgaon",
+        "state": "Haryana",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/1735199116download7.jpeg",
+        "url": "college/60655-masters-union-gurgaon",
+        "approvals": "AACSB"
+    },
+    "55935": {
+        "name": "IIT Tirupati - Indian Institute of Technology - [IITTP]",
+        "city": "Tirupati",
+        "state": "Andhra Pradesh",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1690782648download.png",
+        "url": "university/55935-iit-tirupati-indian-institute-of-technology-iittp-tirupati",
+        "approvals": "AICTE, UGC"
+    },
+    "14452": {
+        "name": "IIM Mumbai - Indian Institute of Management",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1710413470Screenshotfrom20240314162055.png",
+        "url": "college/14452-iim-mumbai-indian-institute-of-management-mumbai",
+        "approvals": "AICTE"
+    },
+    "56300": {
+        "name": "IIT Bhilai - Indian Institute of Technology - [IITB]",
+        "city": "Bhilai",
+        "state": "Chhattisgarh",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1496670527IITBhilailogo.png",
+        "url": "university/56300-iit-bhilai-indian-institute-of-technology-iitb-bhilai",
+        "approvals": "UGC, MHRD"
+    },
+    "57671": {
+        "name": "IIT Goa - Indian Institute of Technology - [IIT Goa]",
+        "city": "Ponda",
+        "state": "Goa",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1541821870iitgoa.jpg",
+        "url": "university/57671-iit-goa-indian-institute-of-technology-iit-goa-ponda",
+        "approvals": "UGC"
+    },
+    "25464": {
+        "name": "National Institute of Technology - [NIT]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 3.7,
+        "logo": "public/college_data/images/logos/1509002389logo.png",
+        "url": "university/25464-national-institute-of-technology-nit-new-delhi",
+        "approvals": "AICTE, UGC"
+    },
+    "28202": {
+        "name": "Veermata Jijabai Technological Institute - [VJTI]",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/1413914280vmji.jpg",
+        "url": "college/28202-veermata-jijabai-technological-institute-vjti-mumbai",
+        "approvals": "AICTE, UGC"
+    },
+    "28315": {
+        "name": "King George's Medical University - [KGMU]",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1498220102logo.png",
+        "url": "university/28315-king-georges-medical-university-kgmu-lucknow",
+        "approvals": "DCI, MCI, UGC"
+    },
+    "25828": {
+        "name": "Malaviya National Institute of Technology - [MNIT]",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1505911297logo.jpg",
+        "url": "university/25828-malaviya-national-institute-of-technology-mnit-jaipur",
+        "approvals": "AICTE, NBA, MHRD"
+    },
+    "25729": {
+        "name": "TISS Tata Institute of Social Sciences",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/1450952592Untitled.jpg",
+        "url": "university/25729-tiss-tata-institute-of-social-sciences-mumbai",
+        "approvals": "UGC"
+    },
+    "57931": {
+        "name": "NDMC Medical College",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 3.9,
+        "logo": "public/college_data/images/logos/1483609895ds.png",
+        "url": "college/57931-ndmc-medical-college-new-delhi",
+        "approvals": "MCI"
+    },
+    "57672": {
+        "name": "IIT Dharwad - Indian Institute of Technology - [IITD]",
+        "city": "Dharwad",
+        "state": "Karnataka",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1638186812IITDhlogo100x1001.jpg",
+        "url": "university/57672-iit-dharwad-indian-institute-of-technology-iitd-dharwad",
+        "approvals": "UGC"
+    },
+    "60543": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Bathinda",
+        "state": "Punjab",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1586161926images1.jpg",
+        "url": "university/60543-all-india-institute-of-medical-sciences-aiims-bathinda",
+        "approvals": []
+    },
+    "28261": {
+        "name": "College of Engineering, Anna University - [CEG]",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/13941065084.png",
+        "url": "college/28261-college-of-engineering-anna-university-ceg-chennai",
+        "approvals": "AICTE"
+    },
+    "25509": {
+        "name": "Sardar Vallabhbhai National Institute of Technology - [SVNIT]",
+        "city": "Surat",
+        "state": "Gujarat",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/1409389403surat logo.jpg",
+        "url": "university/25509-sardar-vallabhbhai-national-institute-of-technology-svnit-surat",
+        "approvals": "UGC"
+    },
+    "59704": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Mangalagiri",
+        "state": "Andhra Pradesh",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1714822698Screenshotfrom20240504170801.png",
+        "url": "university/59704-all-india-institute-of-medical-sciences-aiims-mangalagiri",
+        "approvals": []
+    },
+    "63937": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Rajkot",
+        "state": "Gujarat",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/1673265417aiimsrajkotlogo000.png",
+        "url": "university/63937-all-india-institute-of-medical-sciences-aiims-rajkot",
+        "approvals": "MCI, UGC"
+    },
+    "17497": {
+        "name": "DMS - Department of Management Studies IIT",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1491627644departmentofmanagementstudiesdmsiitdelhinewdelhi.jpg",
+        "url": "college/17497-dms-department-of-management-studies-iit-new-delhi",
+        "approvals": "AICTE, UGC, NBA"
+    },
+    "25584": {
+        "name": "National Institute of Technology - [NIT]",
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/col27881.jpg",
+        "url": "university/25584-national-institute-of-technology-nit-jamshedpur",
+        "approvals": "AICTE, MHRD"
+    },
+    "64112": {
+        "name": "All India Institute Of Medical Sciences - [AIIMS]",
+        "city": "Gorakhpur",
+        "state": "Uttar Pradesh",
+        "rating": "9.9",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1682314945118486233104747011364346173716805427293600n.jpg",
+        "url": "college/64112-all-india-institute-of-medical-sciences-aiims-gorakhpur",
+        "approvals": []
+    },
+    "26009": {
+        "name": "National Institute of Technology - [NIT]",
+        "city": "Durgapur",
+        "state": "West Bengal",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1405687850download.jpg",
+        "url": "university/26009-national-institute-of-technology-nit-durgapur",
+        "approvals": "AICTE, UGC"
+    },
+    "63039": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Kalyani",
+        "state": "West Bengal",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1714813397Screenshotfrom20240504143303.png",
+        "url": "university/63039-all-india-institute-of-medical-sciences-aiims-kalyani",
+        "approvals": "MCI, UGC"
+    },
+    "18961": {
+        "name": "Symbiosis Institute of Business Management - [SIBM]",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1618823976Logo.png",
+        "url": "college/18961-symbiosis-institute-of-business-management-sibm-pune",
+        "approvals": "AICTE"
+    },
+    "25603": {
+        "name": "Indian Institute of Science - [IISc]",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "rating": "9.9",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/139486567811.png",
+        "url": "university/25603-indian-institute-of-science-iisc-bangalore",
+        "approvals": "UGC"
+    },
+    "57662": {
+        "name": "IIT Jammu - Indian Institute of Technology - [IITJ]",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1559192478iitjammulogonew00.png",
+        "url": "university/57662-iit-jammu-indian-institute-of-technology-iitj-jammu",
+        "approvals": "AICTE, MHRD"
+    },
+    "55934": {
+        "name": "IIT Palakkad - Indian Institute of Technology - [IITPKD]",
+        "city": "Palakkad",
+        "state": "Kerala",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1509447503defaultlogo.png",
+        "url": "university/55934-iit-palakkad-indian-institute-of-technology-iitpkd-palakkad",
+        "approvals": "MHRD"
+    },
+    "25914": {
+        "name": "Vellore Institute of Technology - [VIT University]",
+        "city": "Vellore",
+        "state": "Tamil Nadu",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/1604923303Logo.jpg",
+        "url": "university/25914-vellore-institute-of-technology-vit-university-vellore",
+        "approvals": "AICTE, UGC, MHRD"
+    },
+    "60634": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Rae Bareli",
+        "state": "Uttar Pradesh",
+        "rating": "9.9",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1588164737aiimsrbllogo.png",
+        "url": "university/60634-all-india-institute-of-medical-sciences-aiims-rae-bareli",
+        "approvals": []
+    },
+    "1015": {
+        "name": "Delhi School of Economics, University of Delhi - [DSE]",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 3.9,
+        "logo": "public/college_data/images/logos/1703734276mbadsebacombined1.png",
+        "url": "college/1015-delhi-school-of-economics-university-of-delhi-dse-new-delhi",
+        "approvals": []
+    },
+    "25423": {
+        "name": "Panjab University - [PU]",
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "rating": "9.9",
+        "score": 3.9,
+        "logo": "public/college_data/images/logos/15040653671413791580PunjabUniversityChandigarhPU.jpg",
+        "url": "university/25423-panjab-university-pu-chandigarh",
+        "approvals": "AICTE"
+    },
+    "25693": {
+        "name": "Defence Institute of Advanced Technology - [DIAT]",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/1441194642220px-Logo_of_DIAT.jpg",
+        "url": "university/25693-defence-institute-of-advanced-technology-diat-pune",
+        "approvals": "AICTE, UGC, NBA"
+    },
+    "11028": {
+        "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology - [SCTIMST]",
+        "city": "Thiruvananthapuram",
+        "state": "Kerala",
+        "rating": "9.9",
+        "score": 3.5,
+        "logo": "public/college_data/images/logos/1560492421logok.jpg",
+        "url": "college/11028-sree-chitra-tirunal-institute-for-medical-sciences-and-technology-sctimst-thiruvananthapuram",
+        "approvals": "MCI, UGC"
+    },
+    "25781": {
+        "name": "Dr BR Ambedkar National Institute of Technology - [NIT]",
+        "city": "Jalandhar",
+        "state": "Punjab",
+        "rating": "9.9",
+        "score": 3.9,
+        "logo": "public/college_data/images/logos/1432035302jp.jpg",
+        "url": "university/25781-dr-br-ambedkar-national-institute-of-technology-nit-jalandhar",
+        "approvals": "AICTE, UGC"
+    },
+    "10289": {
+        "name": "Byramjee Jeejeebhoy Government Medical College - [BJMC]",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1478948805bjlogo.jpg",
+        "url": "college/10289-byramjee-jeejeebhoy-government-medical-college-bjmc-pune",
+        "approvals": "MCI"
+    },
+    "17904": {
+        "name": "ISB Hyderabad Indian School of Business",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "9.9",
+        "score": 4.6,
+        "logo": "public/college_data/images/logos/1732253759isblogo.png",
+        "url": "college/17904-isb-hyderabad-indian-school-of-business-hyderabad",
+        "approvals": "AACSB, AMBA"
+    },
+    "25679": {
+        "name": "Maulana Azad National Institute of Technology  - [MANIT]",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/1489573329vmnerksld.jpg",
+        "url": "university/25679-maulana-azad-national-institute-of-technology-manit-bhopal",
+        "approvals": "AICTE, NBA"
+    },
+    "63036": {
+        "name": "All India Institute Of Medical Sciences, Bibinagar",
+        "city": "Bibinagar",
+        "state": "Telangana",
+        "rating": "9.9",
+        "score": 4.1,
+        "logo": "public/college_data/images/logos/16399819171618236577phpsq9nzA.jpeg",
+        "url": "university/63036-all-india-institute-of-medical-sciences-bibinagar-bibinagar",
+        "approvals": []
+    },
+    "13088": {
+        "name": "Birla Institute of Technology - [BIT Mesra]",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "rating": "9.9",
+        "score": 3.7,
+        "logo": "public/college_data/images/logos/1406023982download.jpg",
+        "url": "university/13088-birla-institute-of-technology-bit-mesra-ranchi",
+        "approvals": "AICTE, PCI, UGC, NBA"
+    },
+    "25459": {
+        "name": "Jamia Hamdard University",
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.2,
+        "logo": "public/college_data/images/logos/1491828362col32795.jpg",
+        "url": "university/25459-jamia-hamdard-university-new-delhi",
+        "approvals": "AICTE, MCI, UGC"
+    },
+    "25540": {
+        "name": "National Institute of Technology - [NIT]",
+        "city": "Kurukshetra",
+        "state": "Haryana",
+        "rating": "9.9",
+        "score": 4,
+        "logo": "public/college_data/images/logos/col27821.png",
+        "url": "university/25540-national-institute-of-technology-nit-kurukshetra",
+        "approvals": "AICTE, NBA"
+    },
+    "25484": {
+        "name": "Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT]",
+        "city": "Gandhinagar",
+        "state": "Gujarat",
+        "rating": "9.9",
+        "score": 4.3,
+        "logo": "public/college_data/images/logos/16684977553060894074853420402648917847635275206136304n.png",
+        "url": "university/25484-dhirubhai-ambani-institute-of-information-and-communication-technology-daiict-gandhinagar",
+        "approvals": "AIU"
+    },
+    "63958": {
+        "name": "All India Institute of Medical Sciences - [AIIMS]",
+        "city": "Bilaspur",
+        "state": "Himachal Pradesh",
+        "rating": "9.9",
+        "score": 4.4,
+        "logo": "public/college_data/images/logos/1674294939AIIMSBilaspurLogo2.png",
+        "url": "university/63958-all-india-institute-of-medical-sciences-aiims-bilaspur",
+        "approvals": []
     }
 }

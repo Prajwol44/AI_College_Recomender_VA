@@ -1,7 +1,27 @@
 {
     "urls": [
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=40",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=45",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=65",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=85",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=100",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=60",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=70",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=80",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=25",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=10",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=35",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=105",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=55",
         "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=0",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=95",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=15",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=75",
         "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=5",
-        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=10"
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=20",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=110",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=30",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=50",
+        "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start=90"
     ]
 }
