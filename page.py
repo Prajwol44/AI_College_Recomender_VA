@@ -5,6 +5,7 @@ import time
 
 PAGE_URL = "https://collegedunia.com/college/13730-hitkarini-college-of-engineering-and-technology-hcet-jabalpur"
 
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -14,6 +15,10 @@ HEADERS = {
 
 
 def main():
+    # for i <= 10: Time.sleep() # user-agent
+    
+    # data = output.get('props')
+    # dataInitial = data.get('intit')
     response = requests.get(PAGE_URL, headers=HEADERS)
     
     if response.status_code == 200:
@@ -24,6 +29,8 @@ def main():
             final = pq(jsonData).text()
             print(final)
             print(type(final))
+            
+            # json create using  final
             
             with open("ind_college.json", "w", encoding="utf-8") as f:
                 json.dump(json.loads(final), f, indent=4)
