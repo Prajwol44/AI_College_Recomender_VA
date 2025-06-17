@@ -1,0 +1,2275 @@
+{
+    "58717": {
+        "college_name": "Gyanodaya Group of Institutions",
+        "streams": [],
+        "website": "http://gyanodayanmh.com/index.php",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Marketing",
+                "fee_amount": 80000
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 80000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 80000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 80000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 72000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 72000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 72000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Neemuch",
+        "state": "Madhya Pradesh",
+        "rating": "4.5",
+        "score": 4.3,
+        "approvals": "NCTE, AICTE, INC"
+    },
+    "13730": {
+        "college_name": "Hitkarini College of Engineering and Technology - [HCET]",
+        "streams": [],
+        "website": "http://www.hcet.hitkarini.com/vision_mission.php",
+        "phone": [
+            "9424312890",
+            "9425388904"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 212000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 212000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 212000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 212000
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 212000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 212000
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "fee_amount": 159000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 159000
+            },
+            {
+                "course_name": "Electrical & Electronics Engineering",
+                "fee_amount": 159000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 159000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 159000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 159000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "1387678",
+                "cutoff_type": "rank",
+                "exam": "MP-Counselling"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "363698",
+                "cutoff_type": "rank",
+                "exam": "MP-Counselling"
+            }
+        ],
+        "city": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "rating": "4.5",
+        "score": 3.4,
+        "approvals": []
+    },
+    "13136": {
+        "college_name": "CMS College of Engineering and Technology",
+        "streams": [],
+        "website": "http://cmscet.com/",
+        "phone": [
+            "9688194333",
+            "9688294333",
+            "9688394333"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Artificial Intelligence & Data Science",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Computer Science and Business Systems",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Cyber Security",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Embedded System Technologies",
+                "fee_amount": 60000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 60000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Artificial Intelligence & Data Science",
+                "cutoff": "100253",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Information Technology",
+                "cutoff": "61461",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Cyber Security",
+                "cutoff": "93893",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "cutoff": "90418",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "104557",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            }
+        ],
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "rating": "4.5",
+        "score": 4,
+        "approvals": "AICTE"
+    },
+    "24341": {
+        "college_name": "Panipat Institute of Engineering & Technology - [PIET]",
+        "streams": [],
+        "website": "http://www.piet.co.in",
+        "phone": [
+            "9069547000",
+            "9069548000",
+            "9069549000"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 720000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 720000
+            },
+            {
+                "course_name": "Data Science and Artificial Intelligence",
+                "fee_amount": 800000
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "fee_amount": 800000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 720000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 720000
+            },
+            {
+                "course_name": "Cyber Security",
+                "fee_amount": 800000
+            },
+            {
+                "course_name": "Textile Engineering",
+                "fee_amount": 720000
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 285000
+            },
+            {
+                "course_name": "Information Security and Cloud Technology",
+                "fee_amount": 330000
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 360000
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 360000
+            },
+            {
+                "course_name": "Digital Marketing",
+                "fee_amount": 420000
+            },
+            {
+                "course_name": "Business Analytics",
+                "fee_amount": 420000
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "fee_amount": 840000
+            },
+            {
+                "course_name": "Electric Vehicle Technology",
+                "fee_amount": 840000
+            },
+            {
+                "course_name": "Internet of Things",
+                "fee_amount": 840000
+            },
+            {
+                "course_name": "Robotics",
+                "fee_amount": 840000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 540000
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Textile Technology",
+                "fee_amount": 540000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 540000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 540000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "cutoff": "1048268",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            },
+            {
+                "course_name": "Data Science and Artificial Intelligence",
+                "cutoff": "1269036",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "cutoff": "724064",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "994723",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            },
+            {
+                "course_name": "Cyber Security",
+                "cutoff": "1277933",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            },
+            {
+                "course_name": "Textile Engineering",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "cutoff": "1148",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            }
+        ],
+        "city": "Panipat",
+        "state": "Haryana",
+        "rating": "4.5",
+        "score": 4.1,
+        "approvals": "AICTE, NBA"
+    },
+    "58276": {
+        "college_name": "Lyallpur Khalsa College of Engineering - [LKCE]",
+        "streams": [],
+        "website": "http://www.lkcengg.edu.in/",
+        "phone": [
+            "9464233585",
+            "8283877786"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 366000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 366000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 366000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 366000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 84920
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 84920
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 84920
+            },
+            {
+                "course_name": "Automobile Servicing",
+                "fee_amount": 244400
+            },
+            {
+                "course_name": "Software Development",
+                "fee_amount": 244400
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 277400
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "fee_amount": 277400
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 277400
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 277400
+            },
+            {
+                "course_name": "Medical Laboratory Science",
+                "fee_amount": 190400
+            },
+            {
+                "course_name": "Anaesthesia & Operation Theatre Technology",
+                "fee_amount": 190400
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "fee_amount": 190400
+            },
+            {
+                "course_name": "Radiology And Imaging Technology",
+                "fee_amount": 190400
+            },
+            {
+                "course_name": "Web Design",
+                "fee_amount": 154400
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 57035
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 57035
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 57035
+            }
+        ],
+        "cutoffs": [],
+        "city": "Jalandhar",
+        "state": "Punjab",
+        "rating": "4.5",
+        "score": 3.9,
+        "approvals": "AICTE"
+    },
+    "5619": {
+        "college_name": "MES College of Engineering - [MESCE] Kuttippuram",
+        "streams": [],
+        "website": "http://www.mesce.ac.in/php/index.php",
+        "phone": [],
+        "college_type": "Private Institute",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Artificial Intelligence & Data Science",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Applied Electronics And Instrumentation",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Electrical and Electronics Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Applied Electronics and Instrumentation",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": ""
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "cutoff": "49446",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Artificial Intelligence & Data Science",
+                "cutoff": "44183",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "cutoff": "51553",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "52211",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "cutoff": "52221",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "52408",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            }
+        ],
+        "city": "Malappuram",
+        "state": "Kerala",
+        "rating": "4.4",
+        "score": 3.9,
+        "approvals": "AICTE, NBA"
+    },
+    "13112": {
+        "college_name": "Brindavan College of Engineering - [BCE]",
+        "streams": [],
+        "website": "http://brindavancollegeofengineering.com/index.html",
+        "phone": [
+            "9844723728"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "rating": "4.4",
+        "score": 3.5,
+        "approvals": "AICTE"
+    },
+    "58640": {
+        "college_name": "Jain College",
+        "streams": [],
+        "website": "http://jaincollege.net/",
+        "phone": [
+            "8818888771",
+            "9425778444"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Applications",
+                "fee_amount": 50000
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 50000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Gwalior",
+        "state": "Madhya Pradesh",
+        "rating": "4.4",
+        "score": 4.7,
+        "approvals": "AICTE, PCI"
+    },
+    "14435": {
+        "college_name": "Narnarayan Shastri Institute of Technology - [NSIT]",
+        "streams": [],
+        "website": "http://www.nsitgurukul.com",
+        "phone": [
+            "9825833001"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Cyber Security",
+                "fee_amount": 448000
+            },
+            {
+                "course_name": "Digital Forensic and Information Security",
+                "fee_amount": 448000
+            },
+            {
+                "course_name": "Forensic Science",
+                "fee_amount": 348000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "rating": "4.4",
+        "score": 2.8,
+        "approvals": "AICTE"
+    },
+    "5681": {
+        "college_name": "Sri Venkateswara College of Architecture - [SVCA]",
+        "streams": [],
+        "website": "http://www.svcollegeofarchitecture.com/",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "4.4",
+        "score": 3.8,
+        "approvals": "COA"
+    },
+    "58959": {
+        "college_name": "Thakur School of Architecture and Planning - [TSAP]",
+        "streams": [],
+        "website": "https://tsapmumbai.in/",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "4.4",
+        "score": 4.4,
+        "approvals": "AICTE, COA, UGC"
+    },
+    "59051": {
+        "college_name": "SMEF\u2019s Brick School of Architecture",
+        "streams": [],
+        "website": "https://brick.edu.in/",
+        "phone": [
+            "8380886066",
+            "7276043700"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Pune",
+        "state": "Maharashtra",
+        "rating": "4.4",
+        "score": 4.2,
+        "approvals": "COA"
+    },
+    "59453": {
+        "college_name": "Sasi Creative School of Architecture - [SCSA]",
+        "streams": [],
+        "website": "http://scsa.ac.in/",
+        "phone": [
+            "9944420027",
+            "9843077727"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "rating": "4.4",
+        "score": 4.1,
+        "approvals": "COA"
+    },
+    "59518": {
+        "college_name": "SCMS School of Architecture - [SCMS]",
+        "streams": [],
+        "website": "https://scmsgroup.org/ssa/",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Ernakulam",
+        "state": "Kerala",
+        "rating": "4.4",
+        "score": 3.6,
+        "approvals": "COA"
+    },
+    "60261": {
+        "college_name": "MARG Institute of Design and Architecture Swarnabhoomi - [MIDAS]",
+        "streams": [],
+        "website": "https://www.midas.ac.in/",
+        "phone": [
+            "8754412325",
+            "8754489805",
+            "7358019986",
+            "7358000785"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "4.4",
+        "score": 3.6,
+        "approvals": "COA"
+    },
+    "14665": {
+        "college_name": "RP Inderaprastha Institute of Technology - [RPIIT]",
+        "streams": [],
+        "website": "http://www.rpinstitutions.com/index.php",
+        "phone": [
+            "9215678929",
+            "9813179575"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 224000
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 224000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 224000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 224000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 224000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 224000
+            },
+            {
+                "course_name": "Medical Lab Technology",
+                "fee_amount": 72000
+            },
+            {
+                "course_name": "Vocation",
+                "fee_amount": 108000
+            },
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 150000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 150000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 150000
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 72465
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "cutoff": "857709",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "1315650",
+                "cutoff_type": "rank",
+                "exam": "HSTES"
+            }
+        ],
+        "city": "Karnal",
+        "state": "Haryana",
+        "rating": "4.4",
+        "score": 3.5,
+        "approvals": "AICTE"
+    },
+    "12775": {
+        "college_name": "Alard College of Engineering and Management - [ACEM]",
+        "streams": [],
+        "website": "https://www.alardcollegeofengineering.com/",
+        "phone": [
+            "9822437729",
+            "8411010602"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Electronics & Telecom Engineering",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Computer Science and Design",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Advanced Communication Technology",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "VLSI Design & Technology",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 188000
+            },
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 141000
+            },
+            {
+                "course_name": "Electronics & Telecommunication Engineering",
+                "fee_amount": 141000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 141000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 141000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 141000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 65000
+            },
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 65000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Engineering",
+                "cutoff": "82.7",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "cutoff": "77.84",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Electronics & Telecom Engineering",
+                "cutoff": "70.25",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "cutoff": "44.48",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "28.33",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Computer Science and Design",
+                "cutoff": "68.48",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "VLSI Design & Technology",
+                "cutoff": "13.1",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "18.58",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            }
+        ],
+        "city": "Pune",
+        "state": "Maharashtra",
+        "rating": "4.4",
+        "score": 3.9,
+        "approvals": "AICTE"
+    },
+    "12835": {
+        "college_name": "Annai Teresa College of Engineering",
+        "streams": [],
+        "website": "http://www.atce.in",
+        "phone": [
+            "9842969992",
+            "9842372393"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 348000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "183071",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "cutoff": "183442",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "cutoff": "197382",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            }
+        ],
+        "city": "Viluppuram",
+        "state": "Tamil Nadu",
+        "rating": "4.4",
+        "score": 2.6,
+        "approvals": "AICTE"
+    },
+    "13306": {
+        "college_name": "Dadi Institute of Engineering and Technology (Autonomous) - [DIET]",
+        "streams": [],
+        "website": "http://www.diet.edu.in/",
+        "phone": [
+            "9963981111",
+            "9963694444",
+            "9963993229",
+            "9247178372"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 189600
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 189600
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 189600
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "fee_amount": 189600
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 189600
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 189600
+            },
+            {
+                "course_name": "Electrical & Electronics Engineering",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Power System & Industrial Drives",
+                "fee_amount": 116800
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 116800
+            },
+            {
+                "course_name": "System and Signal Processing",
+                "fee_amount": 116800
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "cutoff": "132170",
+                "cutoff_type": "rank",
+                "exam": "AP-EAPCET"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "153230",
+                "cutoff_type": "rank",
+                "exam": "AP-EAPCET"
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "cutoff": "137209",
+                "cutoff_type": "rank",
+                "exam": "AP-EAPCET"
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "cutoff": "152174",
+                "cutoff_type": "rank",
+                "exam": "AP-EAPCET"
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "cutoff": "158352",
+                "cutoff_type": "rank",
+                "exam": "AP-EAPCET"
+            },
+            {
+                "course_name": "Data Science",
+                "cutoff": "133365",
+                "cutoff_type": "rank",
+                "exam": "AP-EAPCET"
+            },
+            {
+                "course_name": "Electrical & Electronics Engineering",
+                "cutoff": "56905",
+                "cutoff_type": "rank",
+                "exam": "AP-POLYCET"
+            },
+            {
+                "course_name": "Computer Engineering",
+                "cutoff": "96733",
+                "cutoff_type": "rank",
+                "exam": "AP-POLYCET"
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "cutoff": "69569",
+                "cutoff_type": "rank",
+                "exam": "AP-POLYCET"
+            }
+        ],
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "rating": "4.4",
+        "score": 3.9,
+        "approvals": "AICTE"
+    },
+    "12686": {
+        "college_name": "AV Parekh Technical Institute - [AVPTI]",
+        "streams": [],
+        "website": "http://avpti.org/",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 3000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 3000
+            },
+            {
+                "course_name": "Instrumentation And Process Control",
+                "fee_amount": 3000
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 3000
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 3000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Rajkot",
+        "state": "Gujarat",
+        "rating": "4.4",
+        "score": 4.6,
+        "approvals": "AICTE"
+    },
+    "13932": {
+        "college_name": "KMCT College of Engineering",
+        "streams": [],
+        "website": "http://www.kmctcollegeofengineering.org/",
+        "phone": [
+            "9846635888",
+            "9072771888"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Automobile Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Applied Electronics And Instrumentation",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": ""
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "cutoff": "36676",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Automobile Engineering",
+                "cutoff": "50552",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "51927",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "51811",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "cutoff": "43504",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "cutoff": "50883",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            },
+            {
+                "course_name": "Information Technology",
+                "cutoff": "44969",
+                "cutoff_type": "rank",
+                "exam": "KEAM"
+            }
+        ],
+        "city": "Kozhikode",
+        "state": "Kerala",
+        "rating": "4.4",
+        "score": 3.6,
+        "approvals": "AICTE"
+    },
+    "15193": {
+        "college_name": "Sree Sakthi Engineering College - [SSEC]",
+        "streams": [],
+        "website": "http://www.sreesakthi.edu.in",
+        "phone": [
+            "9244504444"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 260000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 340000
+            },
+            {
+                "course_name": "Artificial Intelligence & Data Science",
+                "fee_amount": 340000
+            },
+            {
+                "course_name": "Artificial Intelligence & Machine Learning",
+                "fee_amount": 340000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "23118",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Information Technology",
+                "cutoff": "21408",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            }
+        ],
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "rating": "4.4",
+        "score": 3.7,
+        "approvals": "AICTE"
+    },
+    "14113": {
+        "college_name": "Loyola-ICAM College of Engineering and Technology - [LICET]",
+        "streams": [],
+        "website": "http://www.licet.ac.in",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 348000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "24492",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            }
+        ],
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "4.4",
+        "score": 4.2,
+        "approvals": "AICTE"
+    },
+    "14220": {
+        "college_name": "Mahatma Gandhi Mission's College of Engineering",
+        "streams": [],
+        "website": "http://www.themgmgroup.com/nanded.html",
+        "phone": [],
+        "college_type": "Private Institute",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 484000
+            },
+            {
+                "course_name": "Electronics & Telecom Engineering",
+                "fee_amount": 484000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 484000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 484000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 484000
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 143900
+            },
+            {
+                "course_name": "Manufacturing Engineering",
+                "fee_amount": 143900
+            },
+            {
+                "course_name": "Computer Networks and Internet Security",
+                "fee_amount": 143900
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 143900
+            },
+            {
+                "course_name": "Electronics & Telecommunication Engineering",
+                "fee_amount": 143900
+            },
+            {
+                "course_name": "Heat Transfer and Thermal Engineering",
+                "fee_amount": 143900
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "76.89",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Electronics & Telecom Engineering",
+                "cutoff": "58.16",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "21.49",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "1.55",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Information Technology",
+                "cutoff": "70.48",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            }
+        ],
+        "city": "Nanded",
+        "state": "Maharashtra",
+        "rating": "4.4",
+        "score": 3.4,
+        "approvals": "AICTE, NBA"
+    },
+    "14102": {
+        "college_name": "Lord Jegannath College of Engineering and Technology - [LJCET]",
+        "streams": [],
+        "website": "http://www.ljcet.org",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Aeronautical Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Robotics and Automation",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Agricultural Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 348000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 60000
+            },
+            {
+                "course_name": "Manufacturing Engineering",
+                "fee_amount": 60000
+            },
+            {
+                "course_name": "Applied Electronics",
+                "fee_amount": 60000
+            },
+            {
+                "course_name": "Cad/Cam",
+                "fee_amount": 60000
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 60000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "99766",
+                "cutoff_type": "rank",
+                "exam": "TNEA"
+            }
+        ],
+        "city": "Kanyakumari",
+        "state": "Tamil Nadu",
+        "rating": "4.4",
+        "score": 3.5,
+        "approvals": "AICTE"
+    },
+    "7886": {
+        "college_name": "Cosmopolitan Technology of Maritime - [CTM]",
+        "streams": [],
+        "website": "http://www.cosmopolitanmaritime.com/index.html",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "rating": "4.4",
+        "score": 4.6,
+        "approvals": []
+    },
+    "13107": {
+        "college_name": "Brahma Valley College of Engineering and Research Institute",
+        "streams": [],
+        "website": "https://www.engineering.brahmavalley.com/",
+        "phone": [
+            "9373977574",
+            "9689932172",
+            "9890500667",
+            "7743895341",
+            "9405356973"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 376000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 376000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 376000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 376000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Family Business & Entreprenership",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Financial Management",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "International Business",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Operations Management",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Supply Chain Management",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Technology Management",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Marketing Management",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Rural & Agribusiness Management",
+                "fee_amount": 165000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 246000
+            },
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 246000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 246000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 246000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Engineering",
+                "cutoff": "65.88",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "cutoff": "37.6",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "32.89",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "19.55",
+                "cutoff_type": "percentile",
+                "exam": "MHT-CET"
+            },
+            {
+                "course_name": "Human Resource Management",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Information Technology",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Family Business & Entreprenership",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Financial Management",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "International Business",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Operations Management",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Supply Chain Management",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Technology Management",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Marketing Management",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            },
+            {
+                "course_name": "Rural & Agribusiness Management",
+                "cutoff": "37.49",
+                "cutoff_type": "percentile",
+                "exam": "MAHCET"
+            }
+        ],
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "rating": "4.4",
+        "score": 3.1,
+        "approvals": "AICTE"
+    },
+    "15845": {
+        "college_name": "HEC Group of Institutions - [HEC]",
+        "streams": [],
+        "website": "http://heccollege.edu.in/",
+        "phone": [
+            "9897753533",
+            "9149014372"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Animation & Multimedia",
+                "fee_amount": 142500
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 97500
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 112500
+            },
+            {
+                "course_name": "Fashion Design",
+                "fee_amount": 142500
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 112500
+            },
+            {
+                "course_name": "Hotel Management",
+                "fee_amount": 37500
+            },
+            {
+                "course_name": "Yoga",
+                "fee_amount": 13000
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 111000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 111000
+            },
+            {
+                "course_name": "Event Management",
+                "fee_amount": 111000
+            },
+            {
+                "course_name": "Marketing",
+                "fee_amount": 111000
+            },
+            {
+                "course_name": "Retail Management",
+                "fee_amount": 111000
+            },
+            {
+                "course_name": "Botany",
+                "fee_amount": 67500
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 67500
+            },
+            {
+                "course_name": "Zoology",
+                "fee_amount": 67500
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 67500
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 67500
+            },
+            {
+                "course_name": "Political Science",
+                "fee_amount": 50500
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 50500
+            },
+            {
+                "course_name": "English",
+                "fee_amount": 50500
+            },
+            {
+                "course_name": "Hindi",
+                "fee_amount": 50500
+            },
+            {
+                "course_name": "History",
+                "fee_amount": 50500
+            },
+            {
+                "course_name": "Sociology",
+                "fee_amount": 50500
+            }
+        ],
+        "cutoffs": [],
+        "city": "Haridwar",
+        "state": "Uttarakhand",
+        "rating": "4.4",
+        "score": 4.2,
+        "approvals": []
+    },
+    "16233": {
+        "college_name": "Shri Patel Kelavani Mandal College of Technology & BEd",
+        "streams": [],
+        "website": "http://www.pkmbedjunagadh.org/index.php",
+        "phone": [],
+        "college_type": "Private Institute",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Junagadh",
+        "state": "Gujarat",
+        "rating": "4.4",
+        "score": 3.6,
+        "approvals": "NCTE"
+    },
+    "24296": {
+        "college_name": "Omkarananda Institute of Management & Technology- [OIMT]",
+        "streams": [],
+        "website": "http://www.oimt.ac.in/",
+        "phone": [
+            "7251064082",
+            "7534003822"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Marketing",
+                "fee_amount": 171700
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 171700
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 171700
+            }
+        ],
+        "cutoffs": [],
+        "city": "Rishikesh",
+        "state": "Uttarakhand",
+        "rating": "4.4",
+        "score": 3.6,
+        "approvals": "NCTE, AICTE"
+    },
+    "57283": {
+        "college_name": "Sandip Institute of Technology and Research Centre -[SITRC MBA]",
+        "streams": [],
+        "website": "http://www.mba.sandipfoundation.org/",
+        "phone": [],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Business Analytics",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Marketing Management",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Operations Management",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Supply Chain Management",
+                "fee_amount": 140000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "rating": "4.4",
+        "score": 4.4,
+        "approvals": "AICTE"
+    },
+    "59465": {
+        "college_name": "Kalka Group Of Institutions- [KGI]",
+        "streams": [],
+        "website": "http://www.kalkaeducationalsociety.com",
+        "phone": [
+            "9319180111",
+            "9368880111",
+            "9368880777"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Orthodontics And Dentofacial Orthopaedics",
+                "fee_amount": 2410000
+            },
+            {
+                "course_name": "Periodontics and Implant Dentistry",
+                "fee_amount": 910000
+            },
+            {
+                "course_name": "Conservative Dentistry & Endodontics",
+                "fee_amount": 2260000
+            },
+            {
+                "course_name": "Pedodontics",
+                "fee_amount": 1210000
+            },
+            {
+                "course_name": "Prosthodontics",
+                "fee_amount": 1285000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Conservative Dentistry & Endodontics",
+                "cutoff": "12758",
+                "cutoff_type": "rank",
+                "exam": "NEET-MDS"
+            }
+        ],
+        "city": "Meerut",
+        "state": "Uttar Pradesh",
+        "rating": "4.4",
+        "score": 4.5,
+        "approvals": "AICTE, PCI"
+    },
+    "21216": {
+        "college_name": "Lloyd Institute of Management and Technology",
+        "streams": [],
+        "website": "https://www.lloydbusinessschool.edu.in/",
+        "phone": [
+            "9821891830",
+            "9821394573"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Operations Management",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Marketing",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "International Business",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 300000
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 200000
+            },
+            {
+                "course_name": "Data Analytics",
+                "fee_amount": 300000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Human Resource Management",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "UPTAC"
+            },
+            {
+                "course_name": "Finance",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "UPTAC"
+            },
+            {
+                "course_name": "Operations Management",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "UPTAC"
+            },
+            {
+                "course_name": "Marketing",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "UPTAC"
+            },
+            {
+                "course_name": "International Business",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "UPTAC"
+            },
+            {
+                "course_name": "Information Technology",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "UPTAC"
+            }
+        ],
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh",
+        "rating": "4.4",
+        "score": 3.9,
+        "approvals": "AICTE, PCI, NBA"
+    },
+    "17513": {
+        "college_name": "Dinabandhu Andrews Institute of Technology and Management - [DAITM]",
+        "streams": [],
+        "website": "https://www.daitm.org.in/",
+        "phone": [
+            "6292344954",
+            "9051880976",
+            "9051880518"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "General",
+                "fee_amount": 225000
+            },
+            {
+                "course_name": "Hospital Management",
+                "fee_amount": 225000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "rating": "4.4",
+        "score": 3.8,
+        "approvals": "AICTE"
+    },
+    "25563": {
+        "college_name": "Manav Bharti University - [MBU]",
+        "streams": [],
+        "website": "http://www.manavbhartiuniversity.edu.in",
+        "phone": [
+            "8256010055",
+            "8256010058",
+            "93110 37788",
+            "96253 00003",
+            "97368 77193",
+            "80911 00003"
+        ],
+        "college_type": "",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 360000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 360000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 360000
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 360000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 360000
+            },
+            {
+                "course_name": "Pharmaceutics",
+                "fee_amount": 90000
+            },
+            {
+                "course_name": "Pharmaceutical Chemistry",
+                "fee_amount": 90000
+            },
+            {
+                "course_name": "Medical",
+                "fee_amount": 90000
+            },
+            {
+                "course_name": "Non-Medical",
+                "fee_amount": 90000
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "History",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Political Science",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Public Administration",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Sociology",
+                "fee_amount": 75000
+            },
+            {
+                "course_name": "Pharmaceutical Management",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Hospital Administration",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Marketing",
+                "fee_amount": 140000
+            },
+            {
+                "course_name": "Education",
+                "fee_amount": 62000
+            },
+            {
+                "course_name": "English",
+                "fee_amount": 50000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Solan",
+        "state": "Himachal Pradesh",
+        "rating": "4.4",
+        "score": 3.5,
+        "approvals": "AICTE, UGC"
+    },
+    "55889": {
+        "college_name": "Ishan Institute of Management and Technology - [IIMT]",
+        "streams": [],
+        "website": "https://iimt.ishan.ac/",
+        "phone": [
+            "+918448797700"
+        ],
+        "college_type": "Private",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh",
+        "rating": "4.4",
+        "score": 3.2,
+        "approvals": "AICTE, UGC"
+    }
+}
