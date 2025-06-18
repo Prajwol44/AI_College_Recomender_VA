@@ -86,49 +86,136 @@ def extract_data_from_html(html_text):
         extracted_data['phone'] = []
         extracted_data['college_type'] = ''
     
-    # Extract email
+    # Initialize rating fields
     extracted_data['email'] = ''
+    extracted_data['rating_value'] = ''
+    extracted_data['review_count'] = ''
+    extracted_data['worst_rating'] = ''
+    extracted_data['best_rating'] = ''
+    extracted_data['positive_notes'] = ''
+    
+    # Extract email and rating details from schema
     try:
         schema_json_str = data_dict['props']['initialProps']['pageProps']['data']['schemaJsonLd']['2']
+        schema_json_str3 = data_dict['props']['initialProps']['pageProps']['data']['schemaJsonLd']['3']
         try:
+            # print(schema_json_str)
+            # Try to parse the JSON string
             schema_data = json.loads(schema_json_str)
-            email = schema_data.get('email', '')
-            extracted_data['email'] = email
+            schema_data3 = json.loads(schema_json_str3)
+
+            print(schema_data)
+            print(extracted_data["phone"])
+
+            print(extracted_data)
+            # Extract email
+            if "email" in schema_data.keys():
+                extracted_data['email'] = schema_data.get('email', '')
+            else:
+                schema_data3 = json.loads(schema_json_str3)
+                extracted_data['email'] = schema_data3.get('email', '')
+
+
+            # Extract positive notes
+                extracted_data['positive_notes'] = schema_data.get('positiveNotes', '')
+            
+            # Extract rating details
+            if "aggregateRating" in schema_data.keys():
+                aggregate_rating = schema_data.get('aggregateRating', {})
+                if isinstance(aggregate_rating, dict):
+                    extracted_data['rating_value'] = aggregate_rating.get('ratingValue', '')
+                    extracted_data['review_count'] = aggregate_rating.get('reviewCount', '')
+                    extracted_data['worst_rating'] = aggregate_rating.get('worstRating', '')
+                    extracted_data['best_rating'] = aggregate_rating.get('bestRating', '')
+                if len(extracted_data['phone'])==0:
+                    extracted_data["phone"]= schema_data.get('telephone', '')
+            else:
+                aggregate_rating = schema_data3.get('aggregateRating', {})
+                if isinstance(aggregate_rating, dict):
+                    extracted_data['rating_value'] = aggregate_rating.get('ratingValue', '')
+                    extracted_data['review_count'] = aggregate_rating.get('reviewCount', '')
+                    extracted_data['worst_rating'] = aggregate_rating.get('worstRating', '')
+                    extracted_data['best_rating'] = aggregate_rating.get('bestRating', '') 
+                if len(extracted_data['phone']) == 0:
+                        extracted_data["phone"]= schema_data3.get('telephone', '')
+            # print(extracted_data)
+                       
+
+        
         except json.JSONDecodeError:
+            # Fallback to regex if JSON parsing fails
+            
+            # Email regex
             email_match = re.search(r'"email":"([^"]+)"', schema_json_str)
             if email_match:
                 extracted_data['email'] = email_match.group(1)
+            
+            # Positive notes regex
+            positive_notes_match = re.search(r'"positiveNotes":"([^"]+)"', schema_json_str)
+            if positive_notes_match:
+                extracted_data['positive_notes'] = positive_notes_match.group(1)
+            
+            # Rating regexes
+            rating_value_match = re.search(r'"ratingValue":\s*"?([0-9.]+)"?', schema_json_str)
+            if rating_value_match:
+                extracted_data['rating_value'] = rating_value_match.group(1)
+            
+            review_count_match = re.search(r'"reviewCount":\s*"?([0-9]+)"?', schema_json_str)
+            if review_count_match:
+                extracted_data['review_count'] = review_count_match.group(1)
+            
+            worst_rating_match = re.search(r'"worstRating":\s*"?([0-9.]+)"?', schema_json_str)
+            if worst_rating_match:
+                extracted_data['worst_rating'] = worst_rating_match.group(1)
+            
+            best_rating_match = re.search(r'"bestRating":\s*"?([0-9.]+)"?', schema_json_str)
+            if best_rating_match:
+                extracted_data['best_rating'] = best_rating_match.group(1)
+    
     except (KeyError, TypeError):
         pass
     
     # Extract course fees
+    print("cccccc"*10)
     courses_info = []
     try:
         full_time_courses = data_dict['props']['initialProps']['pageProps']['data']['new_compare_courses']['full_time']
+        # print(full_time_courses)
         for course in full_time_courses:
             stream_list = course.get('stream', [])
-            for stream_item in stream_list:
-                course_name = stream_item.get('name', '')
-                fee_amount = stream_item.get('total_current_fee', {}).get('general', {}).get('amount', '')
-                
-                courses_info.append({
-                    'course_name': course_name,
-                    'fee_amount': fee_amount
-                })
+
+            if len(stream_list) > 0:
+            
+                for stream_item in stream_list:
+                    course_name = stream_item.get('name', '')
+                    fee_amount = stream_item.get('total_current_fee', {}).get('general', {}).get('amount', '')
+                    
+                    courses_info.append({
+                        'course_name': course_name,
+                        'fee_amount': fee_amount
+                    })
+            else:
+                print("Stream not found")
     except (KeyError, TypeError):
         pass
-    extracted_data['courses'] = courses_info
     
+    extracted_data['courses'] = courses_info
+    print(courses_info)
+    print("......"*10)
+    # print(f"Course info {extracted_data}")
+
     # Extract cutoff details
     cutoffs_info = []
     try:
         course_data = data_dict['props']['initialProps']['pageProps']['data']['course_data']
+        
         courses_list = course_data['courses']
-        cutoff_dict = course_data.get('cutoff', {})
+        cutoff_dict = course_data['cutoff']
         
         # Create course ID to name mapping
         id_to_name = {}
         for course in courses_list:
+            print(course)
             try:
                 id_to_name[course['id']] = course['name']
             except (KeyError, TypeError):
@@ -180,13 +267,17 @@ def process_colleges():
     user_agent = random.choice(USER_AGENTS)
     total_colleges = len(college_data)
     processed_count = 0
-    max_colleges = 10  # Set maximum number of colleges to process
+    max_colleges = 1000  # Set maximum number of colleges to process
     
     print(f"Starting to process first {max_colleges} colleges")
     
     for college_id, college_info in college_data.items():
+        # print(college_id)
+        # if college_id != "25740":
+        #     continue
         # Break if we've reached the maximum number of colleges
         if processed_count >= max_colleges:
+            print("--"*10)
             break
             
         # Rotate user agent every 10 requests
@@ -205,6 +296,7 @@ def process_colleges():
         full_url = BASE_URL + college_info['url']
         print(f"\nProcessing college {processed_count+1}/{max_colleges}: {college_id}")
         print(f"URL: {full_url}")
+        print(college_id)
         
         try:
             response = requests.get(full_url, headers=HEADERS, timeout=30)

@@ -1,0 +1,5146 @@
+{
+    "25446": {
+        "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+        "streams": [],
+        "website": "http://www.aiims.edu",
+        "phone": "011-26588500",
+        "college_type": "",
+        "email": "director@aiims.edu",
+        "rating_value": 4.3,
+        "review_count": "245",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Operation Theatre Technology",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Medical Radiology & Imaging Technology",
+                "fee_amount": 4480
+            },
+            {
+                "course_name": "Dental Hygiene",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Dental Operating Room Assistant",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Oral Medicine And Radiology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Neurology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biostatistics",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Dermatology & Venerology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Community Ophthalmology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Medical Oncology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Hematology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biophysics",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Stem Cell",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Plant Reproductive Biology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Pediatrics",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Lab. Medicine",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Neuropathology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Laboratory Oncology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Nuclear Magnetic Resonance",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Ocular Pathology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Paediatric Surgery",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Orthodontics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Prosthodontics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Oral & Maxillofacial Surgery",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Paediatrics & Preventive Dentistry",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Conservative Dentistry & Endodontics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Nuclear Medicine Technology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Clinical Embryology and Reproductive Biology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Pharmacology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Biochemistry",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Physiology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Anatomy",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Neuroscience Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Nephrology Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Critical Care Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Biophysics",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Oncology Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Psychiatric Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Cardiological / CTVS Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Paediatric Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Perfusion Technology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Nuclear Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Radiodiagnosis",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Dermatology, Venereology & Leprology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Forensic Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Radiation Oncology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Pathology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Emergency Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Biophysics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Palliative Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Ophthalmology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Paediatrics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Orthopaedics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Otorhinolaryngology And Head & Neck Surgery",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Hospital Administration",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Anaesthesiology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Geriatric",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Physical Medicine And Rehabilitation",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Transfusion Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Laboratory Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "General Surgery",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Neuro Surgery",
+                "fee_amount": 9997
+            },
+            {
+                "course_name": "Minimal Access Surgery & General Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Trauma Surgery and Critical Care",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Cardiothoracic Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Cardiovascular Thoracic Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Gynae Oncology",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Paediatric Surgery",
+                "fee_amount": 9997
+            },
+            {
+                "course_name": "Urology",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Endocrine Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Head & Neck Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Plastic and Reconstructive Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Surgical Oncology",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "G.I. Surgery",
+                "fee_amount": 6875
+            }
+        ],
+        "cutoffs": [],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "approvals": "MCI, UGC"
+    },
+    "25703": {
+        "college_name": "IIT Bombay - Indian Institute of Technology - [IITB]",
+        "streams": [],
+        "website": "http://www.iitb.ac.in",
+        "phone": "022-25722545",
+        "college_type": "",
+        "email": "gateoffice@iitb.ac.in",
+        "rating_value": 4.4,
+        "review_count": "397",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Metallurgical And Materials Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Energy Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Power Systems And Power Electronics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerospace Structure",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Environmental Science And Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Construction Management",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Thermal - Fluid",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Corrosion Science & Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Material Science And Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Systems & Control Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Integrated Circuit Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Electronics Systems Design Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geoinformatics & Natural Resources Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerodynamics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Design Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geoinformatics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Nuclear Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Educational Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Industrial Engineering and Operations Research",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Petroleum Geoscience",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Naval Architecture and Offshore Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Steel Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Remote Sensing",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geoexploration",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geotechnical Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Ocean Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Electronic Systems",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Process Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Technology and Development",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Urban System",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Materials, Manufacturing and Modeling",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Control & Computing",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Petroleum Geology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Construction Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerospace Propulsion",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Manufacturing Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Micro Electronics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Solid State Materials",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Dynamics & Control",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Energy System Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Power System & Control",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Energy Science And Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Climate and Sustainability",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Computational Materials Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Control Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Semiconductor Materials and Processing",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Mathematics and Scientific Computing",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Applied Statistics And Informatics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Applied Geology",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Applied Geophysics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Statistics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Operations Research",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Design",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Earth Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Policy Studies",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Climate Studies",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Nano Science and Technology",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Natural Resources",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Technology and Development",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Energy Science And Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Environmental Science & Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Biosciences and Biomedical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Educational Technology",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Metallurgical Engineering And Materials Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Financial Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Operation Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Technology Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Strategic Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Control Systems",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Urban Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Communication Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Industrial Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Animation",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Interaction Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Mobility And Vehicle Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Energy Science And Engineering",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Electrical Engineering + Microelectronics",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Mechanical Engineering + Computer Integrated Manufacturing",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Environmental Engineering & Management",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Nano Science",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Metallurgical Engineering and Materials Science + Ceramics and Composites",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Electrical Engineering + Communications and Signal Processing",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Metallurgical and Materials Engineering",
+                "fee_amount": 1098000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.4,
+        "approvals": "AICTE, UGC"
+    },
+    "25455": {
+        "college_name": "IIT Delhi - Indian Institute of Technology [IITD]",
+        "streams": [],
+        "website": "http://www.iitd.ac.in/",
+        "phone": "011-26597135",
+        "college_type": "",
+        "email": "info@iitd.ac.in",
+        "rating_value": 4.3,
+        "review_count": "984",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Industrial & Production Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Textile Technology",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Biotechnology And Biochemical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Electrical Engineering [Power And Automation]",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Material Science Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Engineering and Computational Mechanics",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Energy Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Design Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Construction Engineering And Management",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Textile Chemical Processing",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Textile Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Instrumentation",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Computer Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Engineering Mechanics",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Robotics Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Power Electronics & Machine Drives",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Polymer Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Vlsi Design",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Applied Optics",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Production Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Mechanical Design",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Material Science And Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Cyber Security",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Solid State Materials",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Electric Mobility",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Optoelectronics And Optical Communication",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Renewable Energy Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Atmospheric-Oceanic Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Control & Automation",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Electronics Circuit & System",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biomolecular and Bioprocess Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Power System Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Thermal Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Energy Studies",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Energy Studies And Environmental Management",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Molecular Engineering & Advanced Chemical Analysis",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Rock Engineering And Underground Structures",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Geotechnical And Geoenvirnomental Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Engineering Analysis & Design",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Radio Frequency Design and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Integrated Circuit Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Telecommunication Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Fibre Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Construction Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Structure Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Applied Mechanics",
+                "fee_amount": 212400
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Cognitive Sciences",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 1239650
+            },
+            {
+                "course_name": "Telecommunication Systems Management",
+                "fee_amount": 1239650
+            },
+            {
+                "course_name": "Telecommunication Technology And Management",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biochemical Engineering and Biotechnology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Machine Intelligence & Data Science",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biological Science",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "VLSI Design Tools & Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Automotive Research and Tribology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Materials Science and Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Sensors, Instrumentation and Cyber-Physical Systems Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Applied Mechanics",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Transportation Safety and Injury Prevention",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Energy",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "fee_amount": 862550
+            }
+        ],
+        "cutoffs": [],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "approvals": []
+    },
+    "25494": {
+        "college_name": "IIMA - Indian Institute of Management",
+        "streams": [],
+        "website": "https://www.iima.ac.in/",
+        "phone": "079-71523456",
+        "college_type": "",
+        "email": "director@iima.ac.in",
+        "rating_value": 4.5,
+        "review_count": "57",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "rating": "10.0",
+        "score": 4.5,
+        "approvals": "UGC"
+    },
+    "25946": {
+        "college_name": "IIML - Indian Institute of Management",
+        "streams": [],
+        "website": "https://www.iiml.ac.in/",
+        "phone": "0522-2734101",
+        "college_type": "",
+        "email": "diroffice@iiml.ac.in",
+        "rating_value": 4.2,
+        "review_count": "92",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Agri-Business Management",
+                "fee_amount": 2075000
+            },
+            {
+                "course_name": "Sustainable Management",
+                "fee_amount": 980000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "rating": "10.0",
+        "score": 4.2,
+        "approvals": "UGC, AACSB, AMBA"
+    },
+    "25602": {
+        "college_name": "IIM Bangalore - Indian Institute of Management",
+        "streams": [],
+        "website": "http://www.iimb.ac.in/",
+        "phone": "080-26993000",
+        "college_type": "",
+        "email": "info@iimb.ac.in",
+        "rating_value": 4.6,
+        "review_count": "79",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "rating": "10.0",
+        "score": 4.6,
+        "approvals": "AICTE, UGC"
+    },
+    "25396": {
+        "college_name": "IIT Guwahati - Indian Institute of Technology - [IITG]",
+        "streams": [],
+        "website": "https://www.iitg.ac.in/",
+        "phone": "0361-2583000",
+        "college_type": "",
+        "email": "director@iitg.ac.in",
+        "rating_value": 4.3,
+        "review_count": "430",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Chemical Science And Technology",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Biosciences and Bioengineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Artificial Intelligence & Data Science",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Energy Engineering",
+                "fee_amount": 903700
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Artificial Intelligence & Robotics",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Machine Design",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Computational Mechanics",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Material Science and Technology",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Petroleum Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Signal Processing",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Aerodynamics",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Manufacturing Science & Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Thermal and Fluid Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Geotechnical Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Food Technology",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Vlsi Design",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Earth System Science And Technology",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Infrastructure Engineering And Construction Management",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "RF and Photonics",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Medical Device Innovation",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Computer Aided Design",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Rural Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Bioengineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Power System Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Power System Control and Automation",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Control Systems Engineering and Automation",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Electrical Power Engineering",
+                "fee_amount": 123700
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Management Studies",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Design",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Biosciences and Biomedical Engineering",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Linguistics",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Environment Management",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Disaster Management",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Rural Technology",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Health Science",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Cyber-Physical Systems",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Energy Science And Engineering",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Nanotechnology",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Knowledge Management",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Polymers and Composites",
+                "fee_amount": 173700
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 83700
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 83700
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 83700
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 83700
+            },
+            {
+                "course_name": "Development Studies",
+                "fee_amount": 83700
+            },
+            {
+                "course_name": "Liberal Arts",
+                "fee_amount": 83700
+            }
+        ],
+        "cutoffs": [],
+        "city": "Guwahati",
+        "state": "Assam",
+        "rating": "10.0",
+        "score": 4.3,
+        "approvals": "AICTE, UGC"
+    },
+    "25800": {
+        "college_name": "BITS Pilani (Pilani Campus)",
+        "streams": [],
+        "website": "https://www.bits-pilani.ac.in/",
+        "phone": "01596-515334",
+        "college_type": "",
+        "email": "mba.admissions@pilani.bits-pilani.ac.in",
+        "rating_value": 4.4,
+        "review_count": "710",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Manufacturing Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electronics And Instrumentation Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Software Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Micro Electronics Systems",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Embedded Systems",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Design Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Power Electronics And Drives",
+                "fee_amount": 1085575
+            },
+            {
+                "course_name": "Manufacturing System Management",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Infrastructure Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Sanitation Science, Technology and Management",
+                "fee_amount": 1085575
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Pharmaceutical Chemistry",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Pharmaceutics",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "General Studies",
+                "fee_amount": 719850
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 719850
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 719850
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 719850
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 719850
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 719850
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Computer Science And Information Technology",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Pharmacy",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Economics and Finance",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Management",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 193225
+            }
+        ],
+        "cutoffs": [],
+        "city": "Pilani",
+        "state": "Rajasthan",
+        "rating": "10.0",
+        "score": 4.4,
+        "approvals": "UGC"
+    },
+    "10587": {
+        "college_name": "Jawaharlal Institute of Post Graduate Medical Education and Research - [JIPMER]",
+        "streams": [],
+        "website": "https://jipmer.edu.in/",
+        "phone": "0413-2298288",
+        "college_type": "",
+        "email": "dean@jipmer.edu.in",
+        "rating_value": 4.2,
+        "review_count": "169",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Medical Laboratory Technology",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Medical Radiology & Imaging Technology",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Anaesthesia Technology",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Radiotherapy",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Cardiac Technology",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Perfusion Technology",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Neuro Technology",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Nuclear Medicine Technology",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Medical Laboratory Science",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Allied Health Sciences",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Dialysis",
+                "fee_amount": 35230
+            },
+            {
+                "course_name": "Community Health Nursing",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Medical Biochemistry",
+                "fee_amount": 26280
+            },
+            {
+                "course_name": "Neurotechnology",
+                "fee_amount": 26280
+            },
+            {
+                "course_name": "Pathology",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Medical Physiology",
+                "fee_amount": 26280
+            },
+            {
+                "course_name": "Medical Surgical Nursing",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Biostatistics",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Obstetrics & Gynecology Nursing",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Psychiatric Nursing",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Pediatric Nursing",
+                "fee_amount": 17520
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 28460
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 28460
+            },
+            {
+                "course_name": "Neurology",
+                "fee_amount": 28460
+            },
+            {
+                "course_name": "Preventive and Social Medicine",
+                "fee_amount": 28460
+            },
+            {
+                "course_name": "Medical Oncology",
+                "fee_amount": 28460
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 28460
+            },
+            {
+                "course_name": "Neuro Surgery",
+                "fee_amount": 103160
+            },
+            {
+                "course_name": "Pediatric Surgery",
+                "fee_amount": 103160
+            },
+            {
+                "course_name": "Cardio-Vascular Thoracic Surgery",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Surgical Oncology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Plastic Surgery",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Surgical Gastroenterology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Urology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Critical Care Medicine",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Neuroimaging and Interventional Radiology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Medical Oncology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Gastroenterology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Neonatology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Nephrology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Paediatric Critical Care",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Clinical Pharmacology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Neurology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Neuro Anaesthesiology",
+                "fee_amount": 62580
+            },
+            {
+                "course_name": "Dermatology, Venereology & Leprology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Radiation Oncology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Radiodiagnosis",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Nuclear Medicine",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "General Medicine",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Pediatrics",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Pulmonary Medicine",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Emergency Medicine",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Pathology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Anesthesiology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Blood Transfusion & Immunohaematology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Forensic Medicine",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Immunohematology & Blood Transfusion",
+                "fee_amount": 46580
+            },
+            {
+                "course_name": "Physical Medicine And Rehabilitation",
+                "fee_amount": 46580
+            }
+        ],
+        "cutoffs": [],
+        "city": "Pondicherry",
+        "state": "Puducherry",
+        "rating": "10.0",
+        "score": 4.2,
+        "approvals": "DCI, MCI, UGC"
+    },
+    "26006": {
+        "college_name": "IIMC - Indian Institute of Management",
+        "streams": [],
+        "website": "https://www.iimcal.ac.in/",
+        "phone": "033-24678300",
+        "college_type": "",
+        "email": "chairperson.placement@iimcal.ac.in",
+        "rating_value": 4.4,
+        "review_count": "87",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "rating": "10.0",
+        "score": 4.4,
+        "approvals": "UGC"
+    },
+    "25356": {
+        "college_name": "IIT Hyderabad - Indian Institute of Technology - [IITH]",
+        "streams": [],
+        "website": "https://www.iith.ac.in/",
+        "phone": "040-23016001",
+        "college_type": "",
+        "email": "registrar@iith.ac.in",
+        "rating_value": 4.3,
+        "review_count": "227",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Engineering Science",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Artificial Intelligence",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Biotechnology and Bioinformatics",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Metallurgical And Materials Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Industrial Chemistry",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Computational Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "IC Design and Technology",
+                "fee_amount": 942552
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Artificial Intelligence",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Liberal Arts",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Entrepreneurship",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Design",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Climate Studies",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Interdisciplinary Courses",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Metallurgical Engineering And Materials Science",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 125164
+            },
+            {
+                "course_name": "Interaction Design",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Product Design",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Visual Communication",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 586776
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 586776
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 586776
+            },
+            {
+                "course_name": "Development Studies",
+                "fee_amount": 90776
+            },
+            {
+                "course_name": "Health, Gender, and Society",
+                "fee_amount": 90776
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Climate Science",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Communication And Signal Processing",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Artificial Intelligence",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Medical Device Innovation",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Medical Biotechnology",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Microelectronics And Vlsi Design",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Networking and Information Security",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Smart Moblity",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Semiconductor Technology",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Additive Manufacturing",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Engineering Entrepreneurship",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Energy Science And Technology",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Integrated Circuit Technology",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Mechanical Design",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Integrated Design And Manufacturing",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Metallurgical & Materials Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Computational Mechanics",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Geotechnical Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Thermal and Fluid Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Industrial Metallurgy",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Solid State Materials",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Integrated Sensor Systems",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Power Systems And Power Electronics",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "E-waste Resource Engineering & Management",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Engineering Mechanics",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Polymers and Bio Systems Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Hydraulics & Water Resource Engineering",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Functional Materials and Devices",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Nano Medical Sciences",
+                "fee_amount": 92276
+            },
+            {
+                "course_name": "Systems & Control Engineering",
+                "fee_amount": 92276
+            }
+        ],
+        "cutoffs": [],
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "10.0",
+        "score": 4.3,
+        "approvals": "UGC"
+    },
+    "19268": {
+        "college_name": "XLRI",
+        "streams": [],
+        "website": "http://www.xlri.ac.in/",
+        "phone": "0657-6653333",
+        "college_type": "Private",
+        "email": "admis@xlri.ac.in",
+        "rating_value": 4.4,
+        "review_count": "79",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 3060000
+            },
+            {
+                "course_name": "Business Management",
+                "fee_amount": 3060000
+            },
+            {
+                "course_name": "General Management",
+                "fee_amount": 2590000
+            },
+            {
+                "course_name": "Innovation, Entreprenurship & Venture Development",
+                "fee_amount": 1500000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 1470000
+            },
+            {
+                "course_name": "Human Resource",
+                "fee_amount": 150000
+            },
+            {
+                "course_name": "Digital Marketing",
+                "fee_amount": 90000
+            },
+            {
+                "course_name": "Marketing Analytics",
+                "fee_amount": 295000
+            },
+            {
+                "course_name": "Strategic Management",
+                "fee_amount": 125000
+            },
+            {
+                "course_name": "Advanced Financial Management",
+                "fee_amount": 85000
+            },
+            {
+                "course_name": "Transformational Leadership",
+                "fee_amount": 295000
+            },
+            {
+                "course_name": "Financial Analytics",
+                "fee_amount": 167000
+            },
+            {
+                "course_name": "Strategic Performance Management",
+                "fee_amount": 130000
+            },
+            {
+                "course_name": "Project Management",
+                "fee_amount": 189000
+            },
+            {
+                "course_name": "Logistics and Supply Chain Management",
+                "fee_amount": 140000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "rating": "10.0",
+        "score": 4.4,
+        "approvals": "AICTE, NBA, AACSB, AMBA"
+    },
+    "17600": {
+        "college_name": "FMS Delhi Faculty of Management Studies",
+        "streams": [],
+        "website": "http://www.fms.edu",
+        "phone": "011-2766 6382",
+        "college_type": "Public",
+        "email": "computercentre@fms.edu",
+        "rating_value": 3.9,
+        "review_count": "128",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 3.9,
+        "approvals": "AICTE"
+    },
+    "25357": {
+        "college_name": "International Institute of Information Technology - [IIIT]",
+        "streams": [],
+        "website": "https://www.iiit.ac.in/",
+        "phone": "040-66531000",
+        "college_type": "",
+        "email": "query@iiit.ac.in",
+        "rating_value": 4.1,
+        "review_count": "108",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 1800000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 1800000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 900000
+            },
+            {
+                "course_name": "Computer Aided Structural Engineering",
+                "fee_amount": 900000
+            },
+            {
+                "course_name": "Computer Science And Information Security",
+                "fee_amount": 900000
+            },
+            {
+                "course_name": "Product Design & Management",
+                "fee_amount": 900000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "I.T. In Building Science",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "Bioinformatics",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "Computational Linguistics",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "Computational Natural Sciences",
+                "fee_amount": 120000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 2250000
+            },
+            {
+                "course_name": "Computer Science + Computational Linguistics",
+                "fee_amount": 2250000
+            },
+            {
+                "course_name": "Computer Science + Computational Natural Science",
+                "fee_amount": 2250000
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 2250000
+            },
+            {
+                "course_name": "Human Science",
+                "fee_amount": 2250000
+            },
+            {
+                "course_name": "Geospatial Technology by Research",
+                "fee_amount": 2250000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Bioinformatics",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Cognitive Science",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Electronics And Communications Engineering",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Spatial Informatics",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Computational Linguistics",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Computational Natural Sciences",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Humanities",
+                "fee_amount": 180000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 180000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "10.0",
+        "score": 4.1,
+        "approvals": "AICTE, BCI, UGC"
+    },
+    "25980": {
+        "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+        "streams": [],
+        "website": "https://www.aiimsrishikesh.edu.in/",
+        "phone": [
+            "8726033322"
+        ],
+        "college_type": "",
+        "email": "dir@aiimsrishikesh.edu.in",
+        "rating_value": 4.4,
+        "review_count": "73",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Respiratory Therapy",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Medical Technology In Radiography",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Operation Theatre Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Medical Radiology & Imaging Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "NeuroScience",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Nuclear Medicine Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Radiotherapy",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Anaesthesia Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Medical Laboratory Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Neuro Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Dental Hygiene",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Sleep Science",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Dental Operating Room Assistant",
+                "fee_amount": 53400
+            },
+            {
+                "course_name": "Orthopedic Care Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Perfusion Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Urology Technology",
+                "fee_amount": 46200
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 76502
+            },
+            {
+                "course_name": "Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Clinical Embryology",
+                "fee_amount": 76502
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 76502
+            },
+            {
+                "course_name": "Perfusion Technology",
+                "fee_amount": 4105
+            },
+            {
+                "course_name": "Cardio Vascular & Thoracic Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Community Health Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 76502
+            },
+            {
+                "course_name": "Critical Care Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Medical Physiology",
+                "fee_amount": 108902
+            },
+            {
+                "course_name": "Neuroscience Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Oncology Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Pediatric Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Medical Biochemistry",
+                "fee_amount": 4105
+            },
+            {
+                "course_name": "Medical Pharmacology",
+                "fee_amount": 4105
+            },
+            {
+                "course_name": "Obstetric & Gynaecological Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Orthopedic Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 108902
+            },
+            {
+                "course_name": "Psychiatric Nursing",
+                "fee_amount": 4610
+            },
+            {
+                "course_name": "Oral & Maxillofacial Surgery",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Periodontics",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Periodontology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "General Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Radiation Oncology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Dermatology and Venerology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Nuclear Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Ophthalmology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Physical Medicine And Rehabilitation",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Anaesthesiology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Pathology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Emergency Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Geriatric",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Forensic Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Transfusion Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Paediatrics",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Respiratory Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Family Medicine",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "E.N.T.",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Orthopaedics",
+                "fee_amount": 62102
+            },
+            {
+                "course_name": "Clinical Pharmacology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Hematopathology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Onco-Anesthesia",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Clinical Haematology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Critical Care Medicine",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Infectious Diseases",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Medical Oncology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Neonatology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Nephrology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Neuroimaging and Interventional Radiology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Neurology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Paediatric Critical Care",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Pediatric Gastroenterology",
+                "fee_amount": 69302
+            },
+            {
+                "course_name": "Pulmonary Medicine",
+                "fee_amount": 69302
+            }
+        ],
+        "cutoffs": [],
+        "city": "Rishikesh",
+        "state": "Uttarakhand",
+        "rating": "10.0",
+        "score": 4.4,
+        "approvals": "MCI"
+    },
+    "18617": {
+        "college_name": "SP Jain [SPJIMR]",
+        "streams": [],
+        "website": "http://www.spjimr.org",
+        "phone": "022-61454200",
+        "college_type": "Private",
+        "email": "info@spjimr.org",
+        "rating_value": 4.2,
+        "review_count": "45",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Business Management",
+                "fee_amount": 2250000
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 2250000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.2,
+        "approvals": "AICTE, NBA, AACSB, AMBA"
+    },
+    "10471": {
+        "college_name": "Government Medical College and Hospital - [GMCH]",
+        "streams": [],
+        "website": "http://www.gmch.gov.in",
+        "phone": "0172-260102",
+        "college_type": "Government",
+        "email": "dpgmch-chd@gmch.gov.in",
+        "rating_value": 4.1,
+        "review_count": "27",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Medical Laboratory Science",
+                "fee_amount": 39132
+            },
+            {
+                "course_name": "Medical Radiology & Imaging Technology",
+                "fee_amount": 39132
+            },
+            {
+                "course_name": "Operation Theatre Technology",
+                "fee_amount": 29349
+            },
+            {
+                "course_name": "Radiotherapy",
+                "fee_amount": 29349
+            },
+            {
+                "course_name": "General Surgery",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Orthopaedics",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Ophthalmology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Ear, Nose, Throat",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Clinical Psychology",
+                "fee_amount": 51108
+            },
+            {
+                "course_name": "Psychiatric Social Work",
+                "fee_amount": 51108
+            },
+            {
+                "course_name": "General Medicine",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Paediatrics",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Radiodiagnosis",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Dermatology, Venereology & Leprology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Pathology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Transfusion Medicine",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Radiotherapy",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Anaesthesiology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Forensic Medicine",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Ophthalmology",
+                "fee_amount": 103000
+            },
+            {
+                "course_name": "Pulmonary And Critical Care Medicine",
+                "fee_amount": 103000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "rating": "10.0",
+        "score": 4.1,
+        "approvals": "MCI"
+    },
+    "18735": {
+        "college_name": "Shailesh J. Mehta School of Management, IIT Bombay - [SJMSOM]",
+        "streams": [],
+        "website": "http://www.som.iitb.ac.in",
+        "phone": null,
+        "college_type": "Public",
+        "email": null,
+        "rating_value": 4.4,
+        "review_count": "28",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "General",
+                "fee_amount": 1426750
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 1426750
+            },
+            {
+                "course_name": "Human Resource",
+                "fee_amount": 1426750
+            },
+            {
+                "course_name": "Operations",
+                "fee_amount": 1426750
+            },
+            {
+                "course_name": "Accounting",
+                "fee_amount": 1426750
+            },
+            {
+                "course_name": "Intellectual Property Rights Law",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Interdisciplinary Research",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Management Studies",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Marketing",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "International Business",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Financial Management",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Operation Management",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Strategic Management",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Operations Management & Quantitative Techniques",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Technology Management",
+                "fee_amount": 96000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.4,
+        "approvals": "AICTE"
+    },
+    "25945": {
+        "college_name": "Indian Institute of Information Technology - [IIIT]",
+        "streams": [],
+        "website": "https://www.iiita.ac.in/",
+        "phone": "0532-2922000",
+        "college_type": "",
+        "email": "director@iiita.ac.in",
+        "rating_value": 4.3,
+        "review_count": "239",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 843940
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 843940
+            },
+            {
+                "course_name": "Information Technology Business Informatics",
+                "fee_amount": 843940
+            },
+            {
+                "course_name": "Management Studies",
+                "fee_amount": 240270
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 240270
+            },
+            {
+                "course_name": "Applied Sciences",
+                "fee_amount": 240270
+            },
+            {
+                "course_name": "Electronics & Communication",
+                "fee_amount": 240270
+            },
+            {
+                "course_name": "Cyber laws and Information Security",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Human Computer Interaction",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Bioinformatics",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Data Engineering",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Software Engineering",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Network Security",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Micro Electronics",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Wireless Communication Technology",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Artificial Intelligence & Robotics",
+                "fee_amount": 401890
+            },
+            {
+                "course_name": "Machine Learning and Intelligent Systems",
+                "fee_amount": 724010
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Information Technology + Network and Security",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Electronics & Communication Engineering + Microelectronics",
+                "fee_amount": 709190
+            },
+            {
+                "course_name": "Bioinformatics",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Software Engineering",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Intelligent Systems",
+                "fee_amount": 709190
+            },
+            {
+                "course_name": "Robotics",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Cyber Law And Information Security",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Human Computer Interaction",
+                "fee_amount": 1536090
+            },
+            {
+                "course_name": "Wireless Communication Engineering",
+                "fee_amount": 1536090
+            }
+        ],
+        "cutoffs": [],
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "rating": "10.0",
+        "score": 4.3,
+        "approvals": "AICTE, UGC"
+    },
+    "14479": {
+        "college_name": "Netaji Subhas University of Technology - [NSUT]",
+        "streams": [],
+        "website": "http://www.nsut.ac.in/",
+        "phone": [
+            "9205475102",
+            "9205475103",
+            "9205475094",
+            "9205475070"
+        ],
+        "college_type": "",
+        "email": "director@nsit.ac.in",
+        "rating_value": 3.7,
+        "review_count": "945",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Instrumentation & Control Engineering",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Artificial Intelligence",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Manufacturing & Automation",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Electronics and Communication Engineering-Internet of Things",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Network and Information Security",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Mechanical Engineering - Electric Vehicles",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Computer Science and Artificial Intelligence",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Geo-Informatics Engineering",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Electronics and Communication Engineering - Artificial Intelligence",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Internet of Things",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Big Data Analytics",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Data Analytics",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Advanced Communication Systems",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Computer Science and Design",
+                "fee_amount": 1129000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Bioinformatics",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Vlsi Design & Embedded System",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Mobile Communication & Network Technology",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Cad/ Cam",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Signal Processing",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Communication Networks",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Engineering Management",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Industrial Electronics",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Mechatronics",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Production Engineering",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Biochemical Engineering",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Digital Communication Engineering",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Process Control",
+                "fee_amount": 346500
+            },
+            {
+                "course_name": "Instrumentation and Control",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Management Studies",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Electronics And Communications Engineering",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Design",
+                "fee_amount": 83800
+            },
+            {
+                "course_name": "Innovation, Entrepreneurship and Venture Development",
+                "fee_amount": 474000
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 474000
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Applied Psychology",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "English Literature",
+                "fee_amount": 96000
+            },
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 810000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 810000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 810000
+            },
+            {
+                "course_name": "Mechanical and Automation Engineering",
+                "fee_amount": 810000
+            }
+        ],
+        "cutoffs": [],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 3.7,
+        "approvals": "AICTE, UGC, NBA"
+    },
+    "25665": {
+        "college_name": "IIMI - Indian Institute of Management",
+        "streams": [],
+        "website": "http://www.iimidr.ac.in",
+        "phone": "0731-2439666",
+        "college_type": "",
+        "email": "placement@iimidr.ac.in",
+        "rating_value": 4.3,
+        "review_count": "82",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "rating": "9.9",
+        "score": 4.3,
+        "approvals": "AACSB, AMBA"
+    },
+    "11168": {
+        "college_name": "VGSOM - Vinod Gupta School of Management IIT",
+        "streams": [],
+        "website": "https://som.iitkgp.ac.in/",
+        "phone": [
+            "9434004940"
+        ],
+        "college_type": "Private (Autonomous)",
+        "email": "deanvgs@hijli.iitkgp.ac.in",
+        "rating_value": 4.4,
+        "review_count": "22",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Kharagpur",
+        "state": "West Bengal",
+        "rating": "9.9",
+        "score": 4.4,
+        "approvals": "AICTE"
+    },
+    "25641": {
+        "college_name": "IIMK - Indian Institute of Management",
+        "streams": [],
+        "website": "http://www.iimk.ac.in",
+        "phone": "+91-495-2809100",
+        "college_type": "",
+        "email": "admissions@iimk.ac.in",
+        "rating_value": 4.2,
+        "review_count": "40",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Quantitative Methods & Operations Management",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Finance, Control & Accounting",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Humanities & Liberal Arts",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Organizational Behaviour and Human Resources",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Information Technology and Systems",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Strategic Management",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 2350000
+            },
+            {
+                "course_name": "Marketing",
+                "fee_amount": 2350000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Kozhikode",
+        "state": "Kerala",
+        "rating": "9.9",
+        "score": 4.2,
+        "approvals": "AACSB, AMBA"
+    },
+    "13090": {
+        "college_name": "Birla Institute of Technology and Science - [BITS]",
+        "streams": [],
+        "website": "http://www.bits-pilani.ac.in/Goa/",
+        "phone": [
+            "9767022314"
+        ],
+        "college_type": "",
+        "email": "mridula@goa.bits-pilani.ac.in",
+        "rating_value": 4.3,
+        "review_count": "127",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electronics And Instrumentation Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Manufacturing Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Micro Electronics Systems",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Engg Design",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Embedded Systems",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Sanitation Science, Technology and Management",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Economics and Finance",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Bio-Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 193225
+            }
+        ],
+        "cutoffs": [],
+        "city": "South Goa",
+        "state": "Goa",
+        "rating": "9.9",
+        "score": 4.3,
+        "approvals": "UGC"
+    },
+    "28467": {
+        "college_name": "Birla Institute of Technology and Science - [BITS]",
+        "streams": [],
+        "website": "http://www.bits-pilani.ac.in/hyderabad",
+        "phone": [
+            "7349470595"
+        ],
+        "college_type": "",
+        "email": "bnj@bits-pilani.ac.in",
+        "rating_value": 4.5,
+        "review_count": "214",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Electronics And Instrumentation Engineering",
+                "fee_amount": 2529200
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Embedded Systems",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Design Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Manufacturing System Management",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Sanitation Science, Technology and Management",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Micro Electronics Systems",
+                "fee_amount": 1146775
+            },
+            {
+                "course_name": "Tech Information Systems",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 1239850
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Computer Science And Information Technology",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Pharmacy",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Economics and Finance",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": 193225
+            },
+            {
+                "course_name": "Management",
+                "fee_amount": 193225
+            }
+        ],
+        "cutoffs": [],
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "rating": "9.9",
+        "score": 4.5,
+        "approvals": "AICTE, UGC"
+    },
+    "18186": {
+        "college_name": "JBIMS Mumbai",
+        "streams": [],
+        "website": "https://jbims.edu/beta/",
+        "phone": [
+            "9326234746"
+        ],
+        "college_type": "Private",
+        "email": "admin@jbims.edu",
+        "rating_value": 4.2,
+        "review_count": "39",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Finance",
+                "fee_amount": 900000
+            },
+            {
+                "course_name": "Operations",
+                "fee_amount": 900000
+            },
+            {
+                "course_name": "Systems",
+                "fee_amount": 900000
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 900000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.2,
+        "approvals": "AICTE"
+    },
+    "25449": {
+        "college_name": "Delhi Technological University - [DTU]",
+        "streams": [],
+        "website": "https://www.dtu.ac.in/",
+        "phone": "011-27871018",
+        "college_type": "",
+        "email": "dtumitr@dtu.ac.in",
+        "rating_value": 4.1,
+        "review_count": "1686",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Software Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Industrial & Production Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Automotive Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Electrical And Electronics Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 1109800
+            },
+            {
+                "course_name": "Business Analytics",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Marketing Management",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Innovation, Entrepreneurship and Venture Development",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Finance",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Operations",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Accounting",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Family Business & Entreprenership",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Human Resource Management",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Supply Chain Management",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Financial Management",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Knowledge Technology",
+                "fee_amount": 483400
+            },
+            {
+                "course_name": "Digital System & Signal Processing",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Thermal Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Production Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Software Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Vlsi Design & Embedded System",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Artificial Intelligence",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Bioinformatics",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Industrial Biotechnology",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Information System",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Geotechnical Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Instrumentation And Control Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Microwave & Optical Communication",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Power Systems And Power Electronics",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Power System Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Computer Aided Analysis And Design",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Geoinformatics",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Industrial Engineering & Management",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Computer Aided Design",
+                "fee_amount": 338400
+            },
+            {
+                "course_name": "Polymer Technology",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Hydraulic & Flood Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Energy System Engineering",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Material Science and Technology",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Engineering System",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Hydraulics & Water Resource Engineering",
+                "fee_amount": 317000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 250000
+            },
+            {
+                "course_name": "Research",
+                "fee_amount": 200000
+            },
+            {
+                "course_name": "Software Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Mathematics and Computing",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Computer Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Environment Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Industrial & Production Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Automotive Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Electrical and Electronics Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 862100
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 92200
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 92200
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 92200
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 92200
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Management",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Applied Mathematics",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Applied Physics",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Applied Chemistry",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Humanities",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Design",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Electronics And Communications Engineering",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Innovation & Venture Development",
+                "fee_amount": 98100
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 98100
+            }
+        ],
+        "cutoffs": [],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.1,
+        "approvals": "UGC, NBA"
+    },
+    "25604": {
+        "college_name": "International Institute of Information Technology - [IIIT-B]",
+        "streams": [],
+        "website": "http://www.iiitb.ac.in",
+        "phone": "080-28527627",
+        "college_type": "",
+        "email": "info@iiitb.ac.in",
+        "rating_value": 4.2,
+        "review_count": "51",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Science & Engineering",
+                "fee_amount": 2632000
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 2632000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 957200
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 957200
+            },
+            {
+                "course_name": "Artificial Intelligence & Data Science",
+                "fee_amount": 957200
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 2024000
+            },
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 2024000
+            },
+            {
+                "course_name": "Data Science and Artificial Intelligence",
+                "fee_amount": 2024000
+            },
+            {
+                "course_name": "Vlsi",
+                "fee_amount": 492000
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 492000
+            },
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 492000
+            },
+            {
+                "course_name": "Communication And Networking",
+                "fee_amount": 492000
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 492000
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 492000
+            },
+            {
+                "course_name": "Software Engineering",
+                "fee_amount": 492000
+            }
+        ],
+        "cutoffs": [],
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "rating": "9.9",
+        "score": 4.2,
+        "approvals": "AICTE, UGC"
+    },
+    "25453": {
+        "college_name": "IIFT Delhi Indian Institute of Foreign Trade",
+        "streams": [],
+        "website": "https://www.iift.ac.in/iift/index.php",
+        "phone": "011-39147200",
+        "college_type": "",
+        "email": "admissions@iift.ac.in",
+        "rating_value": 4.3,
+        "review_count": "143",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "International Business",
+                "fee_amount": 2192000
+            },
+            {
+                "course_name": "Business Analytics",
+                "fee_amount": 1792506
+            },
+            {
+                "course_name": "Management",
+                "fee_amount": 65000
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 5000
+            }
+        ],
+        "cutoffs": [],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.3,
+        "approvals": "AACSB"
+    },
+    "25457": {
+        "college_name": "Indraprastha Institute of Information Technology - [IIITD]",
+        "streams": [],
+        "website": "https://www.iiitd.ac.in",
+        "phone": "011-26907400",
+        "college_type": "",
+        "email": "info@iiitd.ac.in",
+        "rating_value": 4.2,
+        "review_count": "101",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Electronics & Communication Engineering",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Computer Science and Biosciences",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Computer Science and Artificial Intelligence",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Computer Science and Applied Mathematics",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Computer Science and Design",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Computer Science and Social Sciences",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Electronics & VLSI Engineering",
+                "fee_amount": 1967000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Vlsi Design & Embedded System",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Computational Biology",
+                "fee_amount": 370000
+            },
+            {
+                "course_name": "Artificial Intelligence",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Information Security",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Data Engineering",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Cyber Security",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Electronics And Communication Engineering",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Mobile Computing Technology",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Research",
+                "fee_amount": 306000
+            },
+            {
+                "course_name": "Communication And Signal Processing",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Cyber Physical Systems",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Machine Learning",
+                "fee_amount": 600000
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 370000
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 462000
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Computational Biology",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": ""
+            },
+            {
+                "course_name": "Electronics And Communications Engineering",
+                "fee_amount": 462000
+            }
+        ],
+        "cutoffs": [],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "9.9",
+        "score": 4.2,
+        "approvals": "AICTE, NBA"
+    },
+    "55792": {
+        "college_name": "Indian Institute of Information Technology - [IIITL]",
+        "streams": [],
+        "website": "https://iiitl.ac.in/",
+        "phone": "9415395066",
+        "college_type": "",
+        "email": "contact@iiitl.ac.in",
+        "rating_value": 4.2,
+        "review_count": "55",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "Computer Science",
+                "fee_amount": 1023300
+            },
+            {
+                "course_name": "Computer Science and Business Systems",
+                "fee_amount": 1023300
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 1023300
+            },
+            {
+                "course_name": "Computer Science and Artificial Intelligence",
+                "fee_amount": 1023300
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 228500
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 228500
+            },
+            {
+                "course_name": "Machine Learning and Artificial Intelligence",
+                "fee_amount": 228500
+            },
+            {
+                "course_name": "Management",
+                "fee_amount": 203400
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 203400
+            },
+            {
+                "course_name": "Engineering",
+                "fee_amount": 203400
+            }
+        ],
+        "cutoffs": [],
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "rating": "9.9",
+        "score": 4.2,
+        "approvals": "MHRD"
+    },
+    "10499": {
+        "college_name": "Grant Medical College and Sir J. J. Group of Hospitals",
+        "streams": [],
+        "website": "https://gmcjjh.edu.in/about-us/",
+        "phone": [
+            "9869390612",
+            "9892986335"
+        ],
+        "college_type": "Government",
+        "email": "deangmcjjh@gmail.com",
+        "rating_value": 4.4,
+        "review_count": "29",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "positive_notes": "",
+        "courses": [
+            {
+                "course_name": "General Medicine",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Radiodiagnosis",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Dermatology, Venereology & Leprology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Emergency Medicine",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Paediatrics",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Anaesthesiology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Transfusion Medicine",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Tuberculosis & Respiratory Medicine",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Pathology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Forensic Medicine",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Radiology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Geriatric",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Ophthalmology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Neurology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Gastroenterology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Nephrology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Cardiology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Interventional Radiology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Endocrinology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "General Surgery",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Orthopaedics",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Ear, Nose, Throat",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Cardio-Vascular Thoracic Surgery",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Neuro Surgery",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Plastic Surgery",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Paediatric Surgery",
+                "fee_amount": 468930
+            },
+            {
+                "course_name": "Urology",
+                "fee_amount": 468930
+            }
+        ],
+        "cutoffs": [],
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "9.9",
+        "score": 4.4,
+        "approvals": "MCI"
+    }
+}
