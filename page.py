@@ -188,7 +188,8 @@ def extract_data_from_html(html_text):
             
                 for stream_item in stream_list:
                     course_name = stream_item.get('name', '')
-                    fee_amount = stream_item.get('total_current_fee', {}).get('general', {}).get('amount', '')
+                    if isinstance(stream_item.get('total_current_fee'), dict):
+                        fee_amount = stream_item.get('total_current_fee', {}).get('general', {}).get('amount', '')
                     
                     courses_info.append({
                         'course_name': course_name,
@@ -210,7 +211,8 @@ def extract_data_from_html(html_text):
         course_data = data_dict['props']['initialProps']['pageProps']['data']['course_data']
         
         courses_list = course_data['courses']
-        cutoff_dict = course_data['cutoff']
+        if isinstance(course_data['cutoff'], dict):
+            cutoff_dict = course_data['cutoff']
         
         # Create course ID to name mapping
         id_to_name = {}
@@ -220,36 +222,37 @@ def extract_data_from_html(html_text):
                 id_to_name[course['id']] = course['name']
             except (KeyError, TypeError):
                 continue
-        
-        for course_id, cutoff_list in cutoff_dict.items():
-            try:
-                course_name = id_to_name.get(int(course_id), 'Unknown Course')
-                for cutoff in cutoff_list:
-                    cutoffs_info.append({
-                        'course_name': course_name,
-                        'cutoff': cutoff.get('cutoff', ''),
-                        'cutoff_type': cutoff.get('cutoff_type', ''),
-                        'exam': cutoff.get('exam', '')
-                    })
-            except (ValueError, TypeError):
-                continue
+        if isinstance(course_data['cutoff'], dict):
+            for course_id, cutoff_list in cutoff_dict.items():
+                try:
+                    course_name = id_to_name.get(int(course_id), 'Unknown Course')
+                    for cutoff in cutoff_list:
+                        cutoffs_info.append({
+                            'course_name': course_name,
+                            'cutoff': cutoff.get('cutoff', ''),
+                            'cutoff_type': cutoff.get('cutoff_type', ''),
+                            'exam': cutoff.get('exam', '')
+                        })
+                except (ValueError, TypeError):
+                    continue
         
         # Fallback to stream cutoffs if needed
         if not cutoffs_info:
             try:
                 full_time_courses = data_dict['props']['initialProps']['pageProps']['data']['new_compare_courses']['full_time']
-                for course in full_time_courses:
-                    stream_list = course.get('stream', [])
-                    for stream_item in stream_list:
-                        cutoff_data = stream_item.get('cutoff', {})
-                        if cutoff_data and isinstance(cutoff_data, dict):
-                            course_name = stream_item.get('name', '')
-                            cutoffs_info.append({
-                                'course_name': course_name,
-                                'cutoff': cutoff_data.get('cutoff', ''),
-                                'cutoff_type': cutoff_data.get('cutoff_type', ''),
-                                'exam': cutoff_data.get('exam', '')
-                            })
+                if isinstance(full_time_courses, list):
+                    for course in full_time_courses:
+                        stream_list = course.get('stream', [])
+                        for stream_item in stream_list:
+                            cutoff_data = stream_item.get('cutoff', [])
+                            if cutoff_data and isinstance(cutoff_data, dict):
+                                course_name = stream_item.get('name', '')
+                                cutoffs_info.append({
+                                    'course_name': course_name,
+                                    'cutoff': cutoff_data.get('cutoff', ''),
+                                    'cutoff_type': cutoff_data.get('cutoff_type', ''),
+                                    'exam': cutoff_data.get('exam', '')
+                                })
             except (KeyError, TypeError):
                 pass
     except (KeyError, TypeError):
@@ -266,8 +269,8 @@ def process_colleges():
     request_count = 0
     user_agent = random.choice(USER_AGENTS)
     total_colleges = len(college_data)
-    processed_count = 0
-    max_colleges = 1000  # Set maximum number of colleges to process
+    processed_count = 1
+    max_colleges = 5 # Set maximum number of colleges to process
     
     print(f"Starting to process first {max_colleges} colleges")
     
