@@ -1,0 +1,2206 @@
+{
+    "25446": {
+        "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+        "streams": [],
+        "website": "http://www.aiims.edu",
+        "phone": [],
+        "college_type": "",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Operation Theatre Technology",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Medical Radiology & Imaging Technology",
+                "fee_amount": 4480
+            },
+            {
+                "course_name": "Dental Hygiene",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Dental Operating Room Assistant",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Oral Medicine And Radiology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Neurology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biostatistics",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Dermatology & Venerology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Community Ophthalmology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Medical Oncology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Hematology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Biophysics",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Stem Cell",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Plant Reproductive Biology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Pediatrics",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Lab. Medicine",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Neuropathology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Laboratory Oncology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Nuclear Magnetic Resonance",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Ocular Pathology",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Paediatric Surgery",
+                "fee_amount": 5215
+            },
+            {
+                "course_name": "Orthodontics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Prosthodontics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Oral & Maxillofacial Surgery",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Paediatrics & Preventive Dentistry",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Conservative Dentistry & Endodontics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Nuclear Medicine Technology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Clinical Embryology and Reproductive Biology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Pharmacology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Biochemistry",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Physiology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Medical Anatomy",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Neuroscience Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Nephrology Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Critical Care Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Biophysics",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Oncology Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Psychiatric Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Cardiological / CTVS Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Paediatric Nursing",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Perfusion Technology",
+                "fee_amount": 2830
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Nuclear Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Radiodiagnosis",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Dermatology, Venereology & Leprology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Psychiatry",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Forensic Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Radiation Oncology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Pathology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Emergency Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Biophysics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Palliative Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Ophthalmology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Paediatrics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Pharmacology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Biochemistry",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Community Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Orthopaedics",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Microbiology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Otorhinolaryngology And Head & Neck Surgery",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Hospital Administration",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Physiology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Anaesthesiology",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Geriatric",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Physical Medicine And Rehabilitation",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Transfusion Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Anatomy",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Laboratory Medicine",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "General Surgery",
+                "fee_amount": 5111
+            },
+            {
+                "course_name": "Neuro Surgery",
+                "fee_amount": 9997
+            },
+            {
+                "course_name": "Minimal Access Surgery & General Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Trauma Surgery and Critical Care",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Cardiothoracic Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Cardiovascular Thoracic Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Gynae Oncology",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Paediatric Surgery",
+                "fee_amount": 9997
+            },
+            {
+                "course_name": "Urology",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Endocrine Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Head & Neck Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Plastic and Reconstructive Surgery",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "Surgical Oncology",
+                "fee_amount": 6875
+            },
+            {
+                "course_name": "G.I. Surgery",
+                "fee_amount": 6875
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Operation Theatre Technology",
+                "cutoff": "117",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-Paramedical"
+            },
+            {
+                "course_name": "Medical Radiology & Imaging Technology",
+                "cutoff": "568",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-Paramedical"
+            },
+            {
+                "course_name": "Dental Hygiene",
+                "cutoff": "660",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-Paramedical"
+            },
+            {
+                "course_name": "Dental Operating Room Assistant",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-Paramedical"
+            },
+            {
+                "course_name": "Orthodontics",
+                "cutoff": "3",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Prosthodontics",
+                "cutoff": "10",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Oral & Maxillofacial Surgery",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Paediatrics & Preventive Dentistry",
+                "cutoff": "28",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Conservative Dentistry & Endodontics",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Neuroscience Nursing",
+                "cutoff": "103",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-MSc"
+            },
+            {
+                "course_name": "Nephrology Nursing",
+                "cutoff": "112",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-MSc"
+            },
+            {
+                "course_name": "Critical Care Nursing",
+                "cutoff": "41",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-MSc"
+            },
+            {
+                "course_name": "Oncology Nursing",
+                "cutoff": "70",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-MSc"
+            },
+            {
+                "course_name": "Psychiatric Nursing",
+                "cutoff": "31",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-MSc"
+            },
+            {
+                "course_name": "Cardiological / CTVS Nursing",
+                "cutoff": "22",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-MSc"
+            },
+            {
+                "course_name": "Paediatric Nursing",
+                "cutoff": "126",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-MSc"
+            },
+            {
+                "course_name": "Obstetrics & Gynaecology",
+                "cutoff": "735",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Medicine",
+                "cutoff": "37",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Nuclear Medicine",
+                "cutoff": "400",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Radiodiagnosis",
+                "cutoff": "210",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Dermatology, Venereology & Leprology",
+                "cutoff": "1853",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-PG"
+            },
+            {
+                "course_name": "Psychiatry",
+                "cutoff": "2296",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Forensic Medicine",
+                "cutoff": "1853",
+                "cutoff_type": "rank",
+                "exam": "AIIMS-PG"
+            },
+            {
+                "course_name": "Radiation Oncology",
+                "cutoff": "1359",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Pathology",
+                "cutoff": "3333",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Emergency Medicine",
+                "cutoff": "1449",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Biophysics",
+                "cutoff": "3344",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Palliative Medicine",
+                "cutoff": "2000",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Ophthalmology",
+                "cutoff": "1437",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Paediatrics",
+                "cutoff": "467",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Pharmacology",
+                "cutoff": "6105",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Biochemistry",
+                "cutoff": "7608",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Community Medicine",
+                "cutoff": "5531",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Orthopaedics",
+                "cutoff": "876",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Microbiology",
+                "cutoff": "4671",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Otorhinolaryngology And Head & Neck Surgery",
+                "cutoff": "432",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Physiology",
+                "cutoff": "9237",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Anaesthesiology",
+                "cutoff": "1571",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Geriatric",
+                "cutoff": "747",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Physical Medicine And Rehabilitation",
+                "cutoff": "3090",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Transfusion Medicine",
+                "cutoff": "2332",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Anatomy",
+                "cutoff": "11705",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Laboratory Medicine",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Neuro Surgery",
+                "cutoff": "",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            },
+            {
+                "course_name": "Paediatric Surgery",
+                "cutoff": "327",
+                "cutoff_type": "rank",
+                "exam": "INI-CET"
+            }
+        ],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "approvals": "MCI, UGC"
+    },
+    "25703": {
+        "college_name": "IIT Bombay - Indian Institute of Technology - [IITB]",
+        "streams": [],
+        "website": "http://www.iitb.ac.in",
+        "phone": [],
+        "college_type": "",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Metallurgical And Materials Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Energy Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Power Systems And Power Electronics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerospace Structure",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Environmental Science And Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Construction Management",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Thermal - Fluid",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Corrosion Science & Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Material Science And Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Systems & Control Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Integrated Circuit Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Electronics Systems Design Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geoinformatics & Natural Resources Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerodynamics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Design Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geoinformatics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Nuclear Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Educational Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Industrial Engineering and Operations Research",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Petroleum Geoscience",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Naval Architecture and Offshore Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Steel Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Remote Sensing",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geoexploration",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Geotechnical Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Ocean Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Electronic Systems",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Process Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Technology and Development",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Urban System",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Materials, Manufacturing and Modeling",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Control & Computing",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Petroleum Geology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Construction Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Aerospace Propulsion",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Manufacturing Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Micro Electronics",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Solid State Materials",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Dynamics & Control",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Energy System Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Power System & Control",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Energy Science And Technology",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Climate and Sustainability",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Computational Materials Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Control Engineering",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Semiconductor Materials and Processing",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Mathematics and Scientific Computing",
+                "fee_amount": 882500
+            },
+            {
+                "course_name": "Applied Statistics And Informatics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Applied Geology",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Biotechnology",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Applied Geophysics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Statistics",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Operations Research",
+                "fee_amount": 84500
+            },
+            {
+                "course_name": "Design",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Earth Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Policy Studies",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Climate Studies",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Nano Science and Technology",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Natural Resources",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Technology and Development",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Energy Science And Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Environmental Science & Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Humanities And Social Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Biosciences and Biomedical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Educational Technology",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Metallurgical Engineering And Materials Science",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Financial Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Operation Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Technology Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Strategic Management",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Control Systems",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Urban Engineering",
+                "fee_amount": 220200
+            },
+            {
+                "course_name": "Communication Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Industrial Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Animation",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Interaction Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Mobility And Vehicle Design",
+                "fee_amount": 123500
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Energy Science And Engineering",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Electrical Engineering + Microelectronics",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Mechanical Engineering + Computer Integrated Manufacturing",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Environmental Engineering & Management",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Nano Science",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Metallurgical Engineering and Materials Science + Ceramics and Composites",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Electrical Engineering + Communications and Signal Processing",
+                "fee_amount": 1098000
+            },
+            {
+                "course_name": "Metallurgical and Materials Engineering",
+                "fee_amount": 1098000
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Chemical Engineering",
+                "cutoff": "481",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "cutoff": "20",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "725",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Aerospace Engineering",
+                "cutoff": "404",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "335",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Metallurgical And Materials Engineering",
+                "cutoff": "912",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Engineering Physics",
+                "cutoff": "475",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "cutoff": "113",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Energy Engineering",
+                "cutoff": "488",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "cutoff": "942",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "750",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Power Systems And Power Electronics",
+                "cutoff": "510",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Aerospace Structure",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Environmental Science And Engineering",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Construction Management",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Thermal - Fluid",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Corrosion Science & Technology",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Material Science And Engineering",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Systems & Control Engineering",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Structural Engineering",
+                "cutoff": "675",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Integrated Circuit Technology",
+                "cutoff": "510",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Geoinformatics & Natural Resources Engineering",
+                "cutoff": "350",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Aerodynamics",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Design Engineering",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Educational Technology",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Industrial Engineering and Operations Research",
+                "cutoff": "650",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Communication Engineering",
+                "cutoff": "510",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Petroleum Geoscience",
+                "cutoff": "325",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Steel Technology",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Remote Sensing",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Geoexploration",
+                "cutoff": "325",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Geotechnical Engineering",
+                "cutoff": "540",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Ocean Engineering",
+                "cutoff": "550",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Electronic Systems",
+                "cutoff": "510",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "cutoff": "650",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Technology and Development",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Materials, Manufacturing and Modeling",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Control & Computing",
+                "cutoff": "510",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "cutoff": "550",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Aerospace Propulsion",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Manufacturing Engineering",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Solid State Materials",
+                "cutoff": "510",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Dynamics & Control",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Energy Science And Technology",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Climate and Sustainability",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Computational Materials Engineering",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Semiconductor Materials and Processing",
+                "cutoff": "400",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Chemistry",
+                "cutoff": "1353",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Economics",
+                "cutoff": "554",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Mathematics and Scientific Computing",
+                "cutoff": "397",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Applied Geology",
+                "cutoff": "17",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Biotechnology",
+                "cutoff": "13",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Chemistry",
+                "cutoff": "34",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Physics",
+                "cutoff": "37",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Mathematics",
+                "cutoff": "30",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Applied Geophysics",
+                "cutoff": "616",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Statistics",
+                "cutoff": "33",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Operations Research",
+                "cutoff": "56",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "cutoff": "265",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            }
+        ],
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "rating": "10.0",
+        "score": 4.4,
+        "approvals": "AICTE, UGC"
+    },
+    "25455": {
+        "college_name": "IIT Delhi - Indian Institute of Technology [IITD]",
+        "streams": [],
+        "website": "http://www.iitd.ac.in/",
+        "phone": [],
+        "college_type": "",
+        "email": "",
+        "courses": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Industrial & Production Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Textile Technology",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Biotechnology And Biochemical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Engineering Physics",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Electrical Engineering [Power And Automation]",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Material Science Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Engineering and Computational Mechanics",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Energy Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Design Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Construction Engineering And Management",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Textile Chemical Processing",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Textile Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Instrumentation",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Computer Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Engineering Mechanics",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Robotics Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Power Electronics & Machine Drives",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Polymer Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Vlsi Design",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Applied Optics",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Production Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Mechanical Design",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Industrial Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Material Science And Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Data Science",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Cyber Security",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Structural Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Solid State Materials",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Electric Mobility",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Optoelectronics And Optical Communication",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Renewable Energy Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Atmospheric-Oceanic Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Control & Automation",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Communication Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Electronics Circuit & System",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biomolecular and Bioprocess Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Power System Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Thermal Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Energy Studies",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Energy Studies And Environmental Management",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Molecular Engineering & Advanced Chemical Analysis",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Rock Engineering And Underground Structures",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Geotechnical And Geoenvirnomental Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Engineering Analysis & Design",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Radio Frequency Design and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Integrated Circuit Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Telecommunication Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Fibre Science and Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Construction Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Structure Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Applied Mechanics",
+                "fee_amount": 212400
+            },
+            {
+                "course_name": "Chemistry",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Physics",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Mathematics",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Economics",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Cognitive Sciences",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "Biological Sciences",
+                "fee_amount": 119600
+            },
+            {
+                "course_name": "General",
+                "fee_amount": 1239650
+            },
+            {
+                "course_name": "Telecommunication Systems Management",
+                "fee_amount": 1239650
+            },
+            {
+                "course_name": "Telecommunication Technology And Management",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biochemical Engineering and Biotechnology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Civil Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Computer Science and Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Machine Intelligence & Data Science",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Biological Science",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "VLSI Design Tools & Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Information Technology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Automotive Research and Tribology",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Materials Science and Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Sensors, Instrumentation and Cyber-Physical Systems Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Applied Mechanics",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Transportation Safety and Injury Prevention",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Energy",
+                "fee_amount": 380600
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "fee_amount": 862550
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "fee_amount": 862550
+            }
+        ],
+        "cutoffs": [
+            {
+                "course_name": "Computer Science and Engineering",
+                "cutoff": "125",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Civil Engineering",
+                "cutoff": "4228",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Mechanical Engineering",
+                "cutoff": "1862",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Electrical Engineering",
+                "cutoff": "591",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "cutoff": "316",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "cutoff": "2425",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Industrial & Production Engineering",
+                "cutoff": "3027",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Textile Technology",
+                "cutoff": "5608",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Biotechnology And Biochemical Engineering",
+                "cutoff": "4830",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Engineering Physics",
+                "cutoff": "2358",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Electrical Engineering [Power And Automation]",
+                "cutoff": "806",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Material Science Engineering",
+                "cutoff": "3470",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Engineering and Computational Mechanics",
+                "cutoff": "1103",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Energy Engineering",
+                "cutoff": "2622",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Design Engineering",
+                "cutoff": "8509",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Environmental Engineering",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Instrumentation",
+                "cutoff": "425",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Water Resources Engineering",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Computer Technology",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Computer Science And Engineering",
+                "cutoff": "800",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Power Electronics & Machine Drives",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Biomedical Engineering",
+                "cutoff": "450",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Transportation Engineering",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Data Science",
+                "cutoff": "720",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Cyber Security",
+                "cutoff": "710",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Structural Engineering",
+                "cutoff": "650",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Electric Mobility",
+                "cutoff": "425",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Optoelectronics And Optical Communication",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Control & Automation",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Communication Engineering",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Power System Engineering",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Energy Studies And Environmental Management",
+                "cutoff": "500",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Rock Engineering And Underground Structures",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Geotechnical And Geoenvirnomental Engineering",
+                "cutoff": "550",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Radio Frequency Design and Technology",
+                "cutoff": "630",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Integrated Circuit Technology",
+                "cutoff": "475",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Applied Mechanics",
+                "cutoff": "600",
+                "cutoff_type": "marks",
+                "exam": "GATE"
+            },
+            {
+                "course_name": "Chemistry",
+                "cutoff": "101",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Physics",
+                "cutoff": "113",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Mathematics",
+                "cutoff": "166",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Economics",
+                "cutoff": "9",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "Biological Sciences",
+                "cutoff": "513",
+                "cutoff_type": "rank",
+                "exam": "IIT-JAM"
+            },
+            {
+                "course_name": "General",
+                "cutoff": "98",
+                "cutoff_type": "percentile",
+                "exam": "CAT"
+            },
+            {
+                "course_name": "Telecommunication Systems Management",
+                "cutoff": "98",
+                "cutoff_type": "percentile",
+                "exam": "CAT"
+            },
+            {
+                "course_name": "Chemical Engineering",
+                "cutoff": "3426",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Mathematics And Computing",
+                "cutoff": "353",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            },
+            {
+                "course_name": "Computer Science & Engineering",
+                "cutoff": "186",
+                "cutoff_type": "rank",
+                "exam": "JEE-Advanced"
+            }
+        ],
+        "city": "New Delhi",
+        "state": "Delhi NCR",
+        "rating": "10.0",
+        "score": 4.3,
+        "approvals": []
+    },
+    "25494": {
+        "college_name": "IIMA - Indian Institute of Management",
+        "streams": [],
+        "website": "https://www.iima.ac.in/",
+        "phone": [],
+        "college_type": "",
+        "email": "",
+        "courses": [],
+        "cutoffs": [],
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "rating": "10.0",
+        "score": 4.5,
+        "approvals": "UGC"
+    }
+}

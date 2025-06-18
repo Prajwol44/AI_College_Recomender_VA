@@ -5,13 +5,17 @@ import time
 import re
 import random
 import os
+import datetime
+
+current_timestamp = datetime.datetime.now().strftime("%Y%m%d_%H")
+OUTPUT_FILENAME = f"extracted_dataset_{current_timestamp}.json"
 
 # Load college dataset
-if os.path.exists("college_dataset.json"):
-    with open("college_dataset.json", "r", encoding="utf-8") as f:
+if os.path.exists("college_dataset_full.json"):
+    with open("college_dataset_full.json", "r", encoding="utf-8") as f:
         college_data = json.load(f)
 else:
-    print("Error: college_dataset.json not found!")
+    print("Error: college_dataset_full.json not found!")
     exit(1)
 
 # User agents for rotation
@@ -85,7 +89,7 @@ def extract_data_from_html(html_text):
     # Extract email
     extracted_data['email'] = ''
     try:
-        schema_json_str = data_dict['props']['initialProps']['pageProps']['data']['metadata']['schemaJsonLd']['2']
+        schema_json_str = data_dict['props']['initialProps']['pageProps']['data']['schemaJsonLd']['2']
         try:
             schema_data = json.loads(schema_json_str)
             email = schema_data.get('email', '')
@@ -176,7 +180,7 @@ def process_colleges():
     user_agent = random.choice(USER_AGENTS)
     total_colleges = len(college_data)
     processed_count = 0
-    max_colleges = 40  # Set maximum number of colleges to process
+    max_colleges = 10  # Set maximum number of colleges to process
     
     print(f"Starting to process first {max_colleges} colleges")
     
@@ -233,19 +237,14 @@ def process_colleges():
             processed_count += 1  # Increment even on failure to count attempt
         
         # Save progress after each college
-        with open("extracted_data.json", "w", encoding="utf-8") as f:
+        with open(OUTPUT_FILENAME, "w", encoding="utf-8") as f:
             json.dump(all_extracted_data, f, indent=4)
         print(f"Saved progress after college {processed_count}")
     
     # Final save
-    with open("extracted_data.json", "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILENAME, "w", encoding="utf-8") as f:
         json.dump(all_extracted_data, f, indent=4)
     print(f"\nCompleted! Extracted data for {len(all_extracted_data)}/{processed_count} colleges")
-    
-    # Final save
-    with open("extracted_data.json", "w", encoding="utf-8") as f:
-        json.dump(all_extracted_data, f, indent=4)
-    print(f"\nCompleted! Extracted data for {len(all_extracted_data)}/{total_colleges} colleges")
 
 if __name__ == "__main__":
     process_colleges()
