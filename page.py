@@ -270,7 +270,7 @@ def process_colleges():
     user_agent = random.choice(USER_AGENTS)
     total_colleges = len(college_data)
     processed_count = 1
-    max_colleges = 5 # Set maximum number of colleges to process
+    max_colleges = 8000 # Set maximum number of colleges to process
     
     print(f"Starting to process first {max_colleges} colleges")
     
