@@ -1,0 +1,70 @@
+You're expert in Natural Language processing using Python.
+I'm willing to build a chatbot type of application.
+I have dataset of around 6k colleges as mentioned below in JSON format:
+- college_name
+- website
+- email
+- phone
+- rating_value (overall college rating) (Example:)
+- worst_rating (college rating collect from internet (bad))(Example:)
+- best_rating (college rating collect from internet (good)) (Example:)
+- courses (Multiple courses with name and fee amount) (Example:)
+- city
+- state
+- approvals (who is governing body of college) (Example: )
+
+
+       {
+         "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+        "website": "http://www.aiims.edu",
+        "phone": "011-26588500",
+        "email": "director@aiims.edu",
+        "rating_value": 4.3,
+        "review_count": "245",
+        "worst_rating": 0,
+        "best_rating": 5,
+          "city": "New Delhi",
+        "state": "Delhi NCR",
+        "approvals": "MCI, UGC"
+        "courses": [
+            {
+                "course_name": "Operation Theatre Technology",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Medical Radiology & Imaging Technology",
+                "fee_amount": 4480
+            },
+        ]
+       }
+
+User can ask questions or prompts about college finding based on city, rating, courses, fee structures.
+Example Prompts:
+1. Can you recommend colleges in [City Name] with good ratings (3-4 stars) that offer [Course Name]?
+2. Does the college offering [Course Name] in [City Name] have approval from [specific body]?
+3. What are the best-rated colleges in [City Name] for [Course Name]?
+
+Based on the user question, my app will suggest 3-5 colleges data from the dataset.
+Guide me building the chatbot using python streamlit and best NLP techniques, as i cannot use cloud APIS in this project.
+
+
+
+
+
+-------------
+
+college details including these input data
+
+
+#POSSIBLE QUESTIONS
+
+1. hello, namaste,
+2. College finding type QUESTIONS
+user - college city, approval, overall rating course and fees
+3. Can you recommend colleges in [City Name] with good ratings (3-4 stars) that offer [Course Name]?
+4. i am clueless about which course to selvamtech
+ans - What are your interests?
+reply: i am intreted in art and i like to watch law shows
+
+
+
