@@ -11,10 +11,13 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+from sentence_transformers import SEntenceTransfomer, util
 import warnings
 import os
 from pathlib import Path
 warnings.filterwarnings('ignore')
+
+model = SEntenceTransfomer ('all-MiniLM-L6-v2')
 
 # Set page config - MUST BE FIRST AND ONLY CALL
 st.set_page_config(
