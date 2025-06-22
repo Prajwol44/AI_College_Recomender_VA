@@ -6,15 +6,15 @@ I have dataset of around 6k colleges as mentioned below in JSON format:
 - email
 - phone
 - rating_value (overall college rating) (Example:)
-- worst_rating (college rating collect from internet (bad))(Example:)
-- best_rating (college rating collect from internet (good)) (Example:)
-- courses (Multiple courses with name and fee amount) (Example:)
+- worst_rating (college rating collect from internet (bad))
+- best_rating (college rating collect from internet (good))
+- courses (Multiple courses with name and fee amount)
 - city
 - state
 - approvals (who is governing body of college) (Example: )
 
-
-       {
+Sample Data:
+       "676878":{
          "college_name": "All India Institute of Medical Sciences - [AIIMS]",
         "website": "http://www.aiims.edu",
         "phone": "011-26588500",
@@ -36,6 +36,29 @@ I have dataset of around 6k colleges as mentioned below in JSON format:
                 "fee_amount": 4480
             },
         ]
+       },
+       "232688":{
+          "college_name": "delhi Institute of Medical Sciences - [AIIM]",
+        "website": "http://www.aiims.edu",
+        "phone": "011-56677888",
+        "email": "director@aiims.edu",
+        "rating_value": 4.3,
+        "review_count": "245",
+        "worst_rating": 0,
+        "best_rating": 5,
+        "city": "Delhi",
+        "state": "NCR",
+        "approvals": "MCI, UGC"
+        "courses": [
+            {
+                "course_name": "IT Technology",
+                "fee_amount": 3385
+            },
+            {
+                "course_name": "Imaging Technology",
+                "fee_amount": 4480
+            },
+        ]
        }
 
 User can ask questions or prompts about college finding based on city, rating, courses, fee structures.
@@ -43,9 +66,13 @@ Example Prompts:
 1. Can you recommend colleges in [City Name] with good ratings (3-4 stars) that offer [Course Name]?
 2. Does the college offering [Course Name] in [City Name] have approval from [specific body]?
 3. What are the best-rated colleges in [City Name] for [Course Name]?
+4. List 5 colleges for computer science with fee under 500000
 
 Based on the user question, my app will suggest 3-5 colleges data from the dataset.
 Guide me building the chatbot using python streamlit and best NLP techniques, as i cannot use cloud APIS in this project.
+I'm willing to use 'sentence_transformers', 'cosine_similarity' and related necessary libraies if they works well for my expected output.
+Please keep the design simple.
+Also, add a plot to show cosine cosine_similarity of my data.
 
 
 

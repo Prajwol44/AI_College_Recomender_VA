@@ -11,13 +11,15 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
-from sentence_transformers import SEntenceTransfomer, util
+from sentence_transformers import SentenceTransformer
+from sentence_transformers import util
 import warnings
 import os
 from pathlib import Path
+from cosine_check import visualize_similarity_clusters
 warnings.filterwarnings('ignore')
 
-model = SEntenceTransfomer ('all-MiniLM-L6-v2')
+# model = SentenceTransfomer ('all-MiniLM-L6-v2')
 
 # Set page config - MUST BE FIRST AND ONLY CALL
 st.set_page_config(
@@ -26,6 +28,12 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+@st.cache_resource
+def load_model():
+    return SentenceTransformer('all-MiniLM-L6-v2')
+
+model = load_model()
 
 # Download required NLTK data
 try:
@@ -742,39 +750,35 @@ class ZenthraChatbot:
         return entities
 
     def find_matching_colleges(self, query):
-        """Find matching colleges based on user query"""
-        if not hasattr(self, 'corpus_vectors'):
+        """Find matching colleges using semantic similarity"""
+        if not self.colleges_data or not hasattr(self, 'college_embeddings'):
             return []
         
-        # Preprocess query
-        preprocessed_query, tokens = self.preprocess_query(query)
+        # Encode the query
+        query_embedding = self.model.encode([query], convert_to_tensor=True)
         
-        # Extract entities
+        # Compute cosine similarity
+        cos_scores = util.pytorch_cos_sim(query_embedding, self.college_embeddings)[0]
+        
+        # Convert to numpy array and get top matches
+        cos_scores = cos_scores.cpu().numpy()
+        top_indices = np.argsort(cos_scores)[::-1][:100]  # Get top 100 for filtering
+        
+        # Extract entities for filtering
         entities = self.extract_entities(query)
         
-        # Vectorize query
-        query_vector = self.vectorizer.transform([preprocessed_query])
-        
-        # Calculate cosine similarity
-        cosine_similarities = cosine_similarity(query_vector, self.corpus_vectors).flatten()
-        
-        # Combine results with college data
-        results = []
-        for idx, similarity in enumerate(cosine_similarities):
-            college = self.colleges_data[idx]
-            results.append({
-                'college': college,
-                'similarity': similarity,
-                'match_reasons': []
-            })
-        
-        # Sort by similarity
-        results.sort(key=lambda x: x['similarity'], reverse=True)
-        
-        # Filter based on entities
+        # Apply filters and collect results
         filtered_results = []
-        for result in results:
-            college = result['college']
+        for idx in top_indices:
+            college = self.colleges_data[idx]
+            similarity = cos_scores[idx]
+            match_reasons = []
+            
+            # Skip if similarity is too low
+            if similarity < 0.2:
+                continue
+                
+            # Apply filters based on extracted entities
             include = True
             
             # City filter
@@ -783,7 +787,7 @@ class ZenthraChatbot:
                 if city not in college.get('city', '').lower():
                     include = False
                 else:
-                    result['match_reasons'].append(f"Located in {entities['city']}")
+                    match_reasons.append(f"Located in {entities['city']}")
             
             # Course filter
             if entities['course']:
@@ -796,7 +800,7 @@ class ZenthraChatbot:
                 if not course_found:
                     include = False
                 else:
-                    result['match_reasons'].append(f"Offers {entities['course']} courses")
+                    match_reasons.append(f"Offers {entities['course']} courses")
             
             # Rating filter
             if entities['rating']:
@@ -804,15 +808,27 @@ class ZenthraChatbot:
                 if college_rating < entities['rating']:
                     include = False
                 else:
-                    result['match_reasons'].append(f"Rating {college_rating} >= {entities['rating']}")
+                    match_reasons.append(f"Rating {college_rating} >= {entities['rating']}")
             
-            # Fee filter
+            # Fee filter (fixed version)
             if entities['fee']:
-                min_fee = min(course.get('fee_amount', float('inf')) for course in college.get('courses', []))
-                if min_fee > entities['fee']:
-                    include = False
+                # Get all valid fee amounts
+                fee_values = []
+                for course in college.get('courses', []):
+                    fee_amount = course.get('fee_amount')
+                    if isinstance(fee_amount, (int, float)):
+                        fee_values.append(fee_amount)
+                
+                # Only proceed if we have valid fee values
+                if fee_values:
+                    min_fee = min(fee_values)
+                    if min_fee > entities['fee']:
+                        include = False
+                    else:
+                        match_reasons.append(f"Has courses under ₹{entities['fee']:,}")
                 else:
-                    result['match_reasons'].append(f"Has courses under ₹{entities['fee']:,}")
+                    # No valid fee information available
+                    include = False
             
             # Approval filter
             if entities['approval']:
@@ -820,12 +836,107 @@ class ZenthraChatbot:
                 if entities['approval'] not in approvals:
                     include = False
                 else:
-                    result['match_reasons'].append(f"{entities['approval']} approved")
+                    match_reasons.append(f"{entities['approval']} approved")
             
+            # Add college if it passes all filters
             if include:
-                filtered_results.append(result)
+                filtered_results.append({
+                    'college': college,
+                    'similarity': similarity,
+                    'match_reasons': match_reasons
+                })
+                
+                # Stop when we have enough results
+                if len(filtered_results) >= 5:
+                    break
         
-        return filtered_results[:5]  # Return top 5 results
+        return filtered_results
+
+    # def find_matching_colleges_old(self, query):
+    #     """Find matching colleges based on user query"""
+    #     if not hasattr(self, 'corpus_vectors'):
+    #         return []
+        
+    #     # Preprocess query
+    #     preprocessed_query, tokens = self.preprocess_query(query)
+        
+    #     # Extract entities
+    #     entities = self.extract_entities(query)
+        
+    #     # Vectorize query
+    #     query_vector = self.vectorizer.transform([preprocessed_query])
+        
+    #     # Calculate cosine similarity
+    #     cosine_similarities = cosine_similarity(query_vector, self.corpus_vectors).flatten()
+        
+    #     # Combine results with college data
+    #     results = []
+    #     for idx, similarity in enumerate(cosine_similarities):
+    #         college = self.colleges_data[idx]
+    #         results.append({
+    #             'college': college,
+    #             'similarity': similarity,
+    #             'match_reasons': []
+    #         })
+        
+    #     # Sort by similarity
+    #     results.sort(key=lambda x: x['similarity'], reverse=True)
+        
+    #     # Filter based on entities
+    #     filtered_results = []
+    #     for result in results:
+    #         college = result['college']
+    #         include = True
+            
+    #         # City filter
+    #         if entities['city']:
+    #             city = entities['city'].lower()
+    #             if city not in college.get('city', '').lower():
+    #                 include = False
+    #             else:
+    #                 result['match_reasons'].append(f"Located in {entities['city']}")
+            
+    #         # Course filter
+    #         if entities['course']:
+    #             course_found = False
+    #             for course in college.get('courses', []):
+    #                 course_name = course.get('course_name', '').lower()
+    #                 if entities['course'].lower() in course_name:
+    #                     course_found = True
+    #                     break
+    #             if not course_found:
+    #                 include = False
+    #             else:
+    #                 result['match_reasons'].append(f"Offers {entities['course']} courses")
+            
+    #         # Rating filter
+    #         if entities['rating']:
+    #             college_rating = college.get('rating_value', 0)
+    #             if college_rating < entities['rating']:
+    #                 include = False
+    #             else:
+    #                 result['match_reasons'].append(f"Rating {college_rating} >= {entities['rating']}")
+            
+    #         # Fee filter
+    #         if entities['fee']:
+    #             min_fee = min(course.get('fee_amount', float('inf')) for course in college.get('courses', []))
+    #             if min_fee > entities['fee']:
+    #                 include = False
+    #             else:
+    #                 result['match_reasons'].append(f"Has courses under ₹{entities['fee']:,}")
+            
+    #         # Approval filter
+    #         if entities['approval']:
+    #             approvals = college.get('approvals', '').upper()
+    #             if entities['approval'] not in approvals:
+    #                 include = False
+    #             else:
+    #                 result['match_reasons'].append(f"{entities['approval']} approved")
+            
+    #         if include:
+    #             filtered_results.append(result)
+        
+    #     return filtered_results[:5]  # Return top 5 results
     
     def get_relevant_courses(self, college, course_query=None):
         """Get relevant courses based on query"""
@@ -920,7 +1031,7 @@ def main():
     </div>
     """, unsafe_allow_html=True)
     
-    # Sidebar
+ # Sidebar
     with st.sidebar:
         st.markdown("""
         <div class="sidebar-header">
@@ -952,7 +1063,7 @@ def main():
             </div>
             """, unsafe_allow_html=True)
             
-            # Calculate average rating - all ratings are now floats
+            # Calculate average rating
             ratings = [college.get('rating_value', 0) for college in chatbot.colleges_data]
             avg_rating = sum(ratings) / len(ratings) if ratings else 0
             col2.markdown(f"""
@@ -963,6 +1074,12 @@ def main():
             """, unsafe_allow_html=True)
         else:
             st.warning("Data not loaded properly")
+        
+        st.markdown("---")
+        
+        # Add visualization button
+        if st.button("📊 Show Similarity Clusters", use_container_width=True):
+            visualize_similarity_clusters(chatbot.colleges_data, model)
     
     # Chat interface
     st.markdown("### 🔍 Find Your Perfect College")
