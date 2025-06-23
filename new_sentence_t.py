@@ -13,8 +13,8 @@ import os
 # Initialize the sentence transformer model
 @st.cache_resource
 def load_model():
-    # return SentenceTransformer('all-MiniLM-L6-v2')
-    return SentenceTransformer("BAAI/bge-base-en-v1.5")
+    return SentenceTransformer('all-MiniLM-L6-v2')
+    # return SentenceTransformer("BAAI/bge-base-en-v1.5")
 
 @st.cache_data
 def load_college_data(file_path='final_college_dataset.json'):
@@ -91,7 +91,6 @@ class CollegeChatbot:
             fees_text = ", ".join([f"{course['course_name']} fee {course['fee_amount']}" for course in college.get("courses", [])])
             
             # print(fees_text) # distinugish course and its fee
-            print("....."*30)
             # break 
             
             description_old= f"""
@@ -135,16 +134,34 @@ class CollegeChatbot:
             'rating_min': None,
             'approval': None
         }
-        print(f"extract_query_params: {query}")
+        
         # Extract city names (common Indian cities)
-        cities = ['mumbai', 'bangalore', 'chennai', 'kolkata', 'hyderabad', 'pune']
+        cities = [
+    'mumbai', 'bangalore', 'chennai', 'kolkata', 'hyderabad', 'pune',
+    'delhi', 'ahmedabad', 'jaipur', 'surat', 'lucknow', 'kanpur',
+    'nagpur', 'visakhapatnam', 'bhopal', 'patna', 'vadodara', 'indore',
+    'ludhiana', 'agra', 'nashik', 'faridabad', 'meerut', 'rajkot',
+    'varanasi', 'amritsar', 'ranchi', 'coimbatore', 'guwahati', 'allahabad'
+]
+
         for city in cities:
             if city.lower() in query.strip().lower():
                 params['city'] = city.title()
                 break
         
         # Extract course names
-        courses = ['computer science', 'engineering', 'medical', 'technology', 'it', 'radiology', 'operation theatre']
+        courses = [
+    'computer science', 'engineering', 'medical', 'technology', 'it',
+    'radiology', 'operation theatre', 'nursing', 'pharmacy', 'dentistry',
+    'law', 'business administration', 'commerce', 'economics', 'accounting',
+    'finance', 'architecture', 'civil engineering', 'mechanical engineering',
+    'electrical engineering', 'aerospace engineering', 'data science',
+    'artificial intelligence', 'psychology', 'sociology', 'english literature',
+    'history', 'political science', 'mass communication', 'hotel management',
+    'fashion designing', 'graphic designing', 'animation', 'agriculture',
+    'veterinary science', 'education', 'physical education', 'biotechnology'
+]
+
         for course in courses:
             if course.lower() in query.lower():
                 params['course'] = course
@@ -161,7 +178,23 @@ class CollegeChatbot:
             r'less than.*?(\d+).*?fee',
             r'fee.*?(\d+).*?or less',
             r'maximum fee.*?(\d+)',
-            r'fee limit.*?(\d+)'
+            r'fee limit.*?(\d+)',
+            r'fee not more than.*?(\d+)',
+            r'cost.*?under.*?(\d+)',
+            r'cost.*?less than.*?(\d+)',
+            r'budget.*?(\d+).*?for fee',
+            r'courses.*?within.*?(\d+)',
+            r'fees up to.*?(\d+)',
+            r'fees not exceeding.*?(\d+)',
+            r'charge.*?up to.*?(\d+)',
+            r'price less than.*?(\d+)',
+            r'courses.*?under.*?(\d+)',
+            r'pay only.*?(\d+)',
+            r'max.*?(\d+).*?fee',
+            r'around.*?(\d+).*?fee',
+            r'fee approx.*?(\d+)',
+            r'less than rupees.*?(\d+)',
+            r'fee.*?no more than.*?(\d+)'
         ]
         
         
@@ -176,6 +209,8 @@ class CollegeChatbot:
         rating_match = re.search(r'(\d+(?:\.\d+)?)\s*(?:star|rating)', query.lower())
         if rating_match:
             params['rating_min'] = float(rating_match.group(1))
+        
+        print(f"extract_query_params: {query}")
         
         return params
     
@@ -203,8 +238,11 @@ class CollegeChatbot:
             
             # Fee filter
             if params['fee_limit']:
-                affordable_courses = [course for course in college.get('courses', []) 
-                                    if course['fee_amount'] <= int(params['fee_limit'])]
+                affordable_courses = [
+                    course for course in college.get('courses', [])
+                    if str(course.get('fee_amount', '')).isdigit()
+                    and int(course['fee_amount']) <= int(params['fee_limit'])
+                ]
                 if not affordable_courses:
                     continue
             
@@ -236,9 +274,9 @@ class CollegeChatbot:
         #     filtered_indices = [self.college_ids.index(cid) for cid in filtered_ids]
         #     filtered_similarities = [(i, similarities[i]) for i in filtered_indices]
         # else:
-        #     filtered_similarities = [(i, sim) for i, sim in enumerate(similarities)]
+        #     filtered_similarities = [(i, sim) for i, sim in enumerate(similarities)] # orig
         
-        filtered_similarities = [(i, sim) for i, sim in enumerate(similarities)]
+        filtered_similarities = [(i, sim) for i, sim in enumerate(similarities)] # added
 
         # Sort by similarity and get top results
         filtered_similarities.sort(key=lambda x: x[1], reverse=True)
@@ -259,30 +297,48 @@ class CollegeChatbot:
         return results
 
 def display_college_card(college: Dict):
-    """Display a college in a card format"""
+    """Display a college in a cleaner, compact card format"""
     with st.container():
         st.markdown(f"### 🎓 {college['college_name']}")
         
-        col1, col2 = st.columns([2, 1])
-        
+        col1, col2 = st.columns([3, 1])
+
+        # Left Column - Info
         with col1:
-            st.markdown(f"📍 **Location:** {college['city']}, {college['state']}")
-            st.markdown(f"⭐ **Rating:** {college['rating_value']}/5.0")
-            st.markdown(f"✅ **Approvals:** {college.get('approvals', 'N/A')}")
-            st.markdown(f"📞 **Phone:** {college.get('phone', 'N/A')}")
-            st.markdown(f"📧 **Email:** {college.get('email', 'N/A')}")
-            st.markdown(f"🌐 **Website:** {college.get('website', 'N/A')}")
-        
+            st.markdown(
+                f"""
+                📍 **Location:** {college['city']}, {college['state']}  
+                ⭐ **Rating:** {college['rating_value']}/5.0  
+                ✅ **Approvals:** {college.get('approvals', 'N/A')}  
+                📞 **Phone:** {", ".join(college.get('phone', [])) if isinstance(college.get('phone'), list) else college.get('phone', 'N/A')}  
+                📧 **Email:** {college.get('email', 'N/A')}  
+                🌐 **Website:** [{college.get('website', 'N/A')}]({college.get('website', '#')})
+                """,
+                unsafe_allow_html=True
+            )
+
+        # Right Column - Score
         with col2:
-            st.markdown(f"**Similarity Score:** {college['similarity_score']:.3f}")
-        
-        # Display courses
+            st.metric(label="Similarity Score", value=f"{college['similarity_score']:.3f}")
+
+        # Courses Table
         if college.get('courses'):
             st.markdown("**📚 Available Courses:**")
-            for course in college['courses']:
-                st.markdown(f"- {course['course_name']}: ₹{course['fee_amount']:}")
-        
+            # Safely format fee
+            course_data = {
+                "Course": [course['course_name'] for course in college['courses']],
+                "Fee (₹)": [
+                    f"₹{int(course['fee_amount']):,}" if str(course['fee_amount']).isdigit()
+                    else course['fee_amount']
+                    for course in college['courses']
+                ]
+            }
+            course_df = pd.DataFrame(course_data)
+            st.dataframe(course_df, use_container_width=True, hide_index=True)
+
         st.markdown("---")
+
+
 
 def create_similarity_plot(similarities: List[float], college_names: List[str]):
     """Create a plot showing similarity scores"""
