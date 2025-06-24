@@ -4,7 +4,7 @@ import time
 
 # Base endpoint
 BASE_URL = "https://collegedunia.com/web-api/nc/e-search/autocomplete?c=college&term=&start="
-
+BASE_DATA_FOLDER = "data/"
 # Headers to mimic a real browser
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -97,13 +97,13 @@ def main():
 
     get_all_colleges()
 
-    with open("college_dataset.json", "w") as f:
+    with open(BASE_DATA_FOLDER + "college_dataset.json", "w") as f:
         json.dump(DATASET, f, indent=4)
 
-    with open("college_dataset_urls.json", "w") as f:
+    with open(BASE_DATA_FOLDER + "college_dataset_urls.json", "w") as f:
         json.dump({"urls": list(set(DATASET_URLS))}, f, indent=4)
 
-    print("\n Data saved to 'college_dataset.json' and 'college_dataset_urls.json'.")
+    print("\n Data saved to 'data/college_dataset.json' and 'data/college_dataset_urls.json'.")
 
 if __name__ == "__main__":
     main()

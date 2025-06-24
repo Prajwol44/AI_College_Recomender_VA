@@ -16,7 +16,7 @@ from sentence_transformers import util
 import warnings
 import os
 from pathlib import Path
-from cosine_check import visualize_similarity_clusters
+from test.cosine_check import visualize_similarity_clusters
 warnings.filterwarnings('ignore')
 
 # model = SentenceTransfomer ('all-MiniLM-L6-v2')
