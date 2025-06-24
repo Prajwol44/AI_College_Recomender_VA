@@ -263,21 +263,28 @@ class CollegeChatbot:
     def handle_general_queries(self, query: str) -> Union[str, None]:
         q = query.lower().strip()
 
-        if any(word in q for word in ["hello", "hi", "namaste", "hey"]):
+        greetings = ["hello", "hi", "namaste", "hey"]
+        if any(greet in q for greet in greetings):
             return "Namaste! I'm your College Recommender. How can I assist you today?"
 
         if "how are you" in q:
             return "I'm doing great! Ready to help you find the best colleges across India. What are you looking for?"
 
-        if "what can you help" in q or "what do you do" in q or "help me" or "what can you help me with?" in q:
+        help_phrases = [
+            "what can you help",
+            "what do you do",
+            "help me",
+            "what can you help me with"
+        ]
+        if any(phrase in q for phrase in help_phrases):
             return (
-                " I can help you with:\n\n"
-                "-  Recommending colleges based on your interests\n"
-                "-  Filter by city or state\n"
-                "-  Find specific courses (e.g., engineering, medical, IT, etc.)\n"
-                "-  Budget-based college search\n"
-                "-  Filter by approvals like MCI, UGC, AICTE\n"
-                "-  Ratings-based recommendations\n\n"
+                "I can help you with:\n\n"
+                "- Recommending colleges based on your interests\n"
+                "- Filter by city or state\n"
+                "- Find specific courses (e.g., engineering, medical, IT, etc.)\n"
+                "- Budget-based college search\n"
+                "- Filter by approvals like MCI, UGC, AICTE\n"
+                "- Ratings-based recommendations\n\n"
                 "Try asking something like:\n"
                 "`Top engineering colleges in Pune under ₹1 lakh`\n"
                 "or\n"
@@ -287,7 +294,6 @@ class CollegeChatbot:
         return None
 
 
-    
     def search_colleges(self, query: str, top_k: int = 5) -> List[Dict]:
         """Search for colleges based on user query"""
         if self.model is None or self.embeddings is None:
