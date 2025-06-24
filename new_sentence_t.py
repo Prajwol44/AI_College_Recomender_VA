@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import plotly.express as px
 import plotly.graph_objects as go
 import re
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Union
 import os
 
 # Initialize the sentence transformer model
@@ -24,11 +24,17 @@ def load_college_data(file_path='final_college_dataset.json'):
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
                 data_dict = json.load(f)
-            st.success(f"✅ Successfully loaded data from {file_path}")
+                for college in data_dict.values():
+                    try:
+                        college['rating_value'] = float(college['rating_value'])
+                    except (ValueError, TypeError):
+                        college['rating_value'] = 0.0
+
+            st.success(f"College data recieved. You may beign your search.")
         print(f"load_college_data {len(data_dict.keys())}")
         return data_dict
     except Exception as e:
-        st.error(f"❌ Error loading data: {str(e)}")
+        st.error(f" Error loading data: {str(e)}")
         return {}
 
 # Sample data structure (replace with your actual data loading)
@@ -73,6 +79,7 @@ def load_college_data_old():
     }
     return sample_data
 
+
 class CollegeChatbot:
     def __init__(self, college_data: Dict, model):
         self.college_data = college_data
@@ -93,6 +100,9 @@ class CollegeChatbot:
             # print(fees_text) # distinugish course and its fee
             # break 
             
+           
+           #this is the perviously used description
+           
             description_old= f"""
             College: {college['college_name']} located in city:{college['city']} and state:{college['state']}
             Rating: {college['rating_value']} stars
@@ -137,12 +147,12 @@ class CollegeChatbot:
         
         # Extract city names (common Indian cities)
         cities = [
-    'mumbai', 'bangalore', 'chennai', 'kolkata', 'hyderabad', 'pune',
-    'delhi', 'ahmedabad', 'jaipur', 'surat', 'lucknow', 'kanpur',
-    'nagpur', 'visakhapatnam', 'bhopal', 'patna', 'vadodara', 'indore',
-    'ludhiana', 'agra', 'nashik', 'faridabad', 'meerut', 'rajkot',
-    'varanasi', 'amritsar', 'ranchi', 'coimbatore', 'guwahati', 'allahabad'
-]
+            'mumbai', 'bangalore', 'chennai', 'kolkata', 'hyderabad', 'pune',
+            'delhi', 'ahmedabad', 'jaipur', 'surat', 'lucknow', 'kanpur',
+            'nagpur', 'visakhapatnam', 'bhopal', 'patna', 'vadodara', 'indore',
+            'ludhiana', 'agra', 'nashik', 'faridabad', 'meerut', 'rajkot',
+            'varanasi', 'amritsar', 'ranchi', 'coimbatore', 'guwahati', 'allahabad'
+        ]
 
         for city in cities:
             if city.lower() in query.strip().lower():
@@ -151,16 +161,16 @@ class CollegeChatbot:
         
         # Extract course names
         courses = [
-    'computer science', 'engineering', 'medical', 'technology', 'it',
-    'radiology', 'operation theatre', 'nursing', 'pharmacy', 'dentistry',
-    'law', 'business administration', 'commerce', 'economics', 'accounting',
-    'finance', 'architecture', 'civil engineering', 'mechanical engineering',
-    'electrical engineering', 'aerospace engineering', 'data science',
-    'artificial intelligence', 'psychology', 'sociology', 'english literature',
-    'history', 'political science', 'mass communication', 'hotel management',
-    'fashion designing', 'graphic designing', 'animation', 'agriculture',
-    'veterinary science', 'education', 'physical education', 'biotechnology'
-]
+            'computer science', 'engineering', 'medical', 'technology', 'it',
+            'radiology', 'operation theatre', 'nursing', 'pharmacy', 'dentistry',
+            'law', 'business administration', 'commerce', 'economics', 'accounting',
+            'finance', 'architecture', 'civil engineering', 'mechanical engineering',
+            'electrical engineering', 'aerospace engineering', 'data science',
+            'artificial intelligence', 'psychology', 'sociology', 'english literature',
+            'history', 'political science', 'mass communication', 'hotel management',
+            'fashion designing', 'graphic designing', 'animation', 'agriculture',
+            'veterinary science', 'education', 'physical education', 'biotechnology'
+        ]
 
         for course in courses:
             if course.lower() in query.lower():
@@ -250,13 +260,48 @@ class CollegeChatbot:
         
         return filtered_ids
     
+    def handle_general_queries(self, query: str) -> Union[str, None]:
+        q = query.lower().strip()
+
+        if any(word in q for word in ["hello", "hi", "namaste", "hey"]):
+            return "Namaste! I'm your College Recommender. How can I assist you today?"
+
+        if "how are you" in q:
+            return "I'm doing great! Ready to help you find the best colleges across India. What are you looking for?"
+
+        if "what can you help" in q or "what do you do" in q or "help me" or "what can you help me with?" in q:
+            return (
+                " I can help you with:\n\n"
+                "-  Recommending colleges based on your interests\n"
+                "-  Filter by city or state\n"
+                "-  Find specific courses (e.g., engineering, medical, IT, etc.)\n"
+                "-  Budget-based college search\n"
+                "-  Filter by approvals like MCI, UGC, AICTE\n"
+                "-  Ratings-based recommendations\n\n"
+                "Try asking something like:\n"
+                "`Top engineering colleges in Pune under ₹1 lakh`\n"
+                "or\n"
+                "`Best rated medical colleges in Delhi`"
+            )
+
+        return None
+
+
+    
     def search_colleges(self, query: str, top_k: int = 5) -> List[Dict]:
         """Search for colleges based on user query"""
         if self.model is None or self.embeddings is None:
             print("Restart the system")
-            return []
+            return " Model not loaded. Please try again later."
         
         query = query.strip()
+        
+        #Handle general responses
+        general_response = self.handle_general_queries(query)
+        if general_response is not None:
+            return general_response
+        
+        
         # Extract parameters and filter
         params = self.extract_query_params(query)
         filtered_ids = self.filter_colleges(params)
@@ -307,12 +352,12 @@ def display_college_card(college: Dict):
         with col1:
             st.markdown(
                 f"""
-                📍 **Location:** {college['city']}, {college['state']}  
-                ⭐ **Rating:** {college['rating_value']}/5.0  
-                ✅ **Approvals:** {college.get('approvals', 'N/A')}  
-                📞 **Phone:** {", ".join(college.get('phone', [])) if isinstance(college.get('phone'), list) else college.get('phone', 'N/A')}  
-                📧 **Email:** {college.get('email', 'N/A')}  
-                🌐 **Website:** [{college.get('website', 'N/A')}]({college.get('website', '#')})
+                 **Location:** {college['city']}, {college['state']}  
+                 **Rating:** {college['rating_value']}/5.0  
+                 **Approvals:** {college.get('approvals', 'N/A')}  
+                 **Phone:** {", ".join(college.get('phone', [])) if isinstance(college.get('phone'), list) else college.get('phone', 'N/A')}  
+                 **Email:** {college.get('email', 'N/A')}  
+                 **Website:** [{college.get('website', 'N/A')}]({college.get('website', '#')})
                 """,
                 unsafe_allow_html=True
             )
@@ -356,100 +401,106 @@ def create_similarity_plot(similarities: List[float], college_names: List[str]):
     return fig
 
 def main():
-    st.set_page_config(page_title="College Recommendation Chatbot", page_icon="🎓", layout="wide")
-    
-    st.title("🎓 College Recommendation Chatbot")
-    st.markdown("Find the perfect college based on your preferences using AI-powered search!")
-    
+    st.set_page_config(page_title="Zenthra - College Recommender", page_icon="🎓", layout="wide")
+    st.title("Zenthra - Your Personal College Recommender")
+    st.markdown("Find your perfect college and start your journey!")
+
     # Load model and data
     model = load_model()
     college_data = load_college_data()
-    
+
     # Initialize chatbot
     if 'chatbot' not in st.session_state:
         st.session_state.chatbot = CollegeChatbot(college_data, model)
-    
-    # Sidebar for sample queries
+
+    # Sidebar with sample queries
     with st.sidebar:
         st.header("📝 Sample Queries")
         sample_queries = [
-            "Best colleges in Delhi for medical courses",
+            "What can you help me with?",
             "Engineering colleges with good ratings",
             "IT courses under ₹50000 fee",
             "Colleges with MCI approval",
             "Top rated colleges in Mumbai",
-            "Best medical colleges in Delhi with good ratings",
-            "Engineering colleges in Mumbai under 200000 fee",
+            "Best medical colleges in Delhi",
+            "Engineering colleges in Mumbai",
             "Computer science courses in Bangalore",
             "Top rated colleges for MBBS",
-            "IT engineering colleges in Pune under 100000",
+            "IT engineering colleges in Pune",
             "Dental colleges in Chennai",
-            "Mechanical engineering with AICTE approval"
         ]
-        
+
         for query in sample_queries:
             if st.button(query, key=f"sample_{query}"):
                 st.session_state.user_query = query
-    
-    # Main chat interface
-    user_query = st.text_input("Enter your query about colleges:", 
-                              value=st.session_state.get('user_query', ''),
-                              placeholder="e.g., 'Show me medical colleges in Delhi with good ratings'")
-    
-    if st.button("🔍 Search Colleges") and user_query.strip():
+
+    st.divider()
+
+    # Container for chat-like input box at the bottom
+    with st.form(key="college_query_form", clear_on_submit=False):
+        col1, col2 = st.columns([18, 1])  # Input box and button side-by-side
+
+        with col1:
+            user_query = st.text_input(
+                "Ask me about colleges:", 
+                value=st.session_state.get('user_query', ''), 
+                placeholder="Hello, Start Searching for Collges", 
+                label_visibility="collapsed",  # Hide label like a chat
+                key="query_input"
+            )
+
+        with col2:
+            submitted = st.form_submit_button("⬆")
+
+    if submitted and user_query.strip():
+        st.session_state.user_query = user_query.strip()
+
         with st.spinner("Searching for colleges..."):
             results = st.session_state.chatbot.search_colleges(user_query.strip(), top_k=5)
-            
-            if results:
+
+            if isinstance(results, str):
+                st.info(results)
+
+            elif results:
                 st.success(f"Found {len(results)} relevant colleges!")
-                
-                # Display results
-                st.header("🏫 Recommended Colleges")
+
+                st.header("Recommended Colleges")
                 for college in results:
                     display_college_card(college)
-                
-                # Create and display similarity plot
+
                 similarities = [college['similarity_score'] for college in results]
-                college_names = [college['college_name'][:30] + "..." if len(college['college_name']) > 30 
-                               else college['college_name'] for college in results]
-                
+                college_names = [
+                    college['college_name'][:30] + "..." if len(college['college_name']) > 30 
+                    else college['college_name']
+                    for college in results
+                ]
+
                 # st.header("📊 Similarity Analysis")
                 # fig = create_similarity_plot(similarities, college_names)
                 # st.plotly_chart(fig, use_container_width=True)
-                
-                # Additional insights
+
                 st.header("🔍 Search Insights")
                 col1, col2, col3 = st.columns(3)
-                
+
                 with col1:
-                    avg_rating = np.mean([college['rating_value'] for college in results])
+                    avg_rating = np.mean([
+                        float(college['rating_value']) 
+                        for college in results 
+                        if isinstance(college['rating_value'], (int, float, str)) and str(college['rating_value']).replace('.', '', 1).isdigit()
+                    ])
                     st.metric("Average Rating", f"{avg_rating:.2f}/5.0")
-                
+
                 with col2:
                     avg_similarity = np.mean(similarities)
                     st.metric("Average Similarity", f"{avg_similarity:.3f}")
-                
+
                 with col3:
                     total_courses = sum(len(college.get('courses', [])) for college in results)
                     st.metric("Total Courses", total_courses)
+
             else:
                 st.warning("No colleges found matching your criteria. Try a different query!")
-    
-    # Instructions
-    with st.expander("ℹ️ How to use this chatbot"):
-        st.markdown("""
-        **This chatbot can help you find colleges based on:**
-        - 🏙️ **City/Location**: "colleges in Delhi", "Mumbai colleges"
-        - ⭐ **Ratings**: "good ratings", "4 star colleges"
-        - 📚 **Courses**: "medical courses", "engineering", "IT technology"
-        - 💰 **Fee Structure**: "fee under 50000", "affordable colleges"
-        - ✅ **Approvals**: "MCI approved", "UGC approved"
-        
-        **Sample queries:**
-        - "Can you recommend colleges in Delhi with good ratings that offer medical courses?"
-        - "What are the best-rated colleges for computer science?"
-        - "List colleges for IT courses with fee under 50000"
-        """)
+
 
 if __name__ == "__main__":
     main()
