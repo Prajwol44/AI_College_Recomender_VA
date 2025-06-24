@@ -10,6 +10,8 @@ import re
 from typing import List, Dict, Any, Union
 import os
 
+BASE_PATH = 'data/'
+
 # Initialize the sentence transformer model
 @st.cache_resource
 def load_model():
@@ -17,7 +19,7 @@ def load_model():
     # return SentenceTransformer("BAAI/bge-base-en-v1.5")
 
 @st.cache_data
-def load_college_data(file_path='data/final_college_dataset.json'):
+def load_college_data(file_path= BASE_PATH + 'final_college_dataset.json'):
     """Load college data from JSON file and convert ratings to floats"""
     try:
         
